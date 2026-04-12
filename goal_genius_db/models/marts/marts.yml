@@ -1,0 +1,97 @@
+version: 2
+
+sources:
+  - name: marts
+    tables:
+      - name: dim_leagues
+        description: "Dimension table for leagues"
+        columns:
+          - name: league_id
+            description: "Surrogate key for the league"
+            data_test:
+              - not_null
+              - unique
+          - name: league_name
+            description: "The name of the league"
+          - name: country_id
+            description: "Foreign key to the country dimension"
+
+      - name: dim_teams
+        description: "Dimension table for teams"
+        columns:
+          - name: team_id
+            description: "Surrogate key for the team"
+            data_test:
+              - not_null
+              - unique
+          - name: team_name
+            description: "The name of the team"
+          - name: league_id
+            description: "Foreign key to the league dimension"
+
+      - name: fact_match_predictions
+        description: "Fact table for weekly match probabilities"
+        columns:
+          - name: match_id
+            description: "Unique identifier for the match"
+          - name: league_id
+            description: "Foreign key to the league dimension"
+            data_test:
+              - not_null
+          - name: home_team_id
+            description: "Foreign key to the home team dimension"
+            data_test:
+              - not_null
+          - name: away_team_id
+            description: "Foreign key to the away team dimension"
+            data_test:
+              - not_null
+          - name: match_date
+            description: "Date of the match"
+          - name: probability_home_win
+            description: "Probability of home team winning"
+          - name: probability_draw
+            description: "Probability of a draw"
+          - name: probability_away_win
+            description: "Probability of away team winning"
+          - name: created_at
+            description: "Timestamp when the record was created"
+
+      - name: fact_match_results
+        description: "Fact table for weekly match results"
+        columns:
+          - name: match_id
+            description: "Unique identifier for the match"
+          - name: league_id
+            description: "Foreign key to the league dimension"
+            data_test:
+              - not_null
+          - name: home_team_id
+            description: "Foreign key to the home team dimension"
+            data_test:
+              - not_null
+          - name: away_team_id
+            description: "Foreign key to the away team dimension"
+            data_test:
+              - not_null
+          - name: match_date
+            description: "Date of the match"
+          - name: goals_home
+            description: "Number of goals scored by the home team"
+          - name: goals_away
+            description: "Number of goals scored by the away team"
+          - name: match_status
+            description: "Status of the match (e.g., Full Time, Postponed)"
+          - name: created_at
+            description: "Timestamp when the record was created"
+
+      - name: dim_countries
+        description: "Dimension table for countries"
+        columns:
+          - name: country_id
+            description: "Surrogate key for the country"
+            data_test:
+              - not_null
+              - unique
+          - name: country_name
+            description: "The name of the country"

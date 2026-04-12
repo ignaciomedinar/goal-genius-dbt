@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw           # matches your physical schema
+    tables:
+      - name: raw_results
+      - name: raw_weekly_odds

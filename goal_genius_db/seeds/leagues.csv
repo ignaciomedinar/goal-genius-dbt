@@ -1,0 +1,342 @@
+﻿league_id,league_espn,league_odds,country
+1,AFC Asian Cup,,Asia
+2,AFC Asian Cup Qualifiers,,Asia
+3,AFC Champions League Elite,,Asia
+4,AFC Champions League Two,,Asia
+5,Africa Cup of Nations,,Africa
+6,Africa Cup of Nations Qualifying,,Africa
+7,African Nations Championship,,Africa
+8,African Nations Championship Qualifying,,Africa
+9,Amistoso,,World
+10,Amistosos internacionales,,World
+11,Arabian Gulf Cup,,Asia
+12,Argentine Copa de la Liga Profesional,,Argentina
+289,Swedish Allsvenskan,Allsvenskan - Sweden,Sweden
+14,Argentine Nacional B,,Argentina
+15,Argentine Primera B,,Argentina
+16,Argentine Primera C,,Argentina
+17,Argentine Primera D,,Argentina
+18,Argentine Supercopa,,Argentina
+19,Argentine Supercopa Internacional,,Argentina
+20,Argentine Trofeo de Campeones,,Argentina
+21,Arnold Clark Cup,,World
+22,ASEAN Championship,,Asia
+23,Australian A-League Men,,Australia
+24,Australian A-League Women,,Australia
+25,Austrian Bundesliga,Austrian Football Bundesliga,Austria
+290,Swedish Allsvenskan Promotion/Relegation Playoffs,,Sweden
+26,Belgian Pro League,Belgium First Div,Belgium
+28,Bolivian Liga Profesional,,Bolivia
+29,Bolivian Liga Profesional Promotion/Relegation Playoffs,,Bolivia
+30,Brazilian Campeonato Carioca,,Brazil
+31,Brazilian Campeonato Gaucho,,Brazil
+32,Brazilian Campeonato Mineiro,,Brazil
+33,Brazilian Campeonato Paulista,,Brazil
+197,Liga Profesional de Bélgica,,Belgium
+34,Brazilian Serie A,Brazil Série A,Brazil
+36,Brazilian Serie C,,Brazil
+37,Brazilian Supercopa Rei,,Brazil
+38,Bundesliga 2 de Alemania,,Germany
+39,CAF Champions League,,Africa
+40,CAF Confederation Cup,,Africa
+41,Campeón de Campeones MX,,Mexico
+42,Campeonato Brasileño de Serie A,,Brazil
+43,Campeonato Carioca,,Brazil
+44,Campeonato de fútbol ASEAN,,Asia
+45,Campeonato europeo sub-19,,Europe
+46,Campeonato Europeo Sub-21,,Europe
+47,Campeonato Gaúcho,,Brazil
+48,Campeonato Mundial de Clubes de la FIFA,,World
+49,Campeonato Paulista,,Brazil
+50,Campeonato Sub 20 Brasil,,Brazil
+51,Campeonato Uruguayo,,Uruguay
+52,Campeones Cup,,Concacaf
+53,Champions League de la AFC,,Asia
+54,Championship de Inglaterra,,England
+35,Brazilian Serie B,Brazil Série B,Brazil
+56,Chilean Supercopa,,Chile
+57,Chinese Super League,,China
+58,Club Friendly,,World
+59,Colombian Primera A,,Colombia
+60,Colombian Primera B,,Colombia
+61,Colombian Superliga,,Colombia
+62,Concacaf Central American Cup,,America
+63,Concacaf Champions Cup,,America
+64,Concacaf Gold Cup,,America
+65,Concacaf Gold Cup Qualifying,,America
+66,CONCACAF Liga Campeones,,Concacaf
+67,Concacaf Nations League,,Concacaf
+68,Concacaf W Champions Cup,,America
+69,Concacaf W Championship,,Concacaf
+70,Concacaf W Gold Cup,,Concacaf
+71,CONMEBOL Libertadores,Copa Libertadores,Conmebol
+72,CONMEBOL Pre-Olympic Tournament,,America
+73,CONMEBOL Recopa,,America
+74,CONMEBOL Recopa Sudamericana,,Conmebol
+75,CONMEBOL Sudamericana,Copa Sudamericana,Conmebol
+76,CONMEBOL-UEFA Club Challenge,,America
+77,CONMEBOL-UEFA U20 Intercontinental Cup,,America
+78,CONMEBOL-UEFA Women's Cup of Champions,,America
+79,Copa Africana de Naciones,,Africa
+80,Copa América,,America
+81,Copa América Femenina,,America
+82,Copa Argentina,,Argentina
+83,Copa Bolivia,,Bolivia
+84,Copa Chile,,Chile
+85,Copa Colombia,,Colombia
+86,Copa de Alemania,,Germany
+87,Copa de Francia,,France
+88,Copa de Holanda,,Netherlands
+89,Copa de la Liga de Inglaterra,,England
+90,Copa de Naciones de Asia,,Asia
+91,Copa del Rey,,Spain
+92,Copa do Brasil,,Brazil
+93,Copa Do Brazil,,Brazil
+94,Copa do Nordeste,,Brazil
+95,Copa FA Inglesa,,England
+96,Copa Mundial Femenina de la FIFA,,World
+97,Copa Mundial Sub-17,,World
+98,Copa Mundial Sub-20,,World
+99,Copa Oro,,Concacaf
+100,Coppa Italia,,Italy
+101,COSAFA Cup,,Africa
+102,Costa Rican Primera Division,,Costa Rica
+103,Coupe de France,,France
+104,Danish Superliga,Denmark Superliga,Denmark
+105,DFB Ligapokal de Alemania,,Germany
+106,División 1 de Escocia,,Scotland
+107,Dutch Eredivisie,Dutch Eredivisie,Netherlands
+108,Dutch Eredivisie Cup,,Netherlands
+109,Dutch Eredivisie Promotion/Relegation Playoffs,,Netherlands
+110,Dutch Johan Cruyff Shield,,Netherlands
+111,Dutch Keuken Kampioen Divisie,,Netherlands
+112,Dutch KNVB Beker,,Netherlands
+113,Dutch KNVB Beker Vrouwen,,Netherlands
+114,Dutch Tweede Divisie,,Netherlands
+115,Dutch Tweede Divisie Promotion/Relegation Playoffs,,Netherlands
+116,Dutch Vrouwen Eredivisie,,Netherlands
+117,Ecuadorian Supercopa,,Ecuador
+118,Eerste Divisie de Holanda,,Netherlands
+119,Eliminatorias CONCACAF,,Concacaf
+120,Eliminatorias CONMEBOL,,Conmebol
+121,Eliminatorias de África,,Africa
+122,Eliminatorias de Asia,,Asia
+123,Eliminatorias Eurocopa,,Europe
+124,Emirates Cup,,United Arab Emirates
+125,English Carabao Cup,,England
+126,English EFL Trophy,,England
+127,English FA Community Shield,,England
+128,English FA Cup,,England
+129,English League Championship,Championship,England
+130,English League One,League 1,England
+131,English League Two,League 2,England
+132,English National League,,England
+264,Serie B Brasil,,Brazil
+134,English Women's FA Cup,,England
+135,English Women's Super League,,England
+136,Eredivisie de Holanda,,Netherlands
+137,Eurocopa,,Europe
+138,FIFA Club World Cup,,World
+139,FIFA Intercontinental Cup,,World
+140,FIFA Under-17 Women's World Cup,,World
+141,FIFA Under-17 World Cup,,World
+142,FIFA Under-20 World Cup,,World
+143,FIFA Women's World Cup,,World
+144,FIFA Women's World Cup Qualifying - Playoff Tournament,,World
+145,FIFA World Cup Qualifying - AFC,,Asia
+146,FIFA World Cup Qualifying - CAF,,Africa
+147,FIFA World Cup Qualifying - Concacaf,,America
+148,FIFA World Cup Qualifying - CONMEBOL,FIFA World Cup Qualifiers - South America,America
+149,FIFA World Cup Qualifying - OFC,,Oceania
+150,FIFA World Cup Qualifying - UEFA,FIFA World Cup Qualifiers - Europe,Europe
+158,German Bundesliga,Bundesliga - Germany,Germany
+152,French Ligue 1 Promotion/Relegation Playoffs,,France
+153,French Ligue 2,,France
+154,French Première Ligue,,France
+155,French Tournoi de France,,France
+156,French Trophee des Champions,,France
+157,German 2. Bundesliga,,Germany
+160,German Bundesliga Promotion/Relegation Playoff,,Germany
+159,German Bundesliga 2 Promotion/Relegation Playoffs,,Germany
+219,Norwegian Eliteserien,Eliteserien - Norway,Norway
+161,German Cup,,Germany
+162,German DFL-Supercup,,Germany
+163,German Supercup,,Germany
+164,Ghanaian Premier League,,Ghana
+220,Norwegian Eliteserien Promotion/Relegation Playoffs,,Norway
+166,Guatemalan Liga Nacional,,Guatemala
+167,Honduran Liga Nacional,,Honduras
+168,Indian I-League,,India
+169,Indian Super League,,India
+170,Indonesian Liga 1,,Indonesia
+171,Indonesian Super League,,Indonesia
+172,Intercontinental Cup (India),,India
+173,International Friendly,,World
+133,English Premier League,EPL,England
+231,Premier League de Inglaterra,,England
+176,Israeli Premier League,,Israel
+184,LALIGA,,Spain
+276,Spanish LALIGA,La Liga - Spain,Spain
+179,Italian Supercoppa,,Italy
+180,J League de Japón,,Japan
+181,Japanese J.League,,Japan
+182,Japanese J.League World Challenge,,Japan
+183,Kenyan Premier League,,Kenya
+262,Segunda División de España,La Liga 2 - Spain,Spain
+185,Leagues Cup,Leagues Cup,World
+186,Liga AUF Uruguaya,,Uruguay
+187,Liga de Expansión MX,,Mexico
+188,Liga de las Naciones de la UEFA,,Europe
+189,Liga de Paraguay,,Paraguay
+190,Liga MX,Liga MX,Mexico
+191,Liga Nacional de Guatemala,,Guatemala
+277,Spanish LALIGA 2,,Spain
+193,Liga Premier de Rusia,,Russia
+194,Liga Premier de Sudáfrica,,South Africa
+195,Liga Profesional Boliviana,,Bolivia
+174,Irish Premier Division,League of Ireland,Ireland
+175,Irish Premier Division Promotion/Relegation Playoffs,,Ireland
+198,Liga UAF Uruguaya,,Uruguay
+199,Liga1 de Perú,,Peru
+200,LigaPro de Ecuador,,Ecuador
+201,LigaPro Ecuador,,Ecuador
+151,French Ligue 1,Ligue 1 - France,France
+203,Ligue 2 de Francia,,France
+204,Major League Soccer de EE.UU.,,USA
+205,Malaysian Super League,,Malaysia
+206,Maltese Premier League,,Malta
+207,Maurice Revello Tournament,,World
+208,Men's Olympic Soccer Tournament,,World
+209,Mexican Campeon de Campeones,,Mexico
+210,Mexican Liga BBVA MX,,Mexico
+211,Mexican Liga de Expansión MX,,Mexico
+212,MLS,MLS,USA
+213,NCAA Men's Soccer,,USA
+214,NCAA Women's Soccer,,USA
+215,Nigerian Professional League,,Nigeria
+216,Northern Irish Premiership,,Northern Ireland
+217,Northern Irish Premiership Promotion/Relegation Playoffs,,Northern Ireland
+218,Northern Super League,,Canada
+202,Ligue 1 de Francia,,France
+230,Premier League de Escocia,,Scotland
+221,NWSL,,USA
+222,NWSL Challenge Cup,,USA
+223,NWSL x Liga MX Femenil Summer Cup,,America
+224,Paraguayan Primera División,,Paraguay
+225,Paraguayan Supercopa,,Paraguay
+226,Peruvian Liga 1,,Peru
+227,Pinatar Cup,,World
+260,Scottish Premiership,Premiership - Scotland,Scotland
+261,Scottish Premiership Promotion/Relegation Playoffs,,Scotland
+192,Liga Portugal,,Portugal
+228,Portuguese Primeira Liga,Primeira Liga - Portugal,Portugal
+232,Primera B Colombia,,Colombia
+233,Primera B de Argentina,,Argentina
+234,Primera C de Argentina,,Argentina
+235,Primera D de Argentina,,Argentina
+236,Primera División de Costa Rica,,Costa Rica
+237,Primera División de El Salvador,,El Salvador
+238,Primera División de Honduras,,Honduras
+239,Primera División de Venezuela,,Venezuela
+240,Primera División Sudáfrica,,South Africa
+229,Portuguese Primeira Liga Promotion/Relegation Playoffs,,Portugal
+13,Argentine Liga Profesional de Fútbol,Primera División - Argentina,Argentina
+243,Romanian Liga 1,,Romania
+244,Romanian Liga 1 Promotion/Relegation Playoffs,,Romania
+245,Russian Premier League,,Russia
+246,Russian Premier League Relegation/Promotion Play-offs,,Russia
+247,SAFF Championship,,Asia
+248,Salvadoran Primera Division,,El Salvador
+249,Saudi King's Cup,,Saudi Arabia
+250,Saudi Pro League,,Saudi Arabia
+251,Scottish Championship,,Scotland
+252,Scottish Championship Promotion/Relegation Playoffs,,Scotland
+253,Scottish Cup,,Scotland
+254,Scottish League Challenge Cup,,Scotland
+255,Scottish League Cup,,Scotland
+256,Scottish League One,,Scotland
+257,Scottish League One Promotion/Relegation Playoffs,,Scotland
+258,Scottish League Two,,Scotland
+259,Scottish League Two Promotion/Relegation Playoffs,,Scotland
+196,Liga Profesional de Argentina,,Argentina
+242,Primera Nacional de Argentina,,Argentina
+55,Chilean Primera División,Primera División - Chile,Chile
+241,Primera División: Liga Chilena,,Chile
+177,Italian Serie A,Serie A - Italy,Italy
+263,Serie A de Italia,,Italy
+266,SheBelieves Cup,,World
+267,Singaporean Premier League,,Singapore
+268,South African First Division,,South Africa
+269,South African MTN 8 Cup,,South Africa
+270,South African Nedbank Cup,,South Africa
+271,South African Premier Division,,South Africa
+272,South African Premier Division Promotion/Relegation Playoffs,,South Africa
+273,South African Premiership,,South Africa
+274,Spanish Copa de la Reina,,Spain
+275,Spanish Copa del Rey,,Spain
+178,Italian Serie B,Serie B - Italy,Italy
+265,Serie B de Italia,,Italy
+278,Spanish Liga F,,Spain
+279,Spanish Supercopa,,Spain
+280,Sudamericano Sub-20,,Conmebol
+281,Super Copa Francesa,,France
+282,Super Copa UEFA,,Europe
+165,Greek Super League,Super League - Greece,Greece
+283,Super League de Grecia,,Greece
+285,Supercopa de Italia,,Italy
+286,Supercopa Española,,Spain
+287,Superliga China,,China
+288,Superliga de Colombia,,Colombia
+291,Swiss Super League,Swiss Superleague,Switzerland
+292,Swiss Super League Promotion/Relegation Playoffs,,Switzerland
+284,Super Lig de Turquía,,Turkey
+298,Turkish Super Lig,Turkey Super League,Turkey
+293,Taca de Portugal,,Portugal
+294,Thai League 1,,Thailand
+295,Torneo olímpico femenino,,World
+296,Torneo olímpico masculino,,World
+297,Trofeo Joan Gamper,,World
+27,Belgian Pro League Promotion/Relegation Playoffs,,Belgium
+299,U.S. Open Cup,,USA
+300,UEFA Champions League,UEFA Champions League,Europe
+301,UEFA Champions League femenina,,Europe
+302,UEFA Champions League Qualifying,,Europe
+303,UEFA Conference League,,Europe
+304,UEFA Conference League Qualifying,,Europe
+305,UEFA Europa League,,Europe
+306,UEFA Europa League Qualifying,,Europe
+307,UEFA European Championship,,Europe
+308,UEFA European Championship Qualifying,,Europe
+309,UEFA European Under-19 Championship,,Europe
+310,UEFA European Under-21 Championship,,Europe
+311,UEFA European Under-21 Championship Qualifying,,Europe
+312,UEFA Nations League,,Europe
+313,UEFA Super Cup,,Europe
+314,UEFA Women's Champions League,,Europe
+315,UEFA Women's European Championship,,Europe
+316,UEFA Women's Nations League,,Europe
+317,Ugandan Premier League,,Uganda
+318,Under-21 International Friendly,,World
+319,Uruguayan Primera Division,,Uruguay
+320,USL Championship,,USA
+321,USL Jägermeister Cup,,USA
+322,USL League One,,USA
+323,Venezuelan Primera División,,Venezuela
+324,Welsh Premier League,,Wales
+325,Women's Africa Cup of Nations,,Africa
+326,Women's International Friendly,,World
+327,Women's Olympic Soccer Tournament,,World
+328,Zambian Super League,,Zambia
+329,Zimbabwean Premier Soccer League,,Zimbabwe
+330,USL Super League,,USA
+331,CAF Confederations Cup (Transitional),,Africa
+332,Club Friendly 2,,World
+333,Cypriot First Division,,Cyprus
+334,NWSL X Liga MX Femenil Summer Cup,,Concacaf
+335,English Women's League Cup,,England
+336,FIFA Women's Champions Cup,,World
+337,UEFA Women's Europa Cup,,Europe
+338,AFC Women's Asian Cup,,Asia
+339,FIFA Women's World Cup Qualifying - UEFA,,Europe
+340,CONMEBOL-UEFA Cup of Champions,,America
+341,FIFA World Cup Qualifying - Playoff Tournament,,World

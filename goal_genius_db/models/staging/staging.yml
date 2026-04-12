@@ -1,0 +1,41 @@
+version: 2
+
+sources:
+  - name: staging
+    tables:
+      - name: stg_results
+        description: "The results for matches, it also has the next 7 days matches with no results"
+        columns:
+          - name: league
+            description: "The league name"
+          - name: date_key
+            description: "The date of the match"
+          - name: home
+            description: "The home team name"
+          - name: away
+            description: "The away team name"
+          - name: home_goals
+            description: "The goals scored by the home team"
+          - name: away_goals
+            description: "The goals scored by the away team"
+          - name: status
+            description: "The status of the match (e.g., Match Finished, Not Started)"
+      - name: stg_weekly_odds
+        description: "The weekly odds for matches from the API"
+        columns:
+          - name: league
+            description: "The league name"
+          - name: date
+            description: "The date of the match"
+          - name: home_team
+            description: "The home team name"
+          - name: away_team
+            description: "The away team name"
+          - name: bookmaker_name
+            description: "The bookmaker name"
+          - name: home_odds
+            description: "The odds for the home team to win"
+          - name: draw_odds
+            description: "The odds for a draw"
+          - name: away_odds
+            description: "The odds for the away team to win"

@@ -1,0 +1,23 @@
+# Secrets & environment
+.env
+.envrc
+
+# Python virtual environment
+.v/
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/
+*.log
+
+# dbt artifacts
+goal_genius_db/target/
+goal_genius_db/dbt_packages/
+
+# Large binaries / installers
+*.deb
+*.rpm
+*.exe
+*.dmg
