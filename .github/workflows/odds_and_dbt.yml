@@ -1,0 +1,38 @@
+name: Fetch Odds + dbt Run
+
+# Runs every Monday at 08:00 CET (= 07:00 UTC)
+on:
+  schedule:
+    - cron: "0 7 * * 1"     # Monday 07:00 UTC → Monday 08:00 CET
+  workflow_dispatch:         # allow manual trigger from GitHub UI
+
+env:
+  PG_URL: ${{ secrets.PG_URL }}
+  API_KEY: ${{ secrets.API_KEY }}
+
+jobs:
+  odds-and-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run api_weekly_odds.py
+        run: python goal_genius_db/scripts/api_weekly_odds.py
+
+      - name: Install dbt packages
+        working-directory: goal_genius_db
+        run: dbt deps
+
+      - name: dbt run
+        working-directory: goal_genius_db
+        run: dbt run

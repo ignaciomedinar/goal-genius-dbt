@@ -1,0 +1,43 @@
+name: Scrape Results + dbt Run
+
+# Runs every Monday, Thursday, Sunday at 00:10 CET (= 23:10 UTC prev. day)
+on:
+  schedule:
+    - cron: "10 23 * * 0"   # Sunday  23:10 UTC  → Monday    00:10 CET
+    - cron: "10 23 * * 3"   # Wednesday 23:10 UTC → Thursday  00:10 CET
+    - cron: "10 23 * * 6"   # Saturday  23:10 UTC → Sunday    00:10 CET
+  workflow_dispatch:         # allow manual trigger from GitHub UI
+
+env:
+  PG_URL: ${{ secrets.PG_URL }}
+  API_KEY: ${{ secrets.API_KEY }}
+
+jobs:
+  scrape-and-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Chrome
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scrape_results.py
+        run: python goal_genius_db/scripts/scrape_results.py
+
+      - name: Install dbt packages
+        working-directory: goal_genius_db
+        run: dbt deps
+
+      - name: dbt run
+        working-directory: goal_genius_db
+        run: dbt run
