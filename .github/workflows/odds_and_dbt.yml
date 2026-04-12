@@ -6,10 +6,6 @@ on:
     - cron: "0 7 * * 1"     # Monday 07:00 UTC → Monday 08:00 CET
   workflow_dispatch:         # allow manual trigger from GitHub UI
 
-env:
-  PG_URL: ${{ secrets.PG_URL }}
-  API_KEY: ${{ secrets.API_KEY }}
-
 jobs:
   odds-and-run:
     runs-on: ubuntu-latest
@@ -26,8 +22,29 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Parse PG_URL into individual env vars
+        run: |
+          python - <<'EOF'
+          import os, re, pathlib
+          url = os.environ["PG_URL"]
+          m = re.match(r"postgresql://([^:]+):([^@]+)@([^:]+):(\d+)/(.+)", url)
+          user, password, host, port, dbname = m.groups()
+          env_path = pathlib.Path(os.environ["GITHUB_ENV"])
+          with env_path.open("a") as f:
+              f.write(f"PG_USER={user}\n")
+              f.write(f"PG_PASSWORD={password}\n")
+              f.write(f"PG_HOST={host}\n")
+              f.write(f"PG_PORT={port}\n")
+              f.write(f"PG_DBNAME={dbname}\n")
+          EOF
+        env:
+          PG_URL: ${{ secrets.PG_URL }}
+
       - name: Run api_weekly_odds.py
         run: python goal_genius_db/scripts/api_weekly_odds.py
+        env:
+          PG_URL: ${{ secrets.PG_URL }}
+          API_KEY: ${{ secrets.API_KEY }}
 
       - name: Install dbt packages
         working-directory: goal_genius_db
