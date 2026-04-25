@@ -10,7 +10,7 @@ with base as (
         swo.*  -- bookmaker_name, league, home_team, away_team, match_date, home_odds, draw_odds, away_odds, etc.
     from {{ ref('stg_weekly_odds') }} swo
     {% if is_incremental() %}
-      where swo.match_date::date >= (
+      where swo.match_date::date > (
         select coalesce(max(match_date)::date, date '2000-01-01')
         from {{ this }}
       )
