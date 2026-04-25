@@ -54,6 +54,10 @@ jobs:
         working-directory: goal_genius_db
         run: dbt deps
 
+      - name: dbt seed
+        working-directory: goal_genius_db
+        run: dbt seed
+
       - name: dbt run
         working-directory: goal_genius_db
         run: dbt run
