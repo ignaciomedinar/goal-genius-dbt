@@ -30,17 +30,17 @@ jobs:
       - name: Parse PG_URL into individual env vars
         run: |
           python - <<'EOF'
-          import os, re, pathlib
+          import os, pathlib
+          from urllib.parse import urlparse
           url = os.environ["PG_URL"]
-          m = re.match(r"postgresql://([^:]+):([^@]+)@([^:]+):(\d+)/(.+)", url)
-          user, password, host, port, dbname = m.groups()
+          parsed = urlparse(url)
           env_path = pathlib.Path(os.environ["GITHUB_ENV"])
           with env_path.open("a") as f:
-              f.write(f"PG_USER={user}\n")
-              f.write(f"PG_PASSWORD={password}\n")
-              f.write(f"PG_HOST={host}\n")
-              f.write(f"PG_PORT={port}\n")
-              f.write(f"PG_DBNAME={dbname}\n")
+              f.write(f"PG_USER={parsed.username}\n")
+              f.write(f"PG_PASSWORD={parsed.password}\n")
+              f.write(f"PG_HOST={parsed.hostname}\n")
+              f.write(f"PG_PORT={parsed.port}\n")
+              f.write(f"PG_DBNAME={parsed.path.lstrip('/')}\n")
           EOF
         env:
           PG_URL: ${{ secrets.PG_URL }}
