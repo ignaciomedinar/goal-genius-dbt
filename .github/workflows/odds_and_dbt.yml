@@ -1,13 +1,13 @@
-name: Fetch Odds + dbt Run
+name: Fetch Odds
 
-# Runs every Monday at 08:00 CET (= 07:00 UTC)
+# Runs every Sunday at 22:00 UTC (= 23:00 CET), 1h before scrape_and_dbt at 23:10 UTC
 on:
   schedule:
-    - cron: "0 7 * * 1"     # Monday 07:00 UTC → Monday 08:00 CET
+    - cron: "0 22 * * 0"    # Sunday 22:00 UTC → 23:00 CET (1h before scrape_and_dbt)
   workflow_dispatch:         # allow manual trigger from GitHub UI
 
 jobs:
-  odds-and-run:
+  fetch-odds:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,17 +25,17 @@ jobs:
       - name: Parse PG_URL into individual env vars
         run: |
           python - <<'EOF'
-          import os, re, pathlib
+          import os, pathlib
+          from urllib.parse import urlparse
           url = os.environ["PG_URL"]
-          m = re.match(r"postgresql://([^:]+):([^@]+)@([^:]+):(\d+)/(.+)", url)
-          user, password, host, port, dbname = m.groups()
+          parsed = urlparse(url)
           env_path = pathlib.Path(os.environ["GITHUB_ENV"])
           with env_path.open("a") as f:
-              f.write(f"PG_USER={user}\n")
-              f.write(f"PG_PASSWORD={password}\n")
-              f.write(f"PG_HOST={host}\n")
-              f.write(f"PG_PORT={port}\n")
-              f.write(f"PG_DBNAME={dbname}\n")
+              f.write(f"PG_USER={parsed.username}\n")
+              f.write(f"PG_PASSWORD={parsed.password}\n")
+              f.write(f"PG_HOST={parsed.hostname}\n")
+              f.write(f"PG_PORT={parsed.port}\n")
+              f.write(f"PG_DBNAME={parsed.path.lstrip('/')}\n")
           EOF
         env:
           PG_URL: ${{ secrets.PG_URL }}
@@ -45,11 +45,3 @@ jobs:
         env:
           PG_URL: ${{ secrets.PG_URL }}
           API_KEY: ${{ secrets.API_KEY }}
-
-      - name: Install dbt packages
-        working-directory: goal_genius_db
-        run: dbt deps
-
-      - name: dbt run
-        working-directory: goal_genius_db
-        run: dbt run
