@@ -1,9 +1,9 @@
 name: Fetch Odds
 
-# Runs every Sunday at 22:00 UTC (= 23:00 CET), 1h before scrape_and_dbt at 23:10 UTC
+# Runs every Monday at 07:00 UTC (= 09:00 CET), 30min before scrape_and_dbt
 on:
   schedule:
-    - cron: "0 22 * * 0"    # Sunday 22:00 UTC → 23:00 CET (1h before scrape_and_dbt)
+    - cron: "0 7 * * 1"     # Monday 07:00 UTC → 09:00 CET
   workflow_dispatch:         # allow manual trigger from GitHub UI
 
 jobs:

@@ -1,11 +1,11 @@
 name: Scrape Results + dbt Run
 
-# Runs every Monday, Thursday, Sunday at 00:10 CET (= 23:10 UTC prev. day)
+# Runs every Monday, Wednesday, Saturday at 07:30 UTC (= 09:30 CET)
 on:
   schedule:
-    - cron: "10 23 * * 0"   # Sunday  23:10 UTC  → Monday    00:10 CET
-    - cron: "10 23 * * 3"   # Wednesday 23:10 UTC → Thursday  00:10 CET
-    - cron: "10 23 * * 6"   # Saturday  23:10 UTC → Sunday    00:10 CET
+    - cron: "30 7 * * 1"    # Monday    07:30 UTC → 09:30 CET (30min after fetch-odds)
+    - cron: "30 7 * * 3"    # Wednesday 07:30 UTC → 09:30 CET
+    - cron: "30 7 * * 6"    # Saturday  07:30 UTC → 09:30 CET
   workflow_dispatch:         # allow manual trigger from GitHub UI
 
 jobs:
