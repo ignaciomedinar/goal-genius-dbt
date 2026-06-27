@@ -5,6 +5,9 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
 from webdriver_manager.chrome import ChromeDriverManager
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
@@ -30,6 +33,15 @@ def scrape_day(date: datetime):
 
     driver = get_driver()
     driver.get(url)
+
+    try:
+        # ESPN's scoreboard renders match cards client-side after the initial
+        # page load, so give the JS a chance to populate them before reading.
+        WebDriverWait(driver, 15).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "section.Card.gameModules"))
+        )
+    except TimeoutException:
+        pass  # genuinely no matches scheduled that day
 
     sections = driver.find_elements(By.CSS_SELECTOR, "section.Card.gameModules")
     matches = []
@@ -157,6 +169,11 @@ def update_raw_results():
         all_matches.extend(scrape_day(d))
 
     df = pd.DataFrame(all_matches)
+    if df.empty:
+        raise RuntimeError(
+            f"Scraped 0 matches across the entire window {start_date} -> {end_date}; "
+            "ESPN page likely failed to render or is blocking the scraper. Aborting before upsert."
+        )
     df["date_time"] = df["date_time"].dt.tz_localize(None)
     df["date_key"] = df["date_time"].dt.strftime("%Y%m%d").astype(int)
     df = df.replace({np.nan: None})
