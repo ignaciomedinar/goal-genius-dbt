@@ -6,6 +6,9 @@ on:
     - cron: "0 7 * * 1"     # Monday 07:00 UTC → 09:00 CET
   workflow_dispatch:         # allow manual trigger from GitHub UI
 
+permissions:
+  contents: write            # needed to push updated seed CSVs back to main
+
 jobs:
   fetch-odds:
     runs-on: ubuntu-latest
@@ -45,3 +48,20 @@ jobs:
         env:
           PG_URL: ${{ secrets.PG_URL }}
           API_KEY: ${{ secrets.API_KEY }}
+
+      - name: Update league/team seed mappings
+        run: python goal_genius_db/scripts/update_seed_mappings.py
+        env:
+          PG_URL: ${{ secrets.PG_URL }}
+
+      - name: Commit updated seed mappings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add goal_genius_db/seeds/leagues.csv goal_genius_db/seeds/team_names.csv
+          if git diff --cached --quiet; then
+            echo "No seed changes to commit"
+          else
+            git commit -m "chore: update league/team seed mappings from weekly odds fetch"
+            git push
+          fi

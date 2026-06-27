@@ -24,7 +24,7 @@
 24,2 de Mayo,Paraguayan Primera División,
 23,2 de Mayo,CONMEBOL Sudamericana,
 25,AaB,Danish Superliga,
-26,Aalesund,Norwegian Eliteserien,
+26,Aalesund,Norwegian Eliteserien,Aalesund
 27,ABB,Bolivian Liga Profesional,
 28,ABB,Copa Bolivia,
 32,ABC,Copa do Brasil,
@@ -63,7 +63,7 @@
 48,Academia Cantolao,Peruvian Liga 1,
 50,Academia Puerto Cabello,CONMEBOL Libertadores,
 49,Academia Puerto Cabello,Venezuelan Primera División,
-51,Academia Puerto Cabello,CONMEBOL Sudamericana,
+51,Academia Puerto Cabello,CONMEBOL Sudamericana,Puerto Cabello
 52,Academica de Coimbra,Taca de Portugal,
 53,Académica do Lobito,CAF Confederation Cup,
 54,Académie SOAR,CAF Confederation Cup,
@@ -298,7 +298,7 @@
 218,Alavés,Spanish LALIGA 2,Alavés
 223,Albacete,Spanish LALIGA 2,Albacete
 224,Albacete,Spanish Copa del Rey,Albacete
-229,Albania,FIFA World Cup Qualifying - UEFA,
+229,Albania,FIFA World Cup Qualifying - UEFA,Albania
 227,Albania,UEFA Women's Nations League,
 226,Albania,International Friendly,
 228,Albania,UEFA European Championship Qualifying,
@@ -330,7 +330,7 @@
 265,Algeria,FIFA World Cup Qualifying - CAF,
 266,Algeria,African Nations Championship,
 267,Algeria,Africa Cup of Nations Qualifying,
-268,Algeria,Africa Cup of Nations,
+268,Algeria,Africa Cup of Nations,Algeria
 270,Algeria,African Nations Championship Qualifying,
 264,Algeria,Women's Africa Cup of Nations,
 269,Algeria,International Friendly,
@@ -345,7 +345,7 @@
 291,Alianza FC,Concacaf Champions Cup,
 285,Alianza FC,CONMEBOL Sudamericana,
 292,Alianza FC Women,Concacaf W Champions Cup,
-295,Alianza Lima,CONMEBOL Libertadores,
+295,Alianza Lima,CONMEBOL Libertadores,Alianza Lima
 293,Alianza Lima,Peruvian Liga 1,
 294,Alianza Lima,CONMEBOL Sudamericana,
 296,Alianza Universidad,Peruvian Liga 1,
@@ -385,11 +385,11 @@
 371,Altrincham,English National League,
 372,Altyn Asyr,AFC Champions League Two,
 373,Alvarado (Mar del Plata),Argentine Nacional B,
-376,Alverca,Portuguese Primeira Liga,
+376,Alverca,Portuguese Primeira Liga,Alverca
 375,Alverca,Club Friendly,
 374,Alverca,Taca de Portugal,
 8315,Al-Wahda,AFC Champions League Elite,
-382,Always Ready,CONMEBOL Libertadores,
+382,Always Ready,CONMEBOL Libertadores,Club Always Ready
 381,Always Ready,Bolivian Liga Profesional,
 383,Always Ready,CONMEBOL Sudamericana,
 380,Always Ready,Copa Bolivia,
@@ -412,7 +412,7 @@
 404,América,Club Friendly,América
 399,América,FIFA Club World Cup,América
 405,América de Cali,Colombian Primera A,
-407,América de Cali,CONMEBOL Sudamericana,
+407,América de Cali,CONMEBOL Sudamericana,América de Cali
 406,América de Cali,Copa Colombia,
 413,América Mineiro,Brazilian Serie B,
 411,América-MG,Brazilian Serie B,América Mineiro
@@ -454,7 +454,7 @@
 443,Angers,French Ligue 2,Angers
 444,Angers,French Ligue 1,Angers
 446,Angola,COSAFA Cup,
-450,Angola,Africa Cup of Nations,
+450,Angola,Africa Cup of Nations,Angola
 449,Angola,Africa Cup of Nations Qualifying,
 448,Angola,International Friendly,
 452,Angola,African Nations Championship,
@@ -521,7 +521,7 @@
 510,Argentina,Women's International Friendly,
 511,Argentina,FIFA Women's World Cup,
 507,Argentina,Copa América,
-513,Argentina,FIFA World Cup Qualifying - CONMEBOL,
+513,Argentina,FIFA World Cup Qualifying - CONMEBOL,Argentina
 514,Argentina U17,FIFA Under-17 World Cup,
 515,Argentina U20,FIFA Under-20 World Cup,
 517,Argentina U23,CONMEBOL Pre-Olympic Tournament,
@@ -555,7 +555,7 @@
 543,Armenia,International Friendly,
 546,Armenia,UEFA European Championship Qualifying,
 542,Armenia,UEFA Nations League,
-545,Armenia,FIFA World Cup Qualifying - UEFA,
+545,Armenia,FIFA World Cup Qualifying - UEFA,Armenia
 547,Armenia U21,UEFA European Under-21 Championship Qualifying,
 548,Armenia U21,Under-21 International Friendly,
 549,Arminia Bielefeld,German Cup,Arminia Bielefeld
@@ -783,7 +783,7 @@
 767,Austria,UEFA Women's Nations League,
 771,Austria,Women's International Friendly,
 768,Austria,UEFA European Championship Qualifying,
-770,Austria,FIFA World Cup Qualifying - UEFA,
+770,Austria,FIFA World Cup Qualifying - UEFA,Austria
 766,Austria,International Friendly,
 765,Austria,UEFA Nations League,
 772,Austria Lustenau,Austrian Bundesliga,
@@ -821,7 +821,7 @@
 806,AZ Alkmaar,Dutch KNVB Beker Vrouwen,AZ Alkmaar
 803,AZ Alkmaar,Dutch KNVB Beker,AZ Alkmaar
 805,AZ Alkmaar,UEFA Conference League,AZ Alkmaar
-812,Azerbaijan,FIFA World Cup Qualifying - UEFA,
+812,Azerbaijan,FIFA World Cup Qualifying - UEFA,Azerbaijan
 810,Azerbaijan,UEFA European Championship Qualifying,
 809,Azerbaijan,UEFA Women's Nations League,
 808,Azerbaijan,Women's International Friendly,
@@ -905,7 +905,7 @@
 888,Barcelona BA,Copa do Brasil,
 889,Barcelona Copiapó,Copa Chile,
 890,Barcelona RO,Copa do Brasil,
-891,Barcelona SC,CONMEBOL Libertadores,
+891,Barcelona SC,CONMEBOL Libertadores,Barcelona SC
 893,Barcelona SC,CONMEBOL Sudamericana,
 892,Barcelona SC,LigaPro Ecuador,
 894,Barcelona U19,CONMEBOL-UEFA U20 Intercontinental Cup,
@@ -914,7 +914,7 @@
 897,Barito Putera,Indonesian Liga 1,
 898,Barnechea,Copa Chile,
 899,Barnet,English National League,
-901,Barnet,English League Two,
+901,Barnet,English League Two,Barnet
 902,Barnet,English Carabao Cup,
 900,Barnet,Club Friendly,
 904,Barnet,English FA Cup,
@@ -976,7 +976,7 @@
 960,Beitar Jerusalem,UEFA Conference League Qualifying,
 959,Beitar Jerusalem,Israeli Premier League,
 961,Beith,Scottish Cup,
-967,Belarus,FIFA World Cup Qualifying - UEFA,
+967,Belarus,FIFA World Cup Qualifying - UEFA,Belarus
 966,Belarus,International Friendly,
 964,Belarus,UEFA European Championship Qualifying,
 963,Belarus,UEFA Women's Nations League,
@@ -1097,7 +1097,7 @@
 1078,Blacks Power,Ugandan Premier League,
 1080,Blooming,CONMEBOL Libertadores,
 1082,Blooming,Bolivian Liga Profesional,
-1079,Blooming,CONMEBOL Sudamericana,
+1079,Blooming,CONMEBOL Sudamericana,Blooming
 1081,Blooming,Copa Bolivia,
 1083,Bluefield State,NCAA Women's Soccer,
 1084,Bnei Sakhnin,Israeli Premier League,
@@ -1132,11 +1132,11 @@
 1113,Boise State,NCAA Women's Soccer,
 1114,Boldmere St. Michael's,English Women's FA Cup,
 1118,Bolívar,Bolivian Liga Profesional,
-1116,Bolívar,CONMEBOL Libertadores,
-1117,Bolívar,CONMEBOL Sudamericana,
+1116,Bolívar,CONMEBOL Libertadores,Club Bolívar
+1117,Bolívar,CONMEBOL Sudamericana,Club Bolívar
 1115,Bolívar,Copa Bolivia,
 1120,Bolivia,Women's International Friendly,
-1119,Bolivia,FIFA World Cup Qualifying - CONMEBOL,
+1119,Bolivia,FIFA World Cup Qualifying - CONMEBOL,Bolivia
 1122,Bolivia,International Friendly,
 1121,Bolivia,Copa América Femenina,
 1123,Bolivia,Copa América,
@@ -1185,7 +1185,7 @@
 1165,Bosnia and Herzegovina,International Friendly,
 1169,Bosnia and Herzegovina,Women's International Friendly,
 1164,Bosnia and Herzegovina,UEFA Nations League,
-1166,Bosnia and Herzegovina,FIFA World Cup Qualifying - UEFA,
+1166,Bosnia and Herzegovina,FIFA World Cup Qualifying - UEFA,Bosnia & Herzegovina
 1168,Bosnia and Herzegovina,UEFA Women's Nations League,
 1171,Bosnia and Herzegovina U21,Under-21 International Friendly,
 1170,Bosnia and Herzegovina U21,UEFA European Under-21 Championship Qualifying,
@@ -1193,7 +1193,7 @@
 1172,Boston College,NCAA Women's Soccer,
 1175,Boston River,Liga UAF Uruguaya,
 1178,Boston River,CONMEBOL Libertadores,
-1176,Boston River,CONMEBOL Sudamericana,
+1176,Boston River,CONMEBOL Sudamericana,CA Boston River
 1177,Boston River,Liga AUF Uruguaya,
 1174,Boston River,Uruguayan Primera Division,
 1179,Boston United,English National League,
@@ -1214,7 +1214,7 @@
 1196,Botafogo SP,Brazilian Serie B,
 1194,Botafogo SP,Brazilian Campeonato Paulista,
 1195,Botafogo SP,Copa do Brasil,
-1197,Botafogo-SP,Brazilian Serie B,
+1197,Botafogo-SP,Brazilian Serie B,Botafogo
 1199,Botev Plovdiv,UEFA Conference League Qualifying,
 1198,Botev Plovdiv,UEFA Europa League Qualifying,
 1200,Botswana,International Friendly,
@@ -1259,7 +1259,7 @@
 1239,Bray,Irish Premier Division Promotion/Relegation Playoffs,
 1243,Brazil,FIFA Women's World Cup,
 1247,Brazil,Copa América Femenina,
-1245,Brazil,FIFA World Cup Qualifying - CONMEBOL,
+1245,Brazil,FIFA World Cup Qualifying - CONMEBOL,Brazil
 1242,Brazil,SheBelieves Cup,
 1240,Brazil,Women's International Friendly,
 1244,Brazil,International Friendly,
@@ -1328,7 +1328,7 @@
 1306,Bromley,English Carabao Cup,Bromley FC
 1304,Bromley,English League Two,Bromley FC
 1310,Brøndby IF,UEFA Conference League Qualifying,
-1312,Brøndby IF,Danish Superliga,
+1312,Brøndby IF,Danish Superliga,Brondby IF
 1311,Brøndby IF,Club Friendly,
 1314,Brora Rangers,Scottish League Challenge Cup,
 1315,Brora Rangers,Scottish Cup,
@@ -1369,7 +1369,7 @@
 1348,Buildcon,Zambian Super League,
 1350,Bul FC,Ugandan Premier League,
 1349,Bulawayo Chiefs,Zimbabwean Premier Soccer League,
-1351,Bulgaria,FIFA World Cup Qualifying - UEFA,
+1351,Bulgaria,FIFA World Cup Qualifying - UEFA,Bulgaria
 1353,Bulgaria,UEFA Women's Nations League,
 1355,Bulgaria,UEFA Nations League,
 1354,Bulgaria,International Friendly,
@@ -1383,7 +1383,7 @@
 1362,Buriram United,AFC Champions League Elite,
 1366,Burkina Faso,FIFA World Cup Qualifying - CAF,
 1363,Burkina Faso,African Nations Championship Qualifying,
-1368,Burkina Faso,Africa Cup of Nations,
+1368,Burkina Faso,Africa Cup of Nations,Burkina Faso
 1367,Burkina Faso,International Friendly,
 1365,Burkina Faso,Africa Cup of Nations Qualifying,
 1364,Burkina Faso,African Nations Championship,
@@ -1470,7 +1470,7 @@
 1448,Cameroon,FIFA World Cup Qualifying - CAF,
 1442,Cameroon,International Friendly,
 1443,Cameroon,Africa Cup of Nations Qualifying,
-1445,Cameroon,Africa Cup of Nations,
+1445,Cameroon,Africa Cup of Nations,Cameroon
 1447,Cameroon,African Nations Championship,
 1446,Cameroon,African Nations Championship Qualifying,
 1444,Cameroon,FIFA Women's World Cup Qualifying - Playoff Tournament,
@@ -1518,10 +1518,10 @@
 1489,Capital FC,Copa do Brasil,
 1490,Capo FC,U.S. Open Cup,
 1491,CAPS United,Zimbabwean Premier Soccer League,
-1493,Carabobo,CONMEBOL Sudamericana,
-1492,Carabobo,CONMEBOL Libertadores,
+1493,Carabobo,CONMEBOL Sudamericana,Carabobo FC
+1492,Carabobo,CONMEBOL Libertadores,Carabobo FC
 1494,Carabobo,Venezuelan Primera División,
-1497,Caracas FC,CONMEBOL Sudamericana,
+1497,Caracas FC,CONMEBOL Sudamericana,Caracas FC
 1496,Caracas FC,CONMEBOL Libertadores,
 1495,Caracas FC,Venezuelan Primera División,
 1501,Cardiff City,English Carabao Cup,Cardiff City
@@ -1664,7 +1664,7 @@
 1638,Cerro Largo,Uruguayan Primera Division,
 1637,Cerro Largo,Liga AUF Uruguaya,
 1643,Cerro Porteño,Paraguayan Primera División,
-1642,Cerro Porteño,CONMEBOL Libertadores,
+1642,Cerro Porteño,CONMEBOL Libertadores,Cerro Porteño
 1641,Cerro Porteño,CONMEBOL Sudamericana,
 1644,César Vallejo,Peruvian Liga 1,
 1645,César Vallejo,CONMEBOL Sudamericana,
@@ -1774,7 +1774,7 @@
 1749,Chiclana,Spanish Copa del Rey,
 1755,Chile,Copa América Femenina,
 1750,Chile,FIFA Women's World Cup Qualifying - Playoff Tournament,
-1751,Chile,FIFA World Cup Qualifying - CONMEBOL,
+1751,Chile,FIFA World Cup Qualifying - CONMEBOL,Chile
 1753,Chile,Women's International Friendly,
 1752,Chile,International Friendly,
 1754,Chile,Copa América,
@@ -1889,7 +1889,7 @@
 1864,Colombia,Concacaf W Gold Cup,
 1859,Colombia,International Friendly,
 1866,Colombia,Women's Olympic Soccer Tournament,
-1865,Colombia,FIFA World Cup Qualifying - CONMEBOL,
+1865,Colombia,FIFA World Cup Qualifying - CONMEBOL,Colombia
 1861,Colombia,Copa América Femenina,
 1862,Colombia,Women's International Friendly,
 1868,Colombia U17,FIFA Under-17 Women's World Cup,
@@ -2059,7 +2059,7 @@
 2030,Criciúma,Brazilian Serie A,Criciuma
 2032,Criciúma,Copa do Brasil,Criciuma
 2031,Criciúma,Brazilian Serie B,Criciuma
-2037,Croatia,FIFA World Cup Qualifying - UEFA,
+2037,Croatia,FIFA World Cup Qualifying - UEFA,Croatia
 2034,Croatia,International Friendly,
 2039,Croatia,UEFA Women's Nations League,
 2035,Croatia,UEFA Nations League,
@@ -2143,13 +2143,13 @@
 2115,Cyprus,UEFA Nations League,
 2114,Cyprus,International Friendly,
 2112,Cyprus,UEFA European Championship Qualifying,
-2113,Cyprus,FIFA World Cup Qualifying - UEFA,
+2113,Cyprus,FIFA World Cup Qualifying - UEFA,Cyprus
 2118,Cyprus U21,UEFA European Under-21 Championship Qualifying,
 2117,Cyprus U21,Under-21 International Friendly,
 2123,Czechia,Women's International Friendly,
 2119,Czechia,UEFA European Championship,
 2120,Czechia,UEFA Nations League,
-2122,Czechia,FIFA World Cup Qualifying - UEFA,
+2122,Czechia,FIFA World Cup Qualifying - UEFA,Czechia
 2124,Czechia,UEFA Women's Nations League,
 2121,Czechia,UEFA European Championship Qualifying,
 2125,Czechia,International Friendly,
@@ -2200,7 +2200,7 @@
 2168,Defensor Sporting,Uruguayan Primera Division,
 2170,Defensor Sporting,Liga AUF Uruguaya,
 2171,Defensor Sporting,CONMEBOL Libertadores,
-2169,Defensor Sporting,CONMEBOL Sudamericana,
+2169,Defensor Sporting,CONMEBOL Sudamericana,Defensor Sporting
 2172,Defensor Sporting,Liga UAF Uruguaya,
 2165,Defensores de Belgrano,Argentine Nacional B,
 2164,Defensores de Belgrano,Copa Argentina,
@@ -2227,7 +2227,7 @@
 2189,Denmark,UEFA European Championship,
 2197,Denmark,UEFA Nations League,
 2198,Denmark,French Tournoi de France,
-2195,Denmark,FIFA World Cup Qualifying - UEFA,
+2195,Denmark,FIFA World Cup Qualifying - UEFA,Denmark
 2196,Denmark,UEFA European Championship Qualifying,
 2199,Denmark U19,UEFA European Under-19 Championship,
 2200,Denmark U20,Maurice Revello Tournament,
@@ -2243,7 +2243,7 @@
 2209,Deportes Iquique,Chilean Primera División,Deportes Iquique
 2210,Deportes Iquique,CONMEBOL Sudamericana,Deportes Iquique
 2212,Deportes Iquique,Copa Chile,Deportes Iquique
-2213,Deportes Limache,Chilean Primera División,
+2213,Deportes Limache,Chilean Primera División,Deportes Limache
 2214,Deportes Limache,Copa Chile,
 2215,Deportes Linares,Copa Chile,
 2216,Deportes Quillón,Copa Chile,
@@ -2253,7 +2253,7 @@
 2220,Deportes Santa Cruz,Copa Chile,
 2221,Deportes Temuco,Copa Chile,
 2224,Deportes Tolima,CONMEBOL Sudamericana,
-2225,Deportes Tolima,CONMEBOL Libertadores,
+2225,Deportes Tolima,CONMEBOL Libertadores,Deportes Tolima
 2223,Deportes Tolima,Copa Colombia,
 2222,Deportes Tolima,Colombian Primera A,
 2226,Deportes Valdivia,Copa Chile,
@@ -2264,11 +2264,11 @@
 2232,Deportivo Cali,Colombian Primera A,
 2231,Deportivo Cali,Copa Colombia,
 2233,Deportivo Cuenca,LigaPro Ecuador,
-2234,Deportivo Cuenca,CONMEBOL Sudamericana,
+2234,Deportivo Cuenca,CONMEBOL Sudamericana,Deportivo Riestra
 2235,Deportivo El Lucero,Copa Chile,
 2237,Deportivo Español,Copa Argentina,
 2236,Deportivo Español,Argentine Primera C,
-2238,Deportivo Garcilaso,CONMEBOL Sudamericana,
+2238,Deportivo Garcilaso,CONMEBOL Sudamericana,Deportivo Garcilaso
 2239,Deportivo Garcilaso,Peruvian Liga 1,
 2241,Deportivo La Coruña,Spanish Copa de la Reina,Deportivo La Coruña
 2240,Deportivo La Coruña,Spanish Copa del Rey,Deportivo La Coruña
@@ -2296,7 +2296,7 @@
 2264,Deportivo Pasto,Colombian Primera A,
 2263,Deportivo Pasto,Copa Colombia,
 2267,Deportivo Pereira,Colombian Superliga,
-2268,Deportivo Pereira,CONMEBOL Libertadores,
+2268,Deportivo Pereira,CONMEBOL Libertadores,Deportivo Táchira
 2266,Deportivo Pereira,Copa Colombia,
 2265,Deportivo Pereira,Colombian Primera A,
 2270,Deportivo Rayo Zuliano,CONMEBOL Sudamericana,
@@ -2306,8 +2306,8 @@
 2273,Deportivo Riestra,Argentine Nacional B,Deportivo Riestra
 2272,Deportivo Riestra,Copa Argentina,Deportivo Riestra
 2275,Deportivo Riestra,Argentine Liga Profesional de Fútbol,Deportivo Riestra
-2277,Deportivo Táchira,CONMEBOL Libertadores,
-2278,Deportivo Táchira,CONMEBOL Sudamericana,
+2277,Deportivo Táchira,CONMEBOL Libertadores,Deportivo La Guaira
+2278,Deportivo Táchira,CONMEBOL Sudamericana,Deportivo Pereira
 2276,Deportivo Táchira,Venezuelan Primera División,
 2285,Derby County,Club Friendly,Derby County
 2282,Derby County,English Women's FA Cup,Derby County
@@ -2421,7 +2421,7 @@
 2391,Dumiense,Taca de Portugal,
 2392,Dunajska Streda,UEFA Conference League Qualifying,
 2393,Dunbar United,Scottish Cup,
-2394,Dundalk,Irish Premier Division,
+2394,Dundalk,Irish Premier Division,Dundalk
 2395,Dundalk,UEFA Conference League Qualifying,
 2400,Dundee,Scottish League Challenge Cup,Dundee FC
 2398,Dundee,Scottish Championship,Dundee FC
@@ -2500,7 +2500,7 @@
 2470,EC Noroeste,Brazilian Campeonato Paulista,
 2471,EC Pelotas,Brazilian Campeonato Gaucho,
 2476,Ecuador,Women's International Friendly,
-2474,Ecuador,FIFA World Cup Qualifying - CONMEBOL,
+2474,Ecuador,FIFA World Cup Qualifying - CONMEBOL,Ecuador
 2473,Ecuador,Copa América,
 2475,Ecuador,Copa América Femenina,
 2472,Ecuador,International Friendly,
@@ -2524,7 +2524,7 @@
 2494,Egüés,Spanish Copa del Rey,
 2497,Egypt,International Friendly,
 2499,Egypt,FIFA World Cup Qualifying - CAF,
-2498,Egypt,Africa Cup of Nations,
+2498,Egypt,Africa Cup of Nations,Egypt
 2495,Egypt,African Nations Championship Qualifying,
 2496,Egypt,Africa Cup of Nations Qualifying,
 8338,Egypt U20,FIFA Under-20 World Cup,
@@ -2613,7 +2613,7 @@
 2584,Equatorial Guinea,Africa Cup of Nations Qualifying,
 2585,Equatorial Guinea,FIFA World Cup Qualifying - CAF,
 2586,Equatorial Guinea,International Friendly,
-2583,Equatorial Guinea,Africa Cup of Nations,
+2583,Equatorial Guinea,Africa Cup of Nations,Equatorial Guinea
 2582,Equatorial Guinea,African Nations Championship Qualifying,
 2587,Eritrea,FIFA World Cup Qualifying - CAF,
 2603,ES Thaon,Coupe de France,
@@ -2637,7 +2637,7 @@
 2607,Estonia,International Friendly,
 2605,Estonia,UEFA Women's Nations League,
 2608,Estonia,UEFA European Championship Qualifying,
-2606,Estonia,FIFA World Cup Qualifying - UEFA,
+2606,Estonia,FIFA World Cup Qualifying - UEFA,Estonia
 2610,Estonia U21,UEFA European Under-21 Championship Qualifying,
 2611,Estoril,Taca de Portugal,Estoril
 2612,Estoril,Portuguese Primeira Liga,Estoril
@@ -2735,13 +2735,13 @@
 2703,FAR Rabat,CAF Confederation Cup,
 8339,Farmingdale State,NCAA Men's Soccer,
 2696,Farnham Town,English Women's FA Cup,
-2699,Faroe Islands,FIFA World Cup Qualifying - UEFA,
+2699,Faroe Islands,FIFA World Cup Qualifying - UEFA,Faroe Islands
 2700,Faroe Islands,International Friendly,
 2698,Faroe Islands,UEFA Women's Nations League,
 2697,Faroe Islands,UEFA European Championship Qualifying,
 2701,Faroe Islands,UEFA Nations League,
 2702,Faroe Islands U21,UEFA European Under-21 Championship Qualifying,
-2707,Fatih Karagümrük,Turkish Super Lig,
+2707,Fatih Karagümrük,Turkish Super Lig,Fatih Karagümrük
 2706,Fatih Karagümrük,Club Friendly,
 2708,FC 08 Homburg,German Cup,
 2709,FC 08 Villingen,German Cup,
@@ -2817,13 +2817,13 @@
 2781,FC Erzgebirge Aue,German Cup,
 2780,FC Erzgebirge Aue,Club Friendly,
 2783,FC Famalicao,Taca de Portugal,
-2782,FC Famalicao,Portuguese Primeira Liga,
+2782,FC Famalicao,Portuguese Primeira Liga,Famalicão
 2784,FC Farul Constanta,Romanian Liga 1,
 2786,FC Farul Constanta,UEFA Champions League Qualifying,
 2785,FC Farul Constanta,UEFA Conference League Qualifying,
 2787,FC Fleury 91,French Première Ligue,
 2788,FC Folsom,U.S. Open Cup,
-2789,FC Fredericia,Danish Superliga,
+2789,FC Fredericia,Danish Superliga,FC Fredericia
 2790,FC Goa,Indian Super League,
 2792,FC Groningen,Dutch Keuken Kampioen Divisie,Groningen
 2791,FC Groningen,Dutch Eredivisie,Groningen
@@ -2872,7 +2872,7 @@
 2838,FC Noah,UEFA Champions League Qualifying,
 2843,FC Nordsjælland,UEFA Conference League Qualifying,
 2844,FC Nordsjælland,Club Friendly,
-2841,FC Nordsjælland,Danish Superliga,
+2841,FC Nordsjælland,Danish Superliga,FC Nordsjaelland
 2842,FC Nordsjælland,UEFA Conference League,
 2845,FC Nouadhibou,CAF Champions League,
 2846,FC Oberneuland,German Cup,
@@ -2898,7 +2898,7 @@
 2869,FC Spartak Trnava,UEFA Conference League Qualifying,
 2873,FC Stade Lausanne-Ouchy,Swiss Super League,
 2874,FC Stade Lausanne-Ouchy,Swiss Super League Promotion/Relegation Playoffs,
-2875,FC Thun,Swiss Super League,
+2875,FC Thun,Swiss Super League,FC Thun
 2876,FC Thun,Swiss Super League Promotion/Relegation Playoffs,
 2877,FC Tokyo,Japanese J.League,FC Tokyo
 2879,FC Tulsa,USL Championship,
@@ -2930,7 +2930,7 @@
 2902,FC Volendam,Dutch Eredivisie,FC Volendam
 2906,FC Zorya Luhansk,UEFA Europa League Qualifying,
 2905,FC Zorya Luhansk,UEFA Conference League,
-2907,FC Zürich,Swiss Super League,
+2907,FC Zürich,Swiss Super League,FC Zurich
 2908,FC Zürich,UEFA Conference League Qualifying,
 2864,FCSB,UEFA Conference League Qualifying,FCSB
 2861,FCSB,Romanian Liga 1,FCSB
@@ -2958,7 +2958,7 @@
 2925,Ferencvaros,UEFA Champions League Qualifying,
 2927,Ferencvaros,Club Friendly,
 2928,Ferencvaros,UEFA Conference League Qualifying,
-2926,Ferencvaros,UEFA Europa League,
+2926,Ferencvaros,UEFA Europa League,Ferencváros TC
 2930,Fernández Vial,Copa Chile,
 2931,Ferro Carril Oeste,Argentine Nacional B,
 2932,Ferroviária,Brazilian Campeonato Paulista,Ferroviária
@@ -3105,7 +3105,7 @@
 3072,Forward Madison FC,USL League One,
 3073,France,Women's International Friendly,
 3078,France,International Friendly,
-3080,France,FIFA World Cup Qualifying - UEFA,
+3080,France,FIFA World Cup Qualifying - UEFA,France
 3083,France,UEFA Women's Nations League,
 3081,France,Women's Olympic Soccer Tournament,
 3077,France,FIFA Women's World Cup,
@@ -3176,7 +3176,7 @@
 3146,Gambia,Africa Cup of Nations Qualifying,
 3144,Gambia,International Friendly,
 3145,Gambia,African Nations Championship Qualifying,
-3142,Gambia,Africa Cup of Nations,
+3142,Gambia,Africa Cup of Nations,Gambia
 3143,Gambia,FIFA World Cup Qualifying - CAF,
 3147,Gambia U20,FIFA Under-20 World Cup,
 8341,Gangwon FC,AFC Champions League Elite,
@@ -3189,7 +3189,7 @@
 3155,Gazovik Orenburg,Russian Premier League,
 3156,GD Chaves,Portuguese Primeira Liga,
 3157,GD Chaves,Taca de Portugal,
-3158,Genclerbirligi,Turkish Super Lig,
+3158,Genclerbirligi,Turkish Super Lig,Genclerbirligi SK
 3159,Genclerbirligi,Club Friendly,
 3160,General Caballero JLM,CONMEBOL Sudamericana,
 3161,General Caballero JLM,Paraguayan Primera División,
@@ -3209,7 +3209,7 @@
 3175,Georgia,UEFA European Championship,
 3176,Georgia,NCAA Women's Soccer,
 3180,Georgia,UEFA European Championship Qualifying,
-3178,Georgia,FIFA World Cup Qualifying - UEFA,
+3178,Georgia,FIFA World Cup Qualifying - UEFA,Georgia
 3179,Georgia,International Friendly,
 3174,Georgia,UEFA Nations League,
 3177,Georgia,UEFA Women's Nations League,
@@ -3222,7 +3222,7 @@
 3186,Georgia U21,Under-21 International Friendly,
 3188,Georgia U21,UEFA European Under-21 Championship,
 3194,Germany,FIFA Women's World Cup,
-3197,Germany,FIFA World Cup Qualifying - UEFA,
+3197,Germany,FIFA World Cup Qualifying - UEFA,Germany
 3193,Germany,International Friendly,
 3196,Germany,UEFA Nations League,
 3195,Germany,UEFA Women's Nations League,
@@ -3249,7 +3249,7 @@
 3212,Ghana,FIFA World Cup Qualifying - CAF,
 3215,Ghana,International Friendly,
 3210,Ghana,African Nations Championship,
-3213,Ghana,Africa Cup of Nations,
+3213,Ghana,Africa Cup of Nations,Uganda
 3217,Gibraltar,UEFA Nations League,
 3219,Gibraltar,International Friendly,
 3220,Gibraltar,UEFA Women's Nations League,
@@ -3349,7 +3349,7 @@
 3312,Greece,Women's International Friendly,
 3309,Greece,UEFA Women's Nations League,
 3310,Greece,UEFA European Championship Qualifying,
-3311,Greece,FIFA World Cup Qualifying - UEFA,
+3311,Greece,FIFA World Cup Qualifying - UEFA,Greece
 3313,Greece,UEFA Nations League,
 3315,Greece U19,UEFA European Under-19 Championship,
 3316,Greece U21,Under-21 International Friendly,
@@ -3385,7 +3385,7 @@
 3346,Grimsby Town,English EFL Trophy,Grimsby Town
 3344,Grimsby Town,English FA Cup,Grimsby Town
 3350,Guabirá,Bolivian Liga Profesional,
-3348,Guabirá,CONMEBOL Sudamericana,
+3348,Guabirá,CONMEBOL Sudamericana,Guabirá
 3349,Guabirá,Copa Bolivia,
 3354,Guadalajara,Concacaf Champions Cup,Guadalajara
 3352,Guadalajara,Leagues Cup,Guadalajara
@@ -3672,7 +3672,7 @@
 3630,Hungary,Women's International Friendly,
 3635,Hungary,UEFA European Championship,
 3634,Hungary,International Friendly,
-3631,Hungary,FIFA World Cup Qualifying - UEFA,
+3631,Hungary,FIFA World Cup Qualifying - UEFA,Hungary
 3633,Hungary,UEFA Nations League,
 3638,Hungary U21,UEFA European Under-21 Championship Qualifying,
 3637,Hungary U21,Under-21 International Friendly,
@@ -3698,7 +3698,7 @@
 3659,Iceland,UEFA Women's Nations League,
 3660,Iceland,UEFA Nations League,
 3662,Iceland,UEFA Women's European Championship,
-3657,Iceland,FIFA World Cup Qualifying - UEFA,
+3657,Iceland,FIFA World Cup Qualifying - UEFA,Iceland
 3661,Iceland,Women's International Friendly,
 3663,Iceland U19,UEFA European Under-19 Championship,
 3664,Iceland U21,Under-21 International Friendly,
@@ -3741,13 +3741,13 @@
 3700,Independiente de la Chorrera,Concacaf Champions Cup,
 3704,Independiente del Valle,LigaPro Ecuador,
 3707,Independiente del Valle,Ecuadorian Supercopa,
-3702,Independiente del Valle,CONMEBOL Libertadores,
-3705,Independiente del Valle,CONMEBOL Sudamericana,
+3702,Independiente del Valle,CONMEBOL Libertadores,Independiente del Valle
+3705,Independiente del Valle,CONMEBOL Sudamericana,Independiente del Valle
 3706,Independiente del Valle,CONMEBOL Recopa Sudamericana,
 3703,Independiente del Valle,CONMEBOL-UEFA Club Challenge,
 3710,Independiente Medellín,CONMEBOL Sudamericana,
 3711,Independiente Medellín,Colombian Primera A,
-3708,Independiente Medellín,CONMEBOL Libertadores,
+3708,Independiente Medellín,CONMEBOL Libertadores,Independiente Medellín
 3709,Independiente Medellín,Copa Colombia,
 3713,Independiente Petrolero,Copa Bolivia,
 3712,Independiente Petrolero,Bolivian Liga Profesional,
@@ -3758,7 +3758,7 @@
 3716,Independiente Rivadavia,Argentine Copa de la Liga Profesional,Independiente Rivadavia
 3721,Independiente Santa Fe,Copa Colombia,
 3719,Independiente Santa Fe,Colombian Primera A,
-3722,Independiente Santa Fe,CONMEBOL Libertadores,
+3722,Independiente Santa Fe,CONMEBOL Libertadores,Independiente Santa Fe
 3720,Independiente Santa Fe,CONMEBOL Sudamericana,
 3726,India,SAFF Championship,
 3725,India,Women's International Friendly,
@@ -3852,7 +3852,7 @@
 3810,Isloch Minsk,UEFA Conference League Qualifying,
 3812,Israel,International Friendly,
 3816,Israel,UEFA Nations League,
-3811,Israel,FIFA World Cup Qualifying - UEFA,
+3811,Israel,FIFA World Cup Qualifying - UEFA,Israel
 3815,Israel,Women's International Friendly,
 3814,Israel,UEFA Women's Nations League,
 3813,Israel,UEFA European Championship Qualifying,
@@ -3882,7 +3882,7 @@
 3841,Italy,Women's International Friendly,
 3843,Italy,UEFA European Championship Qualifying,
 3845,Italy,FIFA Women's World Cup,
-3844,Italy,FIFA World Cup Qualifying - UEFA,
+3844,Italy,FIFA World Cup Qualifying - UEFA,Italy
 3836,Italy,UEFA Nations League,
 3842,Italy,UEFA European Championship,
 3846,Italy U19,UEFA European Under-19 Championship,
@@ -3900,7 +3900,7 @@
 3857,Ituzaingó,Copa Argentina,
 3859,IU Indianapolis,NCAA Men's Soccer,
 3860,IU Indianapolis,NCAA Women's Soccer,
-3861,Ivory Coast,Africa Cup of Nations,
+3861,Ivory Coast,Africa Cup of Nations,Ivory Coast
 3863,Ivory Coast,FIFA World Cup Qualifying - CAF,
 3864,Ivory Coast,African Nations Championship,
 3862,Ivory Coast,International Friendly,
@@ -4035,7 +4035,7 @@
 3991,Kaizer Chiefs,South African Nedbank Cup,
 3990,Kaizer Chiefs,South African Premier Division,
 3994,Kakamega Homeboyz,Kenyan Premier League,
-3995,Kalmar FF,Swedish Allsvenskan,
+3995,Kalmar FF,Swedish Allsvenskan,Kalmar FF
 3996,Kalmar FF,UEFA Conference League Qualifying,
 3997,Kanchanaburi Power FC,Thai League 1,
 3998,Kano Pillars,Nigerian Professional League,
@@ -4065,7 +4065,7 @@
 4021,Kaya,AFC Champions League Two,
 4023,Kayserispor,Turkish Super Lig,Kayserispor
 4026,Kazakhstan,International Friendly,
-4027,Kazakhstan,FIFA World Cup Qualifying - UEFA,
+4027,Kazakhstan,FIFA World Cup Qualifying - UEFA,Kazakhstan
 4028,Kazakhstan,UEFA Nations League,
 4025,Kazakhstan,UEFA Women's Nations League,
 4024,Kazakhstan,UEFA European Championship Qualifying,
@@ -4128,7 +4128,7 @@
 4084,Kitchee,AFC Champions League Elite,
 4086,K-League All-Stars,Club Friendly,
 4087,Knowle,English Women's FA Cup,
-4088,Kocaelispor,Turkish Super Lig,
+4088,Kocaelispor,Turkish Super Lig,Kocaelispor
 4089,Kolping Boys,Dutch KNVB Beker,
 4090,Koninklijke HFC,Dutch KNVB Beker,
 4091,Koninklijke HFC,Dutch Tweede Divisie,
@@ -4139,7 +4139,7 @@
 4099,Kosovo,UEFA Nations League,
 4098,Kosovo,UEFA Women's Nations League,
 4094,Kosovo,International Friendly,
-4097,Kosovo,FIFA World Cup Qualifying - UEFA,
+4097,Kosovo,FIFA World Cup Qualifying - UEFA,Kosovo
 4100,Kosovo U21,UEFA European Under-21 Championship Qualifying,
 4101,Kotoku Royals,Ghanaian Premier League,
 4102,Kozakken Boys,Dutch Tweede Divisie,
@@ -4191,7 +4191,7 @@
 4182,La Salle,NCAA Men's Soccer,
 4181,La Salle,NCAA Women's Soccer,
 4183,La Serena,Copa Chile,
-4184,La Serena,Chilean Primera División,
+4184,La Serena,Chilean Primera División,La Serena
 4191,La Solana,Spanish Copa de la Reina,
 4200,La Tamponnaise,Coupe de France,
 4138,Lafayette,NCAA Men's Soccer,
@@ -4245,7 +4245,7 @@
 4204,Latvia,UEFA Women's Nations League,
 4206,Latvia,Women's International Friendly,
 4203,Latvia,UEFA European Championship Qualifying,
-4205,Latvia,FIFA World Cup Qualifying - UEFA,
+4205,Latvia,FIFA World Cup Qualifying - UEFA,Latvia
 4201,Latvia,UEFA Nations League,
 4207,Latvia U21,UEFA European Under-21 Championship Qualifying,
 4208,Latvia U21,Under-21 International Friendly,
@@ -4385,7 +4385,7 @@
 4342,Liechtenstein,UEFA Nations League,
 4343,Life Pacific University,NCAA Men's Soccer,
 4346,Liga de Quito,CONMEBOL Recopa Sudamericana,
-4347,Liga de Quito,CONMEBOL Libertadores,
+4347,Liga de Quito,CONMEBOL Libertadores,LDU Quito
 4348,Liga de Quito,Ecuadorian Supercopa,
 4345,Liga de Quito,CONMEBOL Sudamericana,
 4344,Liga de Quito,LigaPro Ecuador,
@@ -4399,7 +4399,7 @@
 4351,Lille,Coupe de France,Lille
 4355,Lille,UEFA Champions League Qualifying,Lille
 4352,Lille,Club Friendly,Lille
-4359,Lillestrom,Norwegian Eliteserien,
+4359,Lillestrom,Norwegian Eliteserien,Lillestrom
 4360,Linares Deportivo,Spanish Copa del Rey,
 4366,Lincoln (PA),NCAA Women's Soccer,
 4364,Lincoln City,English League One,Lincoln City
@@ -4432,7 +4432,7 @@
 4389,Lithuania,UEFA Nations League,
 4390,Lithuania,UEFA Women's Nations League,
 4392,Lithuania,UEFA European Championship Qualifying,
-4391,Lithuania,FIFA World Cup Qualifying - UEFA,
+4391,Lithuania,FIFA World Cup Qualifying - UEFA,Lithuania
 4388,Lithuania,International Friendly,
 4394,Lithuania U21,UEFA European Under-21 Championship Qualifying,
 4395,Little Rock,NCAA Women's Soccer,
@@ -4482,7 +4482,7 @@
 4439,London City Lionesses,English Women's Super League,
 4440,London Seaward,English Women's FA Cup,
 4441,Londrina,Brazilian Serie C,
-4443,Londrina,Brazilian Serie B,
+4443,Londrina,Brazilian Serie B,Londrina
 4442,Londrina,Copa do Brasil,
 4444,Long Beach State,NCAA Women's Soccer,
 4445,Long Island Rough Riders,U.S. Open Cup,
@@ -4533,7 +4533,7 @@
 4490,Ludogorets Razgrad,UEFA Champions League Qualifying,
 4491,Ludogorets Razgrad,UEFA Europa League Qualifying,
 4488,Ludogorets Razgrad,UEFA Conference League,
-4489,Ludogorets Razgrad,UEFA Europa League,
+4489,Ludogorets Razgrad,UEFA Europa League,PFC Ludogorets Razgrad
 4493,Lugano,Argentine Primera D,
 4492,Lugano,Argentine Primera C,
 4494,Lugazi,Ugandan Premier League,
@@ -4556,8 +4556,8 @@
 4510,Luton Town,English Carabao Cup,Luton
 4511,Luton Town,English FA Cup,Luton
 4513,Luton Town,English Women's FA Cup,Luton
-4514,Luxembourg,FIFA World Cup Qualifying - UEFA,
-4517,Luxembourg,UEFA Nations League,
+4514,Luxembourg,FIFA World Cup Qualifying - UEFA,Luxembourg
+4517,Luxembourg,UEFA Nations League,Luxembourg
 4518,Luxembourg,UEFA Women's Nations League,
 4515,Luxembourg,UEFA European Championship Qualifying,
 4516,Luxembourg,International Friendly,
@@ -4654,7 +4654,7 @@
 4609,Maldives,SAFF Championship,
 4612,Mali,FIFA World Cup Qualifying - CAF,
 4611,Mali,International Friendly,
-4613,Mali,Africa Cup of Nations,
+4613,Mali,Africa Cup of Nations,Mali
 4610,Mali,Africa Cup of Nations Qualifying,
 4614,Mali,African Nations Championship Qualifying,
 4616,Mali,Women's Africa Cup of Nations,
@@ -4671,10 +4671,10 @@
 4624,Malmö FF,Swedish Allsvenskan,Malmo FF
 4625,Malmö FF,UEFA Champions League Qualifying,Malmo FF
 4630,Malta,UEFA European Championship Qualifying,
-4629,Malta,FIFA World Cup Qualifying - UEFA,
+4629,Malta,FIFA World Cup Qualifying - UEFA,Malta
 4633,Malta,International Friendly,
 4632,Malta,Women's International Friendly,
-4631,Malta,UEFA Nations League,
+4631,Malta,UEFA Nations League,Malta
 4628,Malta,UEFA Women's Nations League,
 4634,Malta U19,UEFA European Under-19 Championship,
 4636,Malta U21,Under-21 International Friendly,
@@ -4823,7 +4823,7 @@
 4777,Melbourne Victory,Australian A-League Men,Melbourne Victory
 4778,Melbourne Victory ,Australian A-League Women,
 4781,Melgar,Peruvian Liga 1,
-4780,Melgar,CONMEBOL Sudamericana,
+4780,Melgar,CONMEBOL Sudamericana,FBC Melgar
 4779,Melgar,CONMEBOL Libertadores,
 4782,Melilla,Spanish Copa del Rey,
 4783,Melilla CD,Spanish Copa del Rey,
@@ -4847,7 +4847,7 @@
 4802,Metaloglobus,Romanian Liga 1 Promotion/Relegation Playoffs,
 4801,Metaloglobus,Romanian Liga 1,
 4803,Metapan,Salvadoran Primera Division,
-4805,Metropolitanos FC,CONMEBOL Sudamericana,
+4805,Metropolitanos FC,CONMEBOL Sudamericana,Metropolitanos FC
 4804,Metropolitanos FC,CONMEBOL Libertadores,
 4806,Metropolitanos FC,Venezuelan Primera División,
 4810,Metz,Coupe de France,Metz
@@ -4898,7 +4898,7 @@
 4852,Milford FC,South African Nedbank Cup,
 8354,Millikin,NCAA Men's Soccer,
 4857,Millonarios,Club Friendly,
-4854,Millonarios,CONMEBOL Sudamericana,
+4854,Millonarios,CONMEBOL Sudamericana,Millonarios
 4853,Millonarios,Copa Colombia,
 4855,Millonarios,CONMEBOL Libertadores,
 4856,Millonarios,Colombian Primera A,
@@ -4965,7 +4965,7 @@
 4917,Molde,UEFA Europa League,Molde
 4919,Molde,UEFA Conference League,Molde
 4924,Moldova,UEFA European Championship Qualifying,
-4925,Moldova,FIFA World Cup Qualifying - UEFA,
+4925,Moldova,FIFA World Cup Qualifying - UEFA,Moldova
 4923,Moldova,Women's International Friendly,
 4920,Moldova,International Friendly,
 4922,Moldova,UEFA Nations League,
@@ -4987,7 +4987,7 @@
 4940,Montana,NCAA Women's Soccer,
 4941,Montana State-Billings,NCAA Women's Soccer,
 4942,Monte Azul,Spanish Copa del Rey,
-4946,Montenegro,FIFA World Cup Qualifying - UEFA,
+4946,Montenegro,FIFA World Cup Qualifying - UEFA,Montenegro
 4945,Montenegro,Women's International Friendly,
 4947,Montenegro,International Friendly,
 4944,Montenegro,UEFA European Championship Qualifying,
@@ -5040,7 +5040,7 @@
 4994,Morocco,FIFA World Cup Qualifying - CAF,
 4995,Morocco,International Friendly,
 4992,Morocco,African Nations Championship,
-4996,Morocco,Africa Cup of Nations,
+4996,Morocco,Africa Cup of Nations,Morocco
 4997,Morocco,Women's Africa Cup of Nations,
 4991,Morocco,Africa Cup of Nations Qualifying,
 4999,Morocco U17,FIFA Under-17 World Cup,
@@ -5071,7 +5071,7 @@
 5023,Mozambique,COSAFA Cup,
 5024,Mozambique,International Friendly,
 5026,Mozambique,Africa Cup of Nations Qualifying,
-5020,Mozambique,Africa Cup of Nations,
+5020,Mozambique,Africa Cup of Nations,Mozambique
 5027,Mpheni Home Defenders,South African Nedbank Cup,
 5028,MSK Zilina,UEFA Conference League Qualifying,
 5030,Muangthong United,Thai League 1,
@@ -5121,7 +5121,7 @@
 5069,Nacional,CONMEBOL Libertadores,Nacional
 5076,Nacional Potosí,CONMEBOL Sudamericana,
 5075,Nacional Potosí,Copa Bolivia,
-5074,Nacional Potosí,CONMEBOL Libertadores,
+5074,Nacional Potosí,CONMEBOL Libertadores,Nacional Potosí
 5073,Nacional Potosí,Bolivian Liga Profesional,
 5077,Nagoya Grampus,Japanese J.League,Nagoya Grampus
 5078,Nairn County,Scottish Cup,
@@ -5201,7 +5201,7 @@
 5149,Netherlands,UEFA Women's European Championship,
 5145,Netherlands,FIFA Women's World Cup,
 5148,Netherlands,UEFA European Championship Qualifying,
-5150,Netherlands,FIFA World Cup Qualifying - UEFA,
+5150,Netherlands,FIFA World Cup Qualifying - UEFA,Netherlands
 5154,Netherlands U19,UEFA European Under-19 Championship,
 5157,Netherlands U21,UEFA European Under-21 Championship Qualifying,
 5156,Netherlands U21,Under-21 International Friendly,
@@ -5292,7 +5292,7 @@
 5241,Niger,FIFA World Cup Qualifying - CAF,
 5254,Niger Tornadoes,Nigerian Professional League,
 5245,Nigeria,Women's Africa Cup of Nations,
-5246,Nigeria,Africa Cup of Nations,
+5246,Nigeria,Africa Cup of Nations,Nigeria
 5248,Nigeria,International Friendly,
 5247,Nigeria,African Nations Championship,
 5244,Nigeria,FIFA World Cup Qualifying - CAF,
@@ -5356,7 +5356,7 @@
 5337,North Macedonia,UEFA Women's Nations League,
 5338,North Macedonia,Women's International Friendly,
 5341,North Macedonia,International Friendly,
-5340,North Macedonia,FIFA World Cup Qualifying - UEFA,
+5340,North Macedonia,FIFA World Cup Qualifying - UEFA,North Macedonia
 5339,North Macedonia,UEFA European Championship Qualifying,
 5336,North Macedonia,UEFA Nations League,
 5342,North Macedonia U21,UEFA European Under-21 Championship Qualifying,
@@ -5385,7 +5385,7 @@
 5322,Northern Ireland,International Friendly,
 5320,Northern Ireland,Women's International Friendly,
 5319,Northern Ireland,UEFA Women's Nations League,
-5323,Northern Ireland,FIFA World Cup Qualifying - UEFA,
+5323,Northern Ireland,FIFA World Cup Qualifying - UEFA,Northern Ireland
 5324,Northern Ireland U19,UEFA European Under-19 Championship,
 5325,Northern Ireland U21,UEFA European Under-21 Championship Qualifying,
 5327,Northern Kentucky,NCAA Men's Soccer,
@@ -5434,7 +5434,7 @@
 5382,Novara,Club Friendly,
 5384,Novi Pazar,UEFA Conference League Qualifying,
 5385,Novo Hamburgo,Brazilian Campeonato Gaucho,
-5386,Novorizontino,Brazilian Serie B,
+5386,Novorizontino,Brazilian Serie B,Grêmio Novorizontino
 5387,Novorizontino,Brazilian Campeonato Paulista,
 5388,Novorizontino,Copa do Brasil,
 5389,NSI Runavik,UEFA Conference League Qualifying,
@@ -5521,7 +5521,7 @@
 5471,Omonia Nicosia,UEFA Conference League Qualifying,
 5470,Omonia Nicosia,UEFA Conference League,
 5474,Once Caldas,Colombian Primera A,
-5473,Once Caldas,CONMEBOL Sudamericana,
+5473,Once Caldas,CONMEBOL Sudamericana,Once Caldas
 5472,Once Caldas,Copa Colombia,
 5475,Once Deportivo,Salvadoran Primera Division,
 5476,Onduparaka,Ugandan Premier League,
@@ -5551,7 +5551,7 @@
 5499,Oregon State,NCAA Men's Soccer,
 5501,Oregon Tech,NCAA Men's Soccer,
 5502,Orense,LigaPro Ecuador,
-5503,Orense,CONMEBOL Sudamericana,
+5503,Orense,CONMEBOL Sudamericana,Orense SC
 5504,Orientación Marítima,Spanish Copa de la Reina,
 5507,Oriente Petrolero,CONMEBOL Sudamericana,
 5506,Oriente Petrolero,Bolivian Liga Profesional,
@@ -5682,7 +5682,7 @@
 5630,Paraguay,Copa América Femenina,
 5631,Paraguay,Copa América,
 5632,Paraguay,FIFA Women's World Cup Qualifying - Playoff Tournament,
-5634,Paraguay,FIFA World Cup Qualifying - CONMEBOL,
+5634,Paraguay,FIFA World Cup Qualifying - CONMEBOL,Paraguay
 5633,Paraguay,Women's International Friendly,
 5636,Paraguay,Concacaf W Gold Cup,
 5635,Paraguay,International Friendly,
@@ -5794,10 +5794,10 @@
 5742,Peru,International Friendly,
 5744,Peru,Copa América,
 5741,Peru,Women's International Friendly,
-5743,Peru,FIFA World Cup Qualifying - CONMEBOL,
+5743,Peru,FIFA World Cup Qualifying - CONMEBOL,Peru
 5746,Peru U23,CONMEBOL Pre-Olympic Tournament,
 5745,Perugia,Italian Serie B,
-5748,Pescara,Italian Serie B,
+5748,Pescara,Italian Serie B,Pescara
 5747,Pescara,Coppa Italia,
 5750,Peterborough United,English EFL Trophy,Peterborough United
 5753,Peterborough United,English FA Cup,Peterborough United
@@ -5875,7 +5875,7 @@
 5818,Poland,Women's International Friendly,
 5825,Poland,International Friendly,
 5824,Poland,UEFA Women's European Championship,
-5822,Poland,FIFA World Cup Qualifying - UEFA,
+5822,Poland,FIFA World Cup Qualifying - UEFA,Poland
 5826,Poland U17,FIFA Under-17 World Cup,
 5827,Poland U17,FIFA Under-17 Women's World Cup,
 5828,Poland U19,UEFA European Under-19 Championship,
@@ -5944,7 +5944,7 @@
 5888,Portugal,FIFA Women's World Cup Qualifying - Playoff Tournament,
 5885,Portugal,UEFA Women's European Championship,
 5891,Portugal,UEFA Women's Nations League,
-5889,Portugal,FIFA World Cup Qualifying - UEFA,
+5889,Portugal,FIFA World Cup Qualifying - UEFA,Portugal
 5887,Portugal,Women's International Friendly,
 5892,Portugal,UEFA European Championship Qualifying,
 5886,Portugal,UEFA European Championship,
@@ -6084,7 +6084,7 @@
 6030,Quinnipiac,NCAA Women's Soccer,
 6031,Quintanar del Rey,Spanish Copa del Rey,
 6032,Quintero Unido,Copa Chile,
-6033,RAAL La Louvière,Belgian Pro League,
+6033,RAAL La Louvière,Belgian Pro League,RAAL La Louvière
 6034,Rabo de Peixe,Taca de Portugal,
 6035,Rabotnicki Kometal,Club Friendly,
 6036,Racing,Spanish Copa de la Reina,
@@ -6132,7 +6132,7 @@
 6078,Rampla Juniors,Uruguayan Primera Division,
 6079,Ramsgate,English FA Cup,
 6080,Rancagua Sur,Copa Chile,
-6081,Randers FC,Danish Superliga,
+6081,Randers FC,Danish Superliga,Randers FC
 6085,Rangers,UEFA Europa League,Rangers
 6087,Rangers,Scottish League Cup,Rangers
 6083,Rangers,Scottish Premiership,Rangers
@@ -6377,7 +6377,7 @@
 6329,Romania,International Friendly,
 6327,Romania,UEFA Nations League,
 6326,Romania,UEFA Women's Nations League,
-6323,Romania,FIFA World Cup Qualifying - UEFA,
+6323,Romania,FIFA World Cup Qualifying - UEFA,Romania
 6325,Romania,UEFA European Championship,
 6328,Romania,UEFA European Championship Qualifying,
 6324,Romania,Women's International Friendly,
@@ -6516,7 +6516,7 @@
 6465,San Antonio Bulo Bulo,Bolivian Liga Profesional,
 6463,San Antonio Bulo Bulo,CONMEBOL Libertadores,
 6461,San Antonio Bulo Bulo,Copa Bolivia,
-6464,San Antonio Bulo Bulo,CONMEBOL Sudamericana,
+6464,San Antonio Bulo Bulo,CONMEBOL Sudamericana,C.D. San Antonio Bulo Bulo
 6467,San Antonio FC,Club Friendly,
 6469,San Antonio FC,U.S. Open Cup,
 6466,San Antonio FC,USL Championship,
@@ -6699,7 +6699,7 @@
 6639,Scotland,UEFA European Championship,
 6642,Scotland,UEFA European Championship Qualifying,
 6640,Scotland,UEFA Women's Nations League,
-6643,Scotland,FIFA World Cup Qualifying - UEFA,
+6643,Scotland,FIFA World Cup Qualifying - UEFA,Scotland
 6638,Scotland,Women's International Friendly,
 6641,Scotland,International Friendly,
 6637,Scotland,UEFA Nations League,
@@ -6738,7 +6738,7 @@
 6686,Senegal,FIFA World Cup Qualifying - CAF,
 6683,Senegal,Women's International Friendly,
 6681,Senegal,Women's Africa Cup of Nations,
-6679,Senegal,Africa Cup of Nations,
+6679,Senegal,Africa Cup of Nations,Senegal
 6687,Senegal U17,FIFA Under-17 World Cup,
 6688,Senegal U20,FIFA Under-20 World Cup,
 6689,Sepahan,AFC Champions League Elite,
@@ -6747,7 +6747,7 @@
 6691,Sepsi Sfantu Gheorghe,Romanian Liga 1,
 6699,Serbia,UEFA European Championship,
 6696,Serbia,UEFA Women's Nations League,
-6693,Serbia,FIFA World Cup Qualifying - UEFA,
+6693,Serbia,FIFA World Cup Qualifying - UEFA,Serbia
 6695,Serbia,International Friendly,
 6697,Serbia,UEFA Nations League,
 6694,Serbia,Women's International Friendly,
@@ -6850,7 +6850,7 @@
 6793,Sierra Leone,Africa Cup of Nations Qualifying,
 6796,Sierra Leone,African Nations Championship Qualifying,
 6797,Sigma Olomouc,UEFA Europa League Qualifying,
-6800,Silkeborg IF,Danish Superliga,
+6800,Silkeborg IF,Danish Superliga,Silkeborg IF
 6798,Silkeborg IF,UEFA Europa League Qualifying,
 6799,Silkeborg IF,UEFA Conference League Qualifying,
 6801,Simba Bhora,Zimbabwean Premier Soccer League,
@@ -6907,7 +6907,7 @@
 6855,Slovakia,International Friendly,
 6853,Slovakia,UEFA Nations League,
 6852,Slovakia,UEFA European Championship,
-6851,Slovakia,FIFA World Cup Qualifying - UEFA,
+6851,Slovakia,FIFA World Cup Qualifying - UEFA,Slovakia
 6856,Slovakia ,UEFA Women's Nations League,
 6857,Slovakia ,Women's International Friendly,
 6858,Slovakia U20,FIFA Under-20 World Cup,
@@ -6919,7 +6919,7 @@
 6865,Slovan Bratislava,Club Friendly,ŠK Slovan Bratislava
 6863,Slovan Bratislava,UEFA Champions League Qualifying,ŠK Slovan Bratislava
 6864,Slovan Bratislava,UEFA Conference League,ŠK Slovan Bratislava
-6869,Slovenia,FIFA World Cup Qualifying - UEFA,
+6869,Slovenia,FIFA World Cup Qualifying - UEFA,Slovenia
 6870,Slovenia,Women's International Friendly,
 6868,Slovenia,UEFA Women's Nations League,
 6867,Slovenia,UEFA European Championship,
@@ -6952,7 +6952,7 @@
 6896,Sousa EC,Copa do Brasil,
 6907,South Africa,FIFA Women's World Cup,
 6904,South Africa,African Nations Championship Qualifying,
-6903,South Africa,Africa Cup of Nations,
+6903,South Africa,Africa Cup of Nations,South Africa
 6902,South Africa,International Friendly,
 6906,South Africa,COSAFA Cup,
 6898,South Africa,Women's International Friendly,
@@ -7014,7 +7014,7 @@
 6957,Southwest Minnesota State,NCAA Women's Soccer,
 6996,Sp. Belgrano,Copa Argentina,
 6958,Spaeri,UEFA Conference League Qualifying,
-6962,Spain,FIFA World Cup Qualifying - UEFA,
+6962,Spain,FIFA World Cup Qualifying - UEFA,Spain
 6960,Spain,Women's Olympic Soccer Tournament,
 6965,Spain,FIFA Women's World Cup,
 6959,Spain,UEFA Women's Nations League,
@@ -7079,7 +7079,7 @@
 7017,Sporting CP,Portuguese Primeira Liga,Sporting Lisbon
 7019,Sporting CP,UEFA Champions League,Sporting Lisbon
 7022,Sporting Cristal,CONMEBOL Sudamericana,
-7023,Sporting Cristal,CONMEBOL Libertadores,
+7023,Sporting Cristal,CONMEBOL Libertadores,Sporting Cristal
 7021,Sporting Cristal,Peruvian Liga 1,
 7024,Sporting da Covilhã,Taca de Portugal,
 7026,Sporting de Huelva,Spanish Copa de la Reina,
@@ -7336,7 +7336,7 @@
 7275,Sweden,Women's International Friendly,
 7272,Sweden,UEFA Women's Nations League,
 7273,Sweden,International Friendly,
-7276,Sweden,FIFA World Cup Qualifying - UEFA,
+7276,Sweden,FIFA World Cup Qualifying - UEFA,Sweden
 7279,Sweden,UEFA Women's European Championship,
 7277,Sweden,UEFA Nations League,
 7281,Sweden U21,UEFA European Under-21 Championship Qualifying,
@@ -7352,7 +7352,7 @@
 7295,Switzerland,UEFA Nations League,
 7298,Switzerland,UEFA European Championship Qualifying,
 7297,Switzerland,Women's International Friendly,
-7294,Switzerland,FIFA World Cup Qualifying - UEFA,
+7294,Switzerland,FIFA World Cup Qualifying - UEFA,Switzerland
 7291,Switzerland,UEFA Women's Nations League,
 7292,Switzerland,FIFA Women's World Cup,
 7293,Switzerland,UEFA European Championship,
@@ -7407,7 +7407,7 @@
 7343,Tanjong Pagar United,Singaporean Premier League,
 7344,Tanzania,International Friendly,
 7350,Tanzania,African Nations Championship,
-7347,Tanzania,Africa Cup of Nations,
+7347,Tanzania,Africa Cup of Nations,Tanzania
 7348,Tanzania,African Nations Championship Qualifying,
 7351,Tanzania,FIFA World Cup Qualifying - CAF,
 7346,Tanzania,COSAFA Cup,
@@ -7483,7 +7483,7 @@
 7416,The New Saints,Scottish League Challenge Cup,
 7413,The New Saints,UEFA Europa League Qualifying,
 7419,The Strongest,Copa Bolivia,
-7420,The Strongest,CONMEBOL Libertadores,
+7420,The Strongest,CONMEBOL Libertadores,The Strongest
 7421,The Strongest,Bolivian Liga Profesional,
 7422,Thetford Town,English Women's FA Cup,
 7423,Thionville,Coupe de France,
@@ -7534,7 +7534,7 @@
 7468,Tombense,Brazilian Campeonato Mineiro,
 7469,Tonbridge Angels,English FA Cup,
 7471,Tondela,Taca de Portugal,
-7470,Tondela,Portuguese Primeira Liga,
+7470,Tondela,Portuguese Primeira Liga,Tondela
 7472,Tonga,FIFA World Cup Qualifying - OFC,
 7473,TOP Oss,Dutch KNVB Beker,
 7474,TOP Oss,Dutch Keuken Kampioen Divisie,
@@ -7641,7 +7641,7 @@
 7576,Tunisia,Africa Cup of Nations Qualifying,
 7578,Tunisia,International Friendly,
 7575,Tunisia,Women's International Friendly,
-7579,Tunisia,Africa Cup of Nations,
+7579,Tunisia,Africa Cup of Nations,Tunisia
 7577,Tunisia,Women's Africa Cup of Nations,
 7580,Tunisia,FIFA World Cup Qualifying - CAF,
 7581,Tunisia U20,FIFA Under-20 World Cup,
@@ -7653,7 +7653,7 @@
 7589,Turkey,Women's International Friendly,
 7590,Turkey,UEFA European Championship Qualifying,
 7586,Turkey,UEFA European Championship,
-7588,Turkey,FIFA World Cup Qualifying - UEFA,
+7588,Turkey,FIFA World Cup Qualifying - UEFA,Turkey
 7591,Turkey U19,UEFA European Under-19 Championship,
 7592,Turkey U21,Under-21 International Friendly,
 7593,Turkey U21,UEFA European Under-21 Championship Qualifying,
@@ -7719,7 +7719,7 @@
 7652,UIC,NCAA Men's Soccer,
 7653,UIC,NCAA Women's Soccer,
 7657,Ukraine,International Friendly,
-7659,Ukraine,FIFA World Cup Qualifying - UEFA,
+7659,Ukraine,FIFA World Cup Qualifying - UEFA,Ukraine
 7656,Ukraine,UEFA Nations League,
 7660,Ukraine,UEFA European Championship Qualifying,
 7658,Ukraine,UEFA European Championship,
@@ -7820,7 +7820,7 @@
 7749,Universidad Católica,CONMEBOL Sudamericana,Universidad Católica (CHI)
 7752,Universidad Católica (Quito),LigaPro Ecuador,
 7753,Universidad Católica (Quito),CONMEBOL Sudamericana,
-7754,Universidad Católica (Quito),CONMEBOL Libertadores,
+7754,Universidad Católica (Quito),CONMEBOL Libertadores,Universidad Católica (CHI)
 7755,Universidad Central,Venezuelan Primera División,
 7756,Universidad Central,CONMEBOL Libertadores,
 7759,Universidad de Chile,CONMEBOL Sudamericana,Universidad de Chile
@@ -7853,7 +7853,7 @@
 7783,Ursaria,Spanish Copa del Rey,
 7785,Uruguay,International Friendly,
 7789,Uruguay,Copa América,
-7784,Uruguay,FIFA World Cup Qualifying - CONMEBOL,
+7784,Uruguay,FIFA World Cup Qualifying - CONMEBOL,Uruguay
 7788,Uruguay,Copa América Femenina,
 7786,Uruguay,French Tournoi de France,
 7787,Uruguay,Women's International Friendly,
@@ -7944,10 +7944,10 @@
 7877,Vasco da Gama,Brazilian Serie A,Vasco da Gama
 7876,Vasco da Gama,Club Friendly,Vasco da Gama
 7875,Vasco da Gama,Copa do Brasil,Vasco da Gama
-7878,Västerås SK,Swedish Allsvenskan,
+7878,Västerås SK,Swedish Allsvenskan,Västerås SK
 7879,VCU,NCAA Women's Soccer,
 7880,VCU,NCAA Men's Soccer,
-7881,Vejle Boldklub,Danish Superliga,
+7881,Vejle Boldklub,Danish Superliga,Vejle Boldklub
 7882,Velez Mostar,UEFA Conference League Qualifying,
 7885,Vélez Sarsfield,Argentine Liga Profesional de Fútbol,Velez Sarsfield BA
 7883,Vélez Sarsfield,CONMEBOL Libertadores,Velez Sarsfield BA
@@ -7966,7 +7966,7 @@
 7896,Venezuela,Women's International Friendly,
 7897,Venezuela,Copa América Femenina,
 7899,Venezuela,Copa América,
-7900,Venezuela,FIFA World Cup Qualifying - CONMEBOL,
+7900,Venezuela,FIFA World Cup Qualifying - CONMEBOL,Venezuela
 7898,Venezuela,International Friendly,
 7901,Venezuela U17,FIFA Under-17 World Cup,
 7902,Venezuela U23,CONMEBOL Pre-Olympic Tournament,
@@ -8004,7 +8004,7 @@
 7934,VfV Hildesheim,German Cup,
 7935,Viajes Interrias,Spanish Copa de la Reina,
 7936,Vianense,Taca de Portugal,
-7937,Viborg FF,Danish Superliga,
+7937,Viborg FF,Danish Superliga,Viborg FF
 7938,Vicente Rosales,Copa Chile,
 7939,Vicenza,Coppa Italia,
 7940,Victoria,Honduran Liga Nacional,
@@ -8028,7 +8028,7 @@
 7959,Vikingur Reykjavik,UEFA Conference League,
 7958,Vikingur Reykjavik,UEFA Champions League Qualifying,
 7960,Viktoria Köln,German Cup,
-7963,Viktoria Plzen,UEFA Europa League,
+7963,Viktoria Plzen,UEFA Europa League,Viktoria Plzeň
 7961,Viktoria Plzen,UEFA Champions League Qualifying,
 7964,Viktoria Plzen,UEFA Conference League,
 7962,Viktoria Plzen,UEFA Europa League Qualifying,
@@ -8069,7 +8069,7 @@
 7999,Virginia State,NCAA Women's Soccer,
 8000,Virginia Tech,NCAA Men's Soccer,
 8001,Virginia Tech,NCAA Women's Soccer,
-8003,Virtus Entella,Italian Serie B,
+8003,Virtus Entella,Italian Serie B,Virtus Entella
 8002,Virtus Entella,Coppa Italia,
 8004,Viseu,Taca de Portugal,
 8005,Vision FC,Ghanaian Premier League,
@@ -8123,7 +8123,7 @@
 8053,Wakiso Giants,Ugandan Premier League,
 8055,Wales,International Friendly,
 8057,Wales,UEFA Nations League,
-8054,Wales,FIFA World Cup Qualifying - UEFA,
+8054,Wales,FIFA World Cup Qualifying - UEFA,Wales
 8056,Wales,UEFA Women's European Championship,
 8060,Wales,Women's International Friendly,
 8058,Wales,UEFA European Championship Qualifying,
@@ -8411,3 +8411,162 @@
 8381,Palmeiras,CONMEBOL Libertadores,Palmeiras-SP
 8382,Fluminense,CONMEBOL Libertadores,Fluminense-RJ
 8383,Kairat Almaty,UEFA Champions League,FC Kairat
+8384,,Africa Cup of Nations,Benin
+8385,,Africa Cup of Nations,Botswana
+8386,,Africa Cup of Nations,Comoros
+8387,,Africa Cup of Nations,DR Congo
+8388,,Africa Cup of Nations,Gabon
+8389,,Africa Cup of Nations,Sudan
+8390,,Africa Cup of Nations,Zimbabwe
+8391,,Swedish Allsvenskan,Örgryte IS
+8392,,Austrian Bundesliga,LASK
+8393,,Austrian Bundesliga,Ried
+8394,,Brazilian Serie A,Chapecoense
+8395,,Brazilian Serie A,Remo
+8396,,Brazilian Serie B,Athletic Club (MG)
+8397,,Brazilian Serie B,Fortaleza
+8398,,Brazilian Serie B,Nautico PE
+8399,,Brazilian Serie B,São Bernardo
+8400,,German Bundesliga,SC Paderborn
+8401,,CONMEBOL Libertadores,2 de Mayo
+8402,,CONMEBOL Libertadores,Argentinos Jrs
+8403,,CONMEBOL Libertadores,CA Juventud
+8404,,CONMEBOL Libertadores,Club Guaraní
+8405,,CONMEBOL Libertadores,Club Universitario de Deportes
+8406,,CONMEBOL Libertadores,Coquimbo Unido
+8407,,CONMEBOL Libertadores,Corinthians-SP
+8408,,CONMEBOL Libertadores,Cruzeiro
+8409,,CONMEBOL Libertadores,Cusco FC
+8410,,CONMEBOL Libertadores,Estudiantes La Plata
+8411,,CONMEBOL Libertadores,Flamengo-RJ
+8412,,CONMEBOL Libertadores,Independiente Rivadavia
+8413,,CONMEBOL Libertadores,Junior FC
+8414,,CONMEBOL Libertadores,Lanus
+8415,,CONMEBOL Libertadores,Libertad Asuncion
+8416,,CONMEBOL Libertadores,Liverpool FC Montevideo
+8417,,CONMEBOL Libertadores,Mirassol
+8418,,CONMEBOL Libertadores,Nacional de Montevideo
+8419,,CONMEBOL Libertadores,O'Higgins
+8420,,CONMEBOL Libertadores,Platense
+8421,,CONMEBOL Libertadores,UCV FC
+8422,,CONMEBOL Libertadores,Universidad Católica del Ecuador
+8423,,CONMEBOL Libertadores,Velez Sarsfield
+8424,,CONMEBOL Sudamericana,Alianza Atlético
+8425,,CONMEBOL Sudamericana,Atlético Bucaramanga
+8426,,CONMEBOL Sudamericana,Atlético Nacional S.A
+8427,,CONMEBOL Sudamericana,Barracas Central
+8428,,CONMEBOL Sudamericana,C.D. Cuenca
+8429,,CONMEBOL Sudamericana,CA Juventud
+8430,,CONMEBOL Sudamericana,Club Cienciano
+8431,,CONMEBOL Sudamericana,Club Independiente Petrolero
+8432,,CONMEBOL Sudamericana,Clube Atlético Mineiro
+8433,,CONMEBOL Sudamericana,Fluminense-RJ
+8434,,CONMEBOL Sudamericana,Libertad Asuncion
+8435,,CONMEBOL Sudamericana,Macará
+8436,,CONMEBOL Sudamericana,Monagas SC
+8437,,CONMEBOL Sudamericana,Montevideo City Torque
+8438,,CONMEBOL Sudamericana,Nacional Asunción (Par)
+8439,,CONMEBOL Sudamericana,O'Higgins
+8440,,CONMEBOL Sudamericana,Olimpia Asunción
+8441,,CONMEBOL Sudamericana,Recoleta FC
+8442,,CONMEBOL Sudamericana,Sportivo Trinidense
+8443,,Copa del Rey,Athletic Bilbao
+8444,,Copa del Rey,Atlético Madrid
+8445,,Copa del Rey,Barcelona
+8446,,Copa del Rey,Real Sociedad
+8447,,Coppa Italia,Inter Milan
+8448,,Danish Superliga,AGF Aarhus
+8449,,Danish Superliga,FC Copenhagen
+8450,,Danish Superliga,OB Odense BK
+8451,,Danish Superliga,SonderjyskE
+8452,,English Premier League,Coventry City
+8453,,English Premier League,Hull City
+8454,,Norwegian Eliteserien,HamKam
+8455,,Norwegian Eliteserien,IK Start
+8456,,FIFA World Cup Qualifying - UEFA,Ireland
+8457,,Segunda División de España,AD Ceuta FC
+8458,,Segunda División de España,Albacete
+8459,,Segunda División de España,Almería
+8460,,Segunda División de España,Andorra CF
+8461,,Segunda División de España,Burgos CF
+8462,,Segunda División de España,CD Castellón
+8463,,Segunda División de España,CD Mirandés
+8464,,Segunda División de España,Cultural Leonesa
+8465,,Segunda División de España,Cádiz CF
+8466,,Segunda División de España,Córdoba
+8467,,Segunda División de España,Deportivo La Coruña
+8468,,Segunda División de España,Granada CF
+8469,,Segunda División de España,Las Palmas
+8470,,Segunda División de España,Leganés
+8471,,Segunda División de España,Málaga
+8472,,Segunda División de España,Real Racing Club de Santander
+8473,,Segunda División de España,Real Sociedad B
+8474,,Segunda División de España,Real Valladolid CF
+8475,,Segunda División de España,SD Eibar
+8476,,Segunda División de España,SD Huesca
+8477,,Segunda División de España,Sporting Gijón
+8478,,Segunda División de España,Zaragoza
+8479,,Liga MX,América
+8480,,Liga MX,Atlas
+8481,,Liga MX,Atlético San Luis
+8482,,Liga MX,Cruz Azul
+8483,,Liga MX,FC Juárez
+8484,,Liga MX,Guadalajara
+8485,,Liga MX,León
+8486,,Liga MX,Mazatlán FC
+8487,,Liga MX,Monterrey
+8488,,Liga MX,Necaxa
+8489,,Liga MX,Pachuca
+8490,,Liga MX,Puebla
+8491,,Liga MX,Pumas
+8492,,Liga MX,Querétaro
+8493,,Liga MX,Santos Laguna
+8494,,Liga MX,Tigres
+8495,,Liga MX,Tijuana
+8496,,Liga MX,Toluca
+8497,,MLS,CF Montreal
+8498,,Scottish Premiership,Partick Thistle
+8499,,Portuguese Primeira Liga,AVS Futebol SAD
+8500,,Portuguese Primeira Liga,Vitória SC
+8501,,Argentine Liga Profesional de Fútbol,Central Córdoba
+8502,,Argentine Liga Profesional de Fútbol,Estudiantes de Río Cuarto
+8503,,Argentine Liga Profesional de Fútbol,Gimnasia Mendoza
+8504,,Argentine Liga Profesional de Fútbol,Talleres
+8505,,Chilean Primera División,Deportes Concepción
+8506,,Chilean Primera División,Universidad de Concepción
+8507,,Greek Super League,AE Kifisia FC
+8508,,Greek Super League,AEL
+8509,,Greek Super League,PAOK Thessaloniki
+8510,,Swiss Super League,BSC Young Boys
+8511,,UEFA Champions League,Ajax
+8512,,UEFA Champions League,Athletic Bilbao
+8513,,UEFA Champions League,Bodø/Glimt
+8514,,UEFA Champions League,FC Copenhagen
+8515,,UEFA Champions League,Inter Milan
+8516,,UEFA Champions League,Marseille
+8517,,UEFA Champions League,Olympiakos Piraeus
+8518,,UEFA Champions League,Pafos FC
+8519,,UEFA Champions League,Qarabağ FK
+8520,,UEFA Champions League,Slavia Praha
+8521,,UEFA Champions League,Union Saint-Gilloise
+8522,,UEFA Champions League,Villarreal
+8523,,UEFA Europa League,Aston Villa
+8524,,UEFA Europa League,Bologna
+8525,,UEFA Europa League,Celta Vigo
+8526,,UEFA Europa League,Celtic
+8527,,UEFA Europa League,Dinamo Zagreb
+8528,,UEFA Europa League,FC Basel
+8529,,UEFA Europa League,FC Utrecht
+8530,,UEFA Europa League,Go Ahead Eagles
+8531,,UEFA Europa League,KRC Genk
+8532,,UEFA Europa League,Lille
+8533,,UEFA Europa League,Nottingham Forest
+8534,,UEFA Europa League,Panathinaikos FC
+8535,,UEFA Europa League,Porto
+8536,,UEFA Europa League,Rangers FC
+8537,,UEFA Europa League,Red Star Belgrade
+8538,,UEFA Europa League,SC Braga
+8539,,UEFA Europa League,SK Brann
+8540,,UEFA Europa League,SK Sturm Graz
+8541,,UEFA Europa League,Salzburg
+8542,,UEFA Europa League,VfB Stuttgart

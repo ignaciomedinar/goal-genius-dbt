@@ -3,7 +3,7 @@
 2,AFC Asian Cup Qualifiers,,Asia
 3,AFC Champions League Elite,,Asia
 4,AFC Champions League Two,,Asia
-5,Africa Cup of Nations,,Africa
+5,Africa Cup of Nations,Africa Cup of Nations,Africa
 6,Africa Cup of Nations Qualifying,,Africa
 7,African Nations Championship,,Africa
 8,African Nations Championship Qualifying,,Africa
@@ -89,7 +89,7 @@
 88,Copa de Holanda,,Netherlands
 89,Copa de la Liga de Inglaterra,,England
 90,Copa de Naciones de Asia,,Asia
-91,Copa del Rey,,Spain
+91,Copa del Rey,Copa del Rey,Spain
 92,Copa do Brasil,,Brazil
 93,Copa Do Brazil,,Brazil
 94,Copa do Nordeste,,Brazil
@@ -98,7 +98,7 @@
 97,Copa Mundial Sub-17,,World
 98,Copa Mundial Sub-20,,World
 99,Copa Oro,,Concacaf
-100,Coppa Italia,,Italy
+100,Coppa Italia,Coppa Italia,Italy
 101,COSAFA Cup,,Africa
 102,Costa Rican Primera Division,,Costa Rica
 103,Coupe de France,,France
@@ -303,14 +303,14 @@
 302,UEFA Champions League Qualifying,,Europe
 303,UEFA Conference League,,Europe
 304,UEFA Conference League Qualifying,,Europe
-305,UEFA Europa League,,Europe
+305,UEFA Europa League,UEFA Europa League,Europe
 306,UEFA Europa League Qualifying,,Europe
 307,UEFA European Championship,,Europe
 308,UEFA European Championship Qualifying,,Europe
 309,UEFA European Under-19 Championship,,Europe
 310,UEFA European Under-21 Championship,,Europe
 311,UEFA European Under-21 Championship Qualifying,,Europe
-312,UEFA Nations League,,Europe
+312,UEFA Nations League,UEFA Nations League,Europe
 313,UEFA Super Cup,,Europe
 314,UEFA Women's Champions League,,Europe
 315,UEFA Women's European Championship,,Europe
@@ -340,3 +340,20 @@
 339,FIFA Women's World Cup Qualifying - UEFA,,Europe
 340,CONMEBOL-UEFA Cup of Champions,,America
 341,FIFA World Cup Qualifying - Playoff Tournament,,World
+342,,3. Liga - Germany,
+343,,A-League,
+344,,Bundesliga 2 - Germany,
+345,,DFB-Pokal,
+346,,EFL Cup,
+347,,Ekstraklasa - Poland,
+348,,FA Cup,
+349,,FIFA World Cup,
+350,,J League,
+351,,K League 1,
+352,,Ligue 2 - France,
+353,,Premier League - Russia,
+354,,Super League - China,
+355,,Superettan - Sweden,
+356,,UEFA Champions League Women,
+357,,UEFA Europa Conference League,
+358,,Veikkausliiga - Finland,
