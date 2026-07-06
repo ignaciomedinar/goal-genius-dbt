@@ -49,7 +49,7 @@
 56,AC Ajaccio,French Ligue 1,AC Ajaccio
 57,AC Ajaccio,French Ligue 2,AC Ajaccio
 59,AC Colina,Copa Chile,
-67,AC Horsens,Danish Superliga,
+67,AC Horsens,Danish Superliga,AC Horsens
 70,AC Milan,UEFA Europa League,AC Milan
 71,AC Milan,UEFA Champions League,AC Milan
 73,AC Milan,Club Friendly,AC Milan
@@ -786,7 +786,7 @@
 770,Austria,FIFA World Cup Qualifying - UEFA,Austria
 766,Austria,International Friendly,
 765,Austria,UEFA Nations League,
-772,Austria Lustenau,Austrian Bundesliga,
+772,Austria Lustenau,Austrian Bundesliga,Austria Lustenau
 773,Austria U21,Under-21 International Friendly,
 774,Austria U21,UEFA European Under-21 Championship Qualifying,
 777,Austria Vienna,UEFA Conference League Qualifying,Austria Wien
@@ -6361,7 +6361,7 @@
 6308,Robert Morris,NCAA Men's Soccer,
 6307,Robert Morris,NCAA Women's Soccer,
 6309,Robinhood,Concacaf Champions Cup,
-6310,Rochdale,English League Two,
+6310,Rochdale,English League Two,Rochdale
 6312,Rochdale,English National League,
 6311,Rochdale,English FA Cup,
 6313,Rockhurst,NCAA Women's Soccer,
@@ -6666,7 +6666,7 @@
 6613,SC Cambuur,Dutch KNVB Beker,
 6616,SC Cambuur,Dutch Keuken Kampioen Divisie,
 6615,SC Cambuur,Club Friendly,
-6612,SC Cambuur,Dutch Eredivisie,
+6612,SC Cambuur,Dutch Eredivisie,SC Cambuur
 6618,SC Dnipro-1,UEFA Conference League Qualifying,
 6617,SC Dnipro-1,UEFA Champions League Qualifying,
 6620,SC Dnipro-1,UEFA Conference League,
@@ -9033,3 +9033,18 @@
 9003,,Veikkausliiga - Finland,SJK Seinäjoki
 9004,,Veikkausliiga - Finland,TPS Turku
 9005,,Veikkausliiga - Finland,VPS Vaasa
+9006,,German Bundesliga,Elversberg
+9007,,Danish Superliga,Lyngby
+9008,,Dutch Eredivisie,ADO Den Haag
+9009,,K League 1,Bucheon FC 1995
+9010,,Spanish LALIGA,Deportivo La Coruña
+9011,,Spanish LALIGA,Málaga
+9012,,Spanish LALIGA,Real Racing Club de Santander
+9013,,English League One,Bromley FC
+9014,,English League One,Leicester City
+9015,,English League One,Notts County
+9016,,English League Two,Exeter City
+9017,,English League Two,Rotherham United
+9018,,English League Two,York City
+9019,,French Ligue 1,Le Mans FC
+9020,,Swiss Super League,FC Vaduz
