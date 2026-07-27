@@ -614,7 +614,7 @@
 581,Asante Kotoko,Ghanaian Premier League,
 582,Asbury,NCAA Women's Soccer,
 585,Ascoli,Coppa Italia,
-586,Ascoli,Italian Serie B,
+586,Ascoli,Italian Serie B,Ascoli
 587,Ascot United,English Women's FA Cup,
 588,ASD Torres,Coppa Italia,
 589,ASEC Mimosas,CAF Champions League,
@@ -1010,7 +1010,7 @@
 992,Belmont,NCAA Men's Soccer,
 8325,Benburb,Scottish Cup,
 994,Bendel Insurance FC,Nigerian Professional League,
-995,Benevento,Italian Serie B,
+995,Benevento,Italian Serie B,Benevento
 997,Benfica,Taca de Portugal,Benfica
 1000,Benfica,UEFA Women's Champions League,Benfica
 996,Benfica,Portuguese Primeira Liga,Benfica
@@ -3350,7 +3350,7 @@
 3309,Greece,UEFA Women's Nations League,
 3310,Greece,UEFA European Championship Qualifying,
 3311,Greece,FIFA World Cup Qualifying - UEFA,Greece
-3313,Greece,UEFA Nations League,
+3313,Greece,UEFA Nations League,Greece
 3315,Greece U19,UEFA European Under-19 Championship,
 3316,Greece U21,Under-21 International Friendly,
 3317,Greece U21,UEFA European Under-21 Championship Qualifying,
@@ -4752,7 +4752,7 @@
 4707,Marist,NCAA Men's Soccer,
 4706,Marist,NCAA Women's Soccer,
 4710,Maritimo,Taca de Portugal,
-4711,Maritimo,Portuguese Primeira Liga,
+4711,Maritimo,Portuguese Primeira Liga,CS Maritimo
 4708,Maritimo,Portuguese Primeira Liga Promotion/Relegation Playoffs,
 4709,Maritimo,Club Friendly,
 4712,Maritzburg United,South African First Division,
@@ -6749,7 +6749,7 @@
 6696,Serbia,UEFA Women's Nations League,
 6693,Serbia,FIFA World Cup Qualifying - UEFA,Serbia
 6695,Serbia,International Friendly,
-6697,Serbia,UEFA Nations League,
+6697,Serbia,UEFA Nations League,Serbia
 6694,Serbia,Women's International Friendly,
 6698,Serbia,UEFA European Championship Qualifying,
 6701,Serbia U21,Under-21 International Friendly,
@@ -9055,3 +9055,15 @@
 9025,,Liga MX,Atlante FC
 9026,,Premier League - Russia,FC Fakel Voronezh
 9027,,Premier League - Russia,Rodina Moscow
+9028,,Belgian Pro League,Lommel SK
+9029,,Belgian Pro League,SK Beveren
+9030,,DFB-Pokal,Arminia Bielefeld
+9031,,DFB-Pokal,SG Sonnenhof Großaspach
+9032,,DFB-Pokal,VfL Osnabrück
+9033,,Portuguese Primeira Liga,Académico de Viseu
+9034,,Italian Serie B,Arezzo
+9035,,Italian Serie B,Hellas Verona
+9036,,Italian Serie B,Vicenza
+9037,,Greek Super League,Iraklis FC
+9038,,Greek Super League,Kalamata FC
+9039,,Turkish Super Lig,Akhisar Belediyespor
