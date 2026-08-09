@@ -8411,674 +8411,441 @@
 8381,Palmeiras,CONMEBOL Libertadores,Palmeiras-SP
 8382,Fluminense,CONMEBOL Libertadores,Fluminense-RJ
 8383,Kairat Almaty,UEFA Champions League,FC Kairat
-8384,,Africa Cup of Nations,Benin
-8385,,Africa Cup of Nations,Botswana
-8386,,Africa Cup of Nations,Comoros
-8387,,Africa Cup of Nations,DR Congo
-8388,,Africa Cup of Nations,Gabon
-8389,,Africa Cup of Nations,Sudan
-8390,,Africa Cup of Nations,Zimbabwe
-8391,,Swedish Allsvenskan,Örgryte IS
-8392,,Austrian Bundesliga,LASK
-8393,,Austrian Bundesliga,Ried
-8394,,Brazilian Serie A,Chapecoense
-8395,,Brazilian Serie A,Remo
-8396,,Brazilian Serie B,Athletic Club (MG)
-8397,,Brazilian Serie B,Fortaleza
-8398,,Brazilian Serie B,Nautico PE
-8399,,Brazilian Serie B,São Bernardo
-8400,,German Bundesliga,SC Paderborn
-8401,,CONMEBOL Libertadores,2 de Mayo
-8402,,CONMEBOL Libertadores,Argentinos Jrs
-8403,,CONMEBOL Libertadores,CA Juventud
-8404,,CONMEBOL Libertadores,Club Guaraní
-8405,,CONMEBOL Libertadores,Club Universitario de Deportes
-8406,,CONMEBOL Libertadores,Coquimbo Unido
-8407,,CONMEBOL Libertadores,Corinthians-SP
-8408,,CONMEBOL Libertadores,Cruzeiro
-8409,,CONMEBOL Libertadores,Cusco FC
-8410,,CONMEBOL Libertadores,Estudiantes La Plata
-8411,,CONMEBOL Libertadores,Flamengo-RJ
-8412,,CONMEBOL Libertadores,Independiente Rivadavia
-8413,,CONMEBOL Libertadores,Junior FC
-8414,,CONMEBOL Libertadores,Lanus
-8415,,CONMEBOL Libertadores,Libertad Asuncion
-8416,,CONMEBOL Libertadores,Liverpool FC Montevideo
-8417,,CONMEBOL Libertadores,Mirassol
-8418,,CONMEBOL Libertadores,Nacional de Montevideo
-8419,,CONMEBOL Libertadores,O'Higgins
-8420,,CONMEBOL Libertadores,Platense
-8421,,CONMEBOL Libertadores,UCV FC
-8422,,CONMEBOL Libertadores,Universidad Católica del Ecuador
-8423,,CONMEBOL Libertadores,Velez Sarsfield
-8424,,CONMEBOL Sudamericana,Alianza Atlético
-8425,,CONMEBOL Sudamericana,Atlético Bucaramanga
-8426,,CONMEBOL Sudamericana,Atlético Nacional S.A
-8427,,CONMEBOL Sudamericana,Barracas Central
-8428,,CONMEBOL Sudamericana,C.D. Cuenca
-8429,,CONMEBOL Sudamericana,CA Juventud
-8430,,CONMEBOL Sudamericana,Club Cienciano
-8431,,CONMEBOL Sudamericana,Club Independiente Petrolero
-8432,,CONMEBOL Sudamericana,Clube Atlético Mineiro
-8433,,CONMEBOL Sudamericana,Fluminense-RJ
-8434,,CONMEBOL Sudamericana,Libertad Asuncion
-8435,,CONMEBOL Sudamericana,Macará
-8436,,CONMEBOL Sudamericana,Monagas SC
-8437,,CONMEBOL Sudamericana,Montevideo City Torque
-8438,,CONMEBOL Sudamericana,Nacional Asunción (Par)
-8439,,CONMEBOL Sudamericana,O'Higgins
-8440,,CONMEBOL Sudamericana,Olimpia Asunción
-8441,,CONMEBOL Sudamericana,Recoleta FC
-8442,,CONMEBOL Sudamericana,Sportivo Trinidense
-8443,,Copa del Rey,Athletic Bilbao
-8444,,Copa del Rey,Atlético Madrid
-8445,,Copa del Rey,Barcelona
-8446,,Copa del Rey,Real Sociedad
-8447,,Coppa Italia,Inter Milan
-8448,,Danish Superliga,AGF Aarhus
-8449,,Danish Superliga,FC Copenhagen
-8450,,Danish Superliga,OB Odense BK
-8451,,Danish Superliga,SonderjyskE
-8452,,English Premier League,Coventry City
-8453,,English Premier League,Hull City
-8454,,Norwegian Eliteserien,HamKam
-8455,,Norwegian Eliteserien,IK Start
-8456,,FIFA World Cup Qualifying - UEFA,Ireland
-8457,,Segunda División de España,AD Ceuta FC
-8458,,Segunda División de España,Albacete
-8459,,Segunda División de España,Almería
-8460,,Segunda División de España,Andorra CF
-8461,,Segunda División de España,Burgos CF
-8462,,Segunda División de España,CD Castellón
-8463,,Segunda División de España,CD Mirandés
-8464,,Segunda División de España,Cultural Leonesa
-8465,,Segunda División de España,Cádiz CF
-8466,,Segunda División de España,Córdoba
-8467,,Segunda División de España,Deportivo La Coruña
-8468,,Segunda División de España,Granada CF
-8469,,Segunda División de España,Las Palmas
-8470,,Segunda División de España,Leganés
-8471,,Segunda División de España,Málaga
-8472,,Segunda División de España,Real Racing Club de Santander
-8473,,Segunda División de España,Real Sociedad B
-8474,,Segunda División de España,Real Valladolid CF
-8475,,Segunda División de España,SD Eibar
-8476,,Segunda División de España,SD Huesca
-8477,,Segunda División de España,Sporting Gijón
-8478,,Segunda División de España,Zaragoza
-8479,,Liga MX,América
-8480,,Liga MX,Atlas
-8481,,Liga MX,Atlético San Luis
-8482,,Liga MX,Cruz Azul
-8483,,Liga MX,FC Juárez
-8484,,Liga MX,Guadalajara
-8485,,Liga MX,León
-8486,,Liga MX,Mazatlán FC
-8487,,Liga MX,Monterrey
-8488,,Liga MX,Necaxa
-8489,,Liga MX,Pachuca
-8490,,Liga MX,Puebla
-8491,,Liga MX,Pumas
-8492,,Liga MX,Querétaro
-8493,,Liga MX,Santos Laguna
-8494,,Liga MX,Tigres
-8495,,Liga MX,Tijuana
-8496,,Liga MX,Toluca
-8497,,MLS,CF Montreal
-8498,,Scottish Premiership,Partick Thistle
-8499,,Portuguese Primeira Liga,AVS Futebol SAD
-8500,,Portuguese Primeira Liga,Vitória SC
-8501,,Argentine Liga Profesional de Fútbol,Central Córdoba
-8502,,Argentine Liga Profesional de Fútbol,Estudiantes de Río Cuarto
-8503,,Argentine Liga Profesional de Fútbol,Gimnasia Mendoza
-8504,,Argentine Liga Profesional de Fútbol,Talleres
-8505,,Chilean Primera División,Deportes Concepción
-8506,,Chilean Primera División,Universidad de Concepción
-8507,,Greek Super League,AE Kifisia FC
-8508,,Greek Super League,AEL
-8509,,Greek Super League,PAOK Thessaloniki
-8510,,Swiss Super League,BSC Young Boys
-8511,,UEFA Champions League,Ajax
-8512,,UEFA Champions League,Athletic Bilbao
-8513,,UEFA Champions League,Bodø/Glimt
-8514,,UEFA Champions League,FC Copenhagen
-8515,,UEFA Champions League,Inter Milan
-8516,,UEFA Champions League,Marseille
-8517,,UEFA Champions League,Olympiakos Piraeus
-8518,,UEFA Champions League,Pafos FC
-8519,,UEFA Champions League,Qarabağ FK
-8520,,UEFA Champions League,Slavia Praha
-8521,,UEFA Champions League,Union Saint-Gilloise
-8522,,UEFA Champions League,Villarreal
-8523,,UEFA Europa League,Aston Villa
-8524,,UEFA Europa League,Bologna
-8525,,UEFA Europa League,Celta Vigo
-8526,,UEFA Europa League,Celtic
-8527,,UEFA Europa League,Dinamo Zagreb
-8528,,UEFA Europa League,FC Basel
-8529,,UEFA Europa League,FC Utrecht
-8530,,UEFA Europa League,Go Ahead Eagles
-8531,,UEFA Europa League,KRC Genk
-8532,,UEFA Europa League,Lille
-8533,,UEFA Europa League,Nottingham Forest
-8534,,UEFA Europa League,Panathinaikos FC
-8535,,UEFA Europa League,Porto
-8536,,UEFA Europa League,Rangers FC
-8537,,UEFA Europa League,Red Star Belgrade
-8538,,UEFA Europa League,SC Braga
-8539,,UEFA Europa League,SK Brann
-8540,,UEFA Europa League,SK Sturm Graz
-8541,,UEFA Europa League,Salzburg
-8542,,UEFA Europa League,VfB Stuttgart
-8543,,3. Liga - Germany,1. FC Saarbrücken
-8544,,3. Liga - Germany,Alemannia Aachen
-8545,,3. Liga - Germany,Erzgebirge Aue
-8546,,3. Liga - Germany,FC Energie Cottbus
-8547,,3. Liga - Germany,FC Ingolstadt 04
-8548,,3. Liga - Germany,FC Viktoria Köln 1904
-8549,,3. Liga - Germany,Hansa Rostock
-8550,,3. Liga - Germany,Jahn Regensburg
-8551,,3. Liga - Germany,MSV Duisburg
-8552,,3. Liga - Germany,Rot-Weiss Essen
-8553,,3. Liga - Germany,SC Verl
-8554,,3. Liga - Germany,SSV Ulm 1846
-8555,,3. Liga - Germany,Schweinfurt
-8556,,3. Liga - Germany,TSG Hoffenheim II
-8557,,3. Liga - Germany,TSV 1860 München
-8558,,3. Liga - Germany,TSV Havelse
-8559,,3. Liga - Germany,VfB Stuttgart II
-8560,,3. Liga - Germany,VfL Osnabrück
-8561,,3. Liga - Germany,Waldhof Mannheim
-8562,,3. Liga - Germany,Wehen Wiesbaden
-8563,,A-League,Adelaide United
-8564,,A-League,Auckland FC
-8565,,A-League,Brisbane Roar
-8566,,A-League,Central Coast Mariners
-8567,,A-League,Macarthur FC
-8568,,A-League,Melbourne City
-8569,,A-League,Melbourne Victory
-8570,,A-League,Newcastle Jets FC
-8571,,A-League,Perth Glory
-8572,,A-League,Sydney FC
-8573,,A-League,Wellington Phoenix FC
-8574,,A-League,Western Sydney Wanderers
-8575,,Bundesliga 2 - Germany,1. FC Kaiserslautern
-8576,,Bundesliga 2 - Germany,1. FC Magdeburg
-8577,,Bundesliga 2 - Germany,1. FC Nürnberg
-8578,,Bundesliga 2 - Germany,Arminia Bielefeld
-8579,,Bundesliga 2 - Germany,Dynamo Dresden
-8580,,Bundesliga 2 - Germany,Eintracht Braunschweig
-8581,,Bundesliga 2 - Germany,Elversberg
-8582,,Bundesliga 2 - Germany,FC Schalke 04
-8583,,Bundesliga 2 - Germany,Fortuna Düsseldorf
-8584,,Bundesliga 2 - Germany,Greuther Fürth
-8585,,Bundesliga 2 - Germany,Hannover 96
-8586,,Bundesliga 2 - Germany,Hertha Berlin
-8587,,Bundesliga 2 - Germany,Holstein Kiel
-8588,,Bundesliga 2 - Germany,Karlsruher SC
-8589,,Bundesliga 2 - Germany,Rot-Weiss Essen
-8590,,Bundesliga 2 - Germany,SC Paderborn
-8591,,Bundesliga 2 - Germany,SC Preußen Münster
-8592,,Bundesliga 2 - Germany,SV Darmstadt 98
-8593,,Bundesliga 2 - Germany,VfL Bochum
-8594,,Bundesliga 2 - Germany,VfL Wolfsburg
-8595,,English League Championship,Bolton Wanderers
-8596,,English League Championship,Lincoln City
-8597,,English League Championship,West Ham United
-8598,,English League Championship,Wolverhampton Wanderers
-8599,,CONMEBOL Sudamericana,UCV FC
-8600,,DFB-Pokal,1. FC Kaiserslautern
-8601,,DFB-Pokal,1. FC Köln
-8602,,DFB-Pokal,1. FC Nürnberg
-8603,,DFB-Pokal,1. FC Saarbrücken
-8604,,DFB-Pokal,Augsburg
-8605,,DFB-Pokal,Bayer Leverkusen
-8606,,DFB-Pokal,Bayern Munich
-8607,,DFB-Pokal,Eintracht Braunschweig
-8608,,DFB-Pokal,Elversberg
-8609,,DFB-Pokal,Erzgebirge Aue
-8610,,DFB-Pokal,FC Energie Cottbus
-8611,,DFB-Pokal,FC Schalke 04
-8612,,DFB-Pokal,FC St. Pauli
-8613,,DFB-Pokal,FC Viktoria Köln 1904
-8614,,DFB-Pokal,FC Würzburger Kickers
-8615,,DFB-Pokal,Fortuna Düsseldorf
-8616,,DFB-Pokal,Greuther Fürth
-8617,,DFB-Pokal,Hallescher FC
-8618,,DFB-Pokal,Hamburger SV
-8619,,DFB-Pokal,Hansa Rostock
-8620,,DFB-Pokal,Hertha Berlin
-8621,,DFB-Pokal,Karlsruher SC
-8622,,DFB-Pokal,MSV Duisburg
-8623,,DFB-Pokal,Rot-Weiss Essen
-8624,,DFB-Pokal,SC Freiburg
-8625,,DFB-Pokal,SC Preußen Münster
-8626,,DFB-Pokal,SC Verl
-8627,,DFB-Pokal,TSG Hoffenheim
-8628,,DFB-Pokal,Union Berlin
-8629,,DFB-Pokal,VfB Stuttgart
-8630,,DFB-Pokal,VfL Bochum
-8631,,DFB-Pokal,Waldhof Mannheim
-8632,,DFB-Pokal,Wehen Wiesbaden
-8633,,EFL Cup,Accrington Stanley
-8634,,EFL Cup,Arsenal
-8635,,EFL Cup,Barnet
-8636,,EFL Cup,Barnsley
-8637,,EFL Cup,Birmingham City
-8638,,EFL Cup,Blackburn Rovers
-8639,,EFL Cup,Blackpool
-8640,,EFL Cup,Bolton Wanderers
-8641,,EFL Cup,Brentford
-8642,,EFL Cup,Bristol City
-8643,,EFL Cup,Bristol Rovers
-8644,,EFL Cup,Bromley FC
-8645,,EFL Cup,Burnley
-8646,,EFL Cup,Burton Albion
-8647,,EFL Cup,Cambridge United
-8648,,EFL Cup,Cardiff City
-8649,,EFL Cup,Charlton Athletic
-8650,,EFL Cup,Chelsea
-8651,,EFL Cup,Cheltenham Town
-8652,,EFL Cup,Chesterfield FC
-8653,,EFL Cup,Colchester United
-8654,,EFL Cup,Crawley Town
-8655,,EFL Cup,Crewe Alexandra
-8656,,EFL Cup,Crystal Palace
-8657,,EFL Cup,Derby County
-8658,,EFL Cup,Doncaster Rovers
-8659,,EFL Cup,Exeter City
-8660,,EFL Cup,Fleetwood Town
-8661,,EFL Cup,Fulham
-8662,,EFL Cup,Gillingham
-8663,,EFL Cup,Grimsby Town
-8664,,EFL Cup,Huddersfield Town
-8665,,EFL Cup,Leicester City
-8666,,EFL Cup,Leyton Orient
-8667,,EFL Cup,Lincoln City
-8668,,EFL Cup,Luton
-8669,,EFL Cup,Manchester City
-8670,,EFL Cup,Mansfield Town
-8671,,EFL Cup,Middlesbrough
-8672,,EFL Cup,Millwall
-8673,,EFL Cup,Milton Keynes Dons
-8674,,EFL Cup,Newcastle United
-8675,,EFL Cup,Newport County
-8676,,EFL Cup,Northampton Town
-8677,,EFL Cup,Norwich City
-8678,,EFL Cup,Notts County
-8679,,EFL Cup,Oldham Athletic
-8680,,EFL Cup,Oxford United
-8681,,EFL Cup,Peterborough United
-8682,,EFL Cup,Plymouth Argyle
-8683,,EFL Cup,Port Vale
-8684,,EFL Cup,Portsmouth
-8685,,EFL Cup,Preston North End
-8686,,EFL Cup,Queens Park Rangers
-8687,,EFL Cup,Reading
-8688,,EFL Cup,Rochdale
-8689,,EFL Cup,Rotherham United
-8690,,EFL Cup,Salford City
-8691,,EFL Cup,Sheffield United
-8692,,EFL Cup,Sheffield Wednesday
-8693,,EFL Cup,Shrewsbury Town
-8694,,EFL Cup,Southampton
-8695,,EFL Cup,Stevenage
-8696,,EFL Cup,Stockport County FC
-8697,,EFL Cup,Stoke City
-8698,,EFL Cup,Swansea City
-8699,,EFL Cup,Swindon Town
-8700,,EFL Cup,Tranmere Rovers
-8701,,EFL Cup,Walsall
-8702,,EFL Cup,West Bromwich Albion
-8703,,EFL Cup,West Ham United
-8704,,EFL Cup,Wigan Athletic
-8705,,EFL Cup,Wimbledon
-8706,,EFL Cup,Wolverhampton Wanderers
-8707,,EFL Cup,Wrexham AFC
-8708,,EFL Cup,Wycombe Wanderers
-8709,,EFL Cup,York City
-8710,,Ekstraklasa - Poland,Arka Gdynia
-8711,,Ekstraklasa - Poland,Cracovia Kraków
-8712,,Ekstraklasa - Poland,GKS Katowice
-8713,,Ekstraklasa - Poland,Górnik Zabrze
-8714,,Ekstraklasa - Poland,Jagiellonia Białystok
-8715,,Ekstraklasa - Poland,Korona Kielce
-8716,,Ekstraklasa - Poland,Lech Poznań
-8717,,Ekstraklasa - Poland,Lechia Gdańsk
-8718,,Ekstraklasa - Poland,Legia Warszawa
-8719,,Ekstraklasa - Poland,Motor Lublin
-8720,,Ekstraklasa - Poland,Nieciecza
-8721,,Ekstraklasa - Poland,Piast Gliwice
-8722,,Ekstraklasa - Poland,Pogoń Szczecin
-8723,,Ekstraklasa - Poland,Radomiak Radom
-8724,,Ekstraklasa - Poland,Raków Częstochowa
-8725,,Ekstraklasa - Poland,Widzew Łódź
-8726,,Ekstraklasa - Poland,Wisła Płock
-8727,,Ekstraklasa - Poland,Zagłębie Lubin
-8728,,FA Cup,Arsenal
-8729,,FA Cup,Aston Villa
-8730,,FA Cup,Barnsley
-8731,,FA Cup,Birmingham City
-8732,,FA Cup,Blackburn Rovers
-8733,,FA Cup,Blackpool
-8734,,FA Cup,Boreham Wood FC
-8735,,FA Cup,Bournemouth
-8736,,FA Cup,Brackley Town FC
-8737,,FA Cup,Brentford
-8738,,FA Cup,Brighton and Hove Albion
-8739,,FA Cup,Bristol City
-8740,,FA Cup,Burnley
-8741,,FA Cup,Burton Albion
-8742,,FA Cup,Cambridge United
-8743,,FA Cup,Charlton Athletic
-8744,,FA Cup,Chelsea
-8745,,FA Cup,Cheltenham Town
-8746,,FA Cup,Coventry City
-8747,,FA Cup,Crystal Palace
-8748,,FA Cup,Derby County
-8749,,FA Cup,Doncaster Rovers
-8750,,FA Cup,Everton
-8751,,FA Cup,Exeter City
-8752,,FA Cup,Fleetwood Town
-8753,,FA Cup,Fulham
-8754,,FA Cup,Grimsby Town
-8755,,FA Cup,Hull City
-8756,,FA Cup,Ipswich Town
-8757,,FA Cup,Leeds United
-8758,,FA Cup,Leicester City
-8759,,FA Cup,Liverpool
-8760,,FA Cup,Macclesfield Town
-8761,,FA Cup,Manchester City
-8762,,FA Cup,Manchester United
-8763,,FA Cup,Mansfield Town
-8764,,FA Cup,Middlesbrough
-8765,,FA Cup,Millwall
-8766,,FA Cup,Milton Keynes Dons
-8767,,FA Cup,Newcastle United
-8768,,FA Cup,Norwich City
-8769,,FA Cup,Nottingham Forest
-8770,,FA Cup,Oxford United
-8771,,FA Cup,Port Vale
-8772,,FA Cup,Portsmouth
-8773,,FA Cup,Preston North End
-8774,,FA Cup,Queens Park Rangers
-8775,,FA Cup,Salford City
-8776,,FA Cup,Sheffield United
-8777,,FA Cup,Sheffield Wednesday
-8778,,FA Cup,Shrewsbury Town
-8779,,FA Cup,Southampton
-8780,,FA Cup,Stoke City
-8781,,FA Cup,Sunderland
-8782,,FA Cup,Swansea City
-8783,,FA Cup,Swindon Town
-8784,,FA Cup,Tottenham Hotspur
-8785,,FA Cup,Walsall Wood FC
-8786,,FA Cup,Watford
-8787,,FA Cup,West Bromwich Albion
-8788,,FA Cup,West Ham United
-8789,,FA Cup,Weston-super-Mare AFC
-8790,,FA Cup,Wigan Athletic
-8791,,FA Cup,Wolverhampton Wanderers
-8792,,FA Cup,Wrexham AFC
-8793,,FIFA World Cup,Algeria
-8794,,FIFA World Cup,Argentina
-8795,,FIFA World Cup,Australia
-8796,,FIFA World Cup,Austria
-8797,,FIFA World Cup,Belgium
-8798,,FIFA World Cup,Bosnia & Herzegovina
-8799,,FIFA World Cup,Brazil
-8800,,FIFA World Cup,Canada
-8801,,FIFA World Cup,Cape Verde
-8802,,FIFA World Cup,Colombia
-8803,,FIFA World Cup,Croatia
-8804,,FIFA World Cup,Curaçao
-8805,,FIFA World Cup,Czech Republic
-8806,,FIFA World Cup,DR Congo
-8807,,FIFA World Cup,Ecuador
-8808,,FIFA World Cup,Egypt
-8809,,FIFA World Cup,England
-8810,,FIFA World Cup,France
-8811,,FIFA World Cup,Germany
-8812,,FIFA World Cup,Ghana
-8813,,FIFA World Cup,Haiti
-8814,,FIFA World Cup,Iran
-8815,,FIFA World Cup,Iraq
-8816,,FIFA World Cup,Ivory Coast
-8817,,FIFA World Cup,Japan
-8818,,FIFA World Cup,Jordan
-8819,,FIFA World Cup,Mexico
-8820,,FIFA World Cup,Morocco
-8821,,FIFA World Cup,Netherlands
-8822,,FIFA World Cup,New Zealand
-8823,,FIFA World Cup,Norway
-8824,,FIFA World Cup,Panama
-8825,,FIFA World Cup,Paraguay
-8826,,FIFA World Cup,Portugal
-8827,,FIFA World Cup,Qatar
-8828,,FIFA World Cup,Saudi Arabia
-8829,,FIFA World Cup,Scotland
-8830,,FIFA World Cup,Senegal
-8831,,FIFA World Cup,South Africa
-8832,,FIFA World Cup,South Korea
-8833,,FIFA World Cup,Spain
-8834,,FIFA World Cup,Sweden
-8835,,FIFA World Cup,Switzerland
-8836,,FIFA World Cup,Tunisia
-8837,,FIFA World Cup,Turkey
-8838,,FIFA World Cup,USA
-8839,,FIFA World Cup,Uruguay
-8840,,FIFA World Cup,Uzbekistan
-8841,,J League,Avispa Fukuoka
-8842,,J League,Cerezo Osaka
-8843,,J League,FC Machida Zelvia
-8844,,J League,FC Tokyo
-8845,,J League,Fagiano Okayama
-8846,,J League,Gamba Osaka
-8847,,J League,Hiroshima Sanfrecce FC
-8848,,J League,JEF United Chiba
-8849,,J League,Kashima Antlers
-8850,,J League,Kashiwa Reysol
-8851,,J League,Kawasaki Frontale
-8852,,J League,Kyoto Purple Sanga
-8853,,J League,Mito HollyHock
-8854,,J League,Nagoya Grampus
-8855,,J League,Shimizu S Pulse
-8856,,J League,Tokyo Verdy
-8857,,J League,Urawa Red Diamonds
-8858,,J League,V-Varen Nagasaki
-8859,,J League,Vissel Kobe
-8860,,J League,Yokohama F Marinos
-8861,,K League 1,Daejeon Citizen
-8862,,K League 1,FC Anyang
-8863,,K League 1,FC Seoul
-8864,,K League 1,Gangwon FC
-8865,,K League 1,Gwangju FC
-8866,,K League 1,Incheon United
-8867,,K League 1,Jeju United FC
-8868,,K League 1,Jeonbuk Hyundai Motors
-8869,,K League 1,Pohang Steelers
-8870,,K League 1,Sangju Sangmu FC
-8871,,K League 1,Ulsan Hyundai FC
-8872,,Ligue 2 - France,Amiens
-8873,,Ligue 2 - France,Annecy FC
-8874,,Ligue 2 - France,Boulogne
-8875,,Ligue 2 - France,Clermont
-8876,,Ligue 2 - France,Grenoble
-8877,,Ligue 2 - France,Guingamp
-8878,,Ligue 2 - France,Le Mans FC
-8879,,Ligue 2 - France,Montpellier
-8880,,Ligue 2 - France,Nancy
-8881,,Ligue 2 - France,Pau FC
-8882,,Ligue 2 - France,Red Star
-8883,,Ligue 2 - France,Rodez AF
-8884,,Ligue 2 - France,SC Bastia
-8885,,Ligue 2 - France,Saint Etienne
-8886,,Ligue 2 - France,Stade Lavallois
-8887,,Ligue 2 - France,Stade de Reims
-8888,,Ligue 2 - France,Troyes
-8889,,Ligue 2 - France,USL Dunkerque
-8890,,Premier League - Russia,CSKA Moscow
-8891,,Premier League - Russia,Dinamo Moscow
-8892,,Premier League - Russia,FC Akhmat Grozny
-8893,,Premier League - Russia,FC Akron Tolyatti
-8894,,Premier League - Russia,FC Baltika Kaliningrad
-8895,,Premier League - Russia,FC Dynamo Makhachkala
-8896,,Premier League - Russia,FC Krasnodar
-8897,,Premier League - Russia,FC Nizhny Novgorod
-8898,,Premier League - Russia,FK Rostov
-8899,,Premier League - Russia,FK Sochi
-8900,,Premier League - Russia,Gazovik Orenburg
-8901,,Premier League - Russia,Kryliya Sovetov
-8902,,Premier League - Russia,Lokomotiv Moscow
-8903,,Premier League - Russia,Rubin Kazan
-8904,,Premier League - Russia,Spartak Moscow
-8905,,Premier League - Russia,Zenit St Petersburg
-8906,,Super League - China,Beijing FC
-8907,,Super League - China,Chengdu Rongcheng FC
-8908,,Super League - China,Chongqing Tonglianglong FC
-8909,,Super League - China,Dalian Yingbo
-8910,,Super League - China,Henan FC
-8911,,Super League - China,Liaoning Tieren FC
-8912,,Super League - China,Qingdao Hainiu FC
-8913,,Super League - China,Qingdao West Coast FC
-8914,,Super League - China,Shandong Luneng Taishan FC
-8915,,Super League - China,Shanghai SIPG FC
-8916,,Super League - China,Shanghai Shenhua FC
-8917,,Super League - China,Shenzhen Peng City FC
-8918,,Super League - China,Tianjin Jinmen Tiger FC
-8919,,Super League - China,Wuhan Three Towns
-8920,,Super League - China,Yunnan Yukun
-8921,,Super League - China,Zhejiang
-8922,,Superettan - Sweden,Falkenbergs FF
-8923,,Superettan - Sweden,GIF Sundsvall
-8924,,Superettan - Sweden,Helsingborgs IF
-8925,,Superettan - Sweden,IFK Norrkoping
-8926,,Superettan - Sweden,IFK Värnamo
-8927,,Superettan - Sweden,IK Brage
-8928,,Superettan - Sweden,IK Oddevold
-8929,,Superettan - Sweden,Landskrona BoIS
-8930,,Superettan - Sweden,Ljungskile SK
-8931,,Superettan - Sweden,Nordic United FC
-8932,,Superettan - Sweden,Norrby IF
-8933,,Superettan - Sweden,Sandvikens IF
-8934,,Superettan - Sweden,Utsiktens BK
-8935,,Superettan - Sweden,Varbergs BoIS
-8936,,Superettan - Sweden,Örebro SK
-8937,,Superettan - Sweden,Örgryte IS
-8938,,Superettan - Sweden,Östers IF
-8939,,Superettan - Sweden,Östersunds FK
-8940,,UEFA Champions League Women,AS Roma
-8941,,UEFA Champions League Women,Arsenal
-8942,,UEFA Champions League Women,Atlético Madrid
-8943,,UEFA Champions League Women,Barcelona
-8944,,UEFA Champions League Women,Bayern Munich
-8945,,UEFA Champions League Women,Benfica
-8946,,UEFA Champions League Women,Chelsea
-8947,,UEFA Champions League Women,FC Twente Enschede
-8948,,UEFA Champions League Women,Juventus
-8949,,UEFA Champions League Women,Leuven
-8950,,UEFA Champions League Women,Lyon
-8951,,UEFA Champions League Women,Manchester United
-8952,,UEFA Champions League Women,Paris FC
-8953,,UEFA Champions League Women,Paris Saint Germain
-8954,,UEFA Champions League Women,Real Madrid
-8955,,UEFA Champions League Women,SKN St. Pölten
-8956,,UEFA Champions League Women,VfL Wolfsburg
-8957,,UEFA Champions League Women,Vålerenga
-8958,,UEFA Europa Conference League,AEK Athens
-8959,,UEFA Europa Conference League,AEK Larnaca
-8960,,UEFA Europa Conference League,AZ Alkmaar
-8961,,UEFA Europa Conference League,Aberdeen
-8962,,UEFA Europa Conference League,BK Häcken
-8963,,UEFA Europa Conference League,Breiðablik
-8964,,UEFA Europa Conference League,Crystal Palace
-8965,,UEFA Europa Conference League,Dynamo Kyiv
-8966,,UEFA Europa Conference League,FC Drita
-8967,,UEFA Europa Conference League,FC Lausanne-Sport
-8968,,UEFA Europa Conference League,FC Noah
-8969,,UEFA Europa Conference League,FSV Mainz 05
-8970,,UEFA Europa Conference League,Fiorentina
-8971,,UEFA Europa Conference League,HNK Rijeka
-8972,,UEFA Europa Conference League,HŠK Zrinjski Mostar
-8973,,UEFA Europa Conference League,Jagiellonia Białystok
-8974,,UEFA Europa Conference League,KF Shkëndija
-8975,,UEFA Europa Conference League,KuPS Kuopio
-8976,,UEFA Europa Conference League,Lech Poznań
-8977,,UEFA Europa Conference League,Legia Warszawa
-8978,,UEFA Europa Conference League,Lincoln Red Imps FC
-8979,,UEFA Europa Conference League,NK Celje
-8980,,UEFA Europa Conference League,Omonoia FC
-8981,,UEFA Europa Conference League,Raków Częstochowa
-8982,,UEFA Europa Conference League,Rapid Wien
-8983,,UEFA Europa Conference League,Rayo Vallecano
-8984,,UEFA Europa Conference League,Samsunspor
-8985,,UEFA Europa Conference League,Shakhtar Donetsk
-8986,,UEFA Europa Conference League,Shamrock Rovers
-8987,,UEFA Europa Conference League,Shelbourne Dublin
-8988,,UEFA Europa Conference League,Sigma Olomouc
-8989,,UEFA Europa Conference League,Sparta Prague
-8990,,UEFA Europa Conference League,Strasbourg
-8991,,UEFA Europa Conference League,Universitatea Craiova
-8992,,UEFA Europa Conference League,Ħamrun Spartans FC
-8993,,UEFA Europa Conference League,ŠK Slovan Bratislava
-8994,,Veikkausliiga - Finland,AC Oulu
-8995,,Veikkausliiga - Finland,FC Inter Turku
-8996,,Veikkausliiga - Finland,FC Lahti
-8997,,Veikkausliiga - Finland,HJK Helsinki
-8998,,Veikkausliiga - Finland,IF Gnistan
-8999,,Veikkausliiga - Finland,IFK Mariehamn
-9000,,Veikkausliiga - Finland,Ilves Tampere
-9001,,Veikkausliiga - Finland,Jaro
-9002,,Veikkausliiga - Finland,KuPS Kuopio
-9003,,Veikkausliiga - Finland,SJK Seinäjoki
-9004,,Veikkausliiga - Finland,TPS Turku
-9005,,Veikkausliiga - Finland,VPS Vaasa
-9006,,German Bundesliga,Elversberg
-9007,,Danish Superliga,Lyngby
-9008,,Dutch Eredivisie,ADO Den Haag
-9009,,K League 1,Bucheon FC 1995
-9010,,Spanish LALIGA,Deportivo La Coruña
-9011,,Spanish LALIGA,Málaga
-9012,,Spanish LALIGA,Real Racing Club de Santander
-9013,,English League One,Bromley FC
-9014,,English League One,Leicester City
-9015,,English League One,Notts County
-9016,,English League Two,Exeter City
-9017,,English League Two,Rotherham United
-9018,,English League Two,York City
-9019,,French Ligue 1,Le Mans FC
-9020,,Swiss Super League,FC Vaduz
-9021,,Bundesliga 2 - Germany,1. FC Heidenheim
-9022,,Bundesliga 2 - Germany,FC Energie Cottbus
-9023,,Bundesliga 2 - Germany,FC St. Pauli
-9024,,Bundesliga 2 - Germany,VfL Osnabrück
-9025,,Liga MX,Atlante FC
-9026,,Premier League - Russia,FC Fakel Voronezh
-9027,,Premier League - Russia,Rodina Moscow
-9028,,Belgian Pro League,Lommel SK
-9029,,Belgian Pro League,SK Beveren
-9030,,DFB-Pokal,Arminia Bielefeld
-9031,,DFB-Pokal,SG Sonnenhof Großaspach
-9032,,DFB-Pokal,VfL Osnabrück
-9033,,Portuguese Primeira Liga,Académico de Viseu
-9034,,Italian Serie B,Arezzo
-9035,,Italian Serie B,Hellas Verona
-9036,,Italian Serie B,Vicenza
-9037,,Greek Super League,Iraklis FC
-9038,,Greek Super League,Kalamata FC
-9039,,Turkish Super Lig,Akhisar Belediyespor
-9040,,3. Liga - Germany,FC Würzburger Kickers
-9041,,3. Liga - Germany,Fortuna Düsseldorf
-9042,,3. Liga - Germany,SC Fortuna Köln
-9043,,3. Liga - Germany,SC Preußen Münster
-9044,,3. Liga - Germany,SG Sonnenhof Großaspach
-9045,,3. Liga - Germany,SV Meppen
-9046,,EFL Cup,Bradford City
-9047,,Leagues Cup,Atlante FC
-9048,,Leagues Cup,Santos Laguna
-9049,,Ligue 2 - France,Dijon
-9050,,Ligue 2 - France,Metz
-9051,,Ligue 2 - France,Nantes
-9052,,Ligue 2 - France,Sochaux
-9053,,Turkish Super Lig,Amed SK
-9054,,Turkish Super Lig,Erzurum BB
+8384,Alemannia Aachen,3. Liga - Germany,Alemannia Aachen
+8385,FC Erzgebirge Aue,3. Liga - Germany,Erzgebirge Aue
+8386,Energie Cottbus,3. Liga - Germany,FC Energie Cottbus
+8387,FC Ingolstadt 04,3. Liga - Germany,FC Ingolstadt 04
+8388,Würzburger Kickers,3. Liga - Germany,FC Würzburger Kickers
+8389,Fortuna Düsseldorf,3. Liga - Germany,Fortuna Düsseldorf
+8390,Hansa Rostock,3. Liga - Germany,Hansa Rostock
+8391,Rot-Weiss Essen,3. Liga - Germany,Rot-Weiss Essen
+8392,Preußen Münster,3. Liga - Germany,SC Preußen Münster
+8393,SG Sonnenhof Großaspach,3. Liga - Germany,SG Sonnenhof Großaspach
+8394,SSV Ulm 1846,3. Liga - Germany,SSV Ulm 1846
+8395,SV Meppen,3. Liga - Germany,SV Meppen
+8396,TSG Hoffenheim,3. Liga - Germany,TSG Hoffenheim II
+8397,VfL Osnabruck,3. Liga - Germany,VfL Osnabrück
+8398,SV Wehen Wiesbaden,3. Liga - Germany,Wehen Wiesbaden
+8399,Adelaide United,A-League,Adelaide United
+8400,Auckland FC,A-League,Auckland FC
+8401,Brisbane Roar,A-League,Brisbane Roar
+8402,Central Coast Mariners,A-League,Central Coast Mariners
+8403,Macarthur FC,A-League,Macarthur FC
+8404,Melbourne City,A-League,Melbourne City
+8405,Melbourne Victory,A-League,Melbourne Victory
+8406,Newcastle Jets,A-League,Newcastle Jets FC
+8407,Perth Glory,A-League,Perth Glory
+8408,Sydney FC,A-League,Sydney FC
+8409,Wellington Phoenix FC,A-League,Wellington Phoenix FC
+8410,Western Sydney Wanderers,A-League,Western Sydney Wanderers
+8411,Benin,Africa Cup of Nations,Benin
+8412,Botswana,Africa Cup of Nations,Botswana
+8413,Comoros,Africa Cup of Nations,Comoros
+8414,Gabon,Africa Cup of Nations,Gabon
+8415,Sudan,Africa Cup of Nations,Sudan
+8416,Zimbabwe,Africa Cup of Nations,Zimbabwe
+8417,Lommel SK,Belgian Pro League,Lommel SK
+8418,Chapecoense,Brazilian Serie A,Chapecoense
+8419,Remo,Brazilian Serie A,Remo
+8420,Fortaleza,Brazilian Serie B,Fortaleza
+8421,São Bernardo,Brazilian Serie B,São Bernardo
+8422,1. FC Magdeburg,Bundesliga 2 - Germany,1. FC Magdeburg
+8423,1. FC Nürnberg,Bundesliga 2 - Germany,1. FC Nürnberg
+8424,Arminia Bielefeld,Bundesliga 2 - Germany,Arminia Bielefeld
+8425,Dynamo Dresden,Bundesliga 2 - Germany,Dynamo Dresden
+8426,TSV Eintracht Braunschweig,Bundesliga 2 - Germany,Eintracht Braunschweig
+8427,Energie Cottbus,Bundesliga 2 - Germany,FC Energie Cottbus
+8428,Fortuna Düsseldorf,Bundesliga 2 - Germany,Fortuna Düsseldorf
+8429,Hannover 96,Bundesliga 2 - Germany,Hannover 96
+8430,Hertha Berlin,Bundesliga 2 - Germany,Hertha Berlin
+8431,Holstein Kiel,Bundesliga 2 - Germany,Holstein Kiel
+8432,Karlsruher SC,Bundesliga 2 - Germany,Karlsruher SC
+8433,Rot-Weiss Essen,Bundesliga 2 - Germany,Rot-Weiss Essen
+8434,Preußen Münster,Bundesliga 2 - Germany,SC Preußen Münster
+8435,SV Darmstadt 98,Bundesliga 2 - Germany,SV Darmstadt 98
+8436,VfL Bochum,Bundesliga 2 - Germany,VfL Bochum
+8437,VfL Osnabruck,Bundesliga 2 - Germany,VfL Osnabrück
+8438,VfL Wolfsburg,Bundesliga 2 - Germany,VfL Wolfsburg
+8439,Bolton Wanderers,English League Championship,Bolton Wanderers
+8440,Lincoln City,English League Championship,Lincoln City
+8441,West Ham United,English League Championship,West Ham United
+8442,Wolverhampton Wanderers,English League Championship,Wolverhampton Wanderers
+8443,2 de Mayo,CONMEBOL Libertadores,2 de Mayo
+8444,Coquimbo Unido,CONMEBOL Libertadores,Coquimbo Unido
+8445,Cruzeiro,CONMEBOL Libertadores,Cruzeiro
+8446,Cusco FC,CONMEBOL Libertadores,Cusco FC
+8447,Estudiantes de La Plata,CONMEBOL Libertadores,Estudiantes La Plata
+8448,Vélez Sarsfield,CONMEBOL Libertadores,Velez Sarsfield
+8449,Monagas SC,CONMEBOL Sudamericana,Monagas SC
+8450,Atlético Madrid,Copa del Rey,Atlético Madrid
+8451,Barcelona,Copa del Rey,Barcelona
+8452,Real Sociedad,Copa del Rey,Real Sociedad
+8453,1. FC Nürnberg,DFB-Pokal,1. FC Nürnberg
+8454,Arminia Bielefeld,DFB-Pokal,Arminia Bielefeld
+8455,Bayer Leverkusen,DFB-Pokal,Bayer Leverkusen
+8456,Bayern Munich,DFB-Pokal,Bayern Munich
+8457,TSV Eintracht Braunschweig,DFB-Pokal,Eintracht Braunschweig
+8458,FC Erzgebirge Aue,DFB-Pokal,Erzgebirge Aue
+8459,Energie Cottbus,DFB-Pokal,FC Energie Cottbus
+8460,Würzburger Kickers,DFB-Pokal,FC Würzburger Kickers
+8461,Fortuna Düsseldorf,DFB-Pokal,Fortuna Düsseldorf
+8462,Hallescher FC,DFB-Pokal,Hallescher FC
+8463,Hamburg SV,DFB-Pokal,Hamburger SV
+8464,Hansa Rostock,DFB-Pokal,Hansa Rostock
+8465,Hertha Berlin,DFB-Pokal,Hertha Berlin
+8466,Karlsruher SC,DFB-Pokal,Karlsruher SC
+8467,Rot-Weiss Essen,DFB-Pokal,Rot-Weiss Essen
+8468,SC Freiburg,DFB-Pokal,SC Freiburg
+8469,Preußen Münster,DFB-Pokal,SC Preußen Münster
+8470,SG Sonnenhof Großaspach,DFB-Pokal,SG Sonnenhof Großaspach
+8471,TSG Hoffenheim,DFB-Pokal,TSG Hoffenheim
+8472,VfB Stuttgart,DFB-Pokal,VfB Stuttgart
+8473,VfL Bochum,DFB-Pokal,VfL Bochum
+8474,VfL Osnabruck,DFB-Pokal,VfL Osnabrück
+8475,SV Wehen Wiesbaden,DFB-Pokal,Wehen Wiesbaden
+8476,ADO Den Haag,Dutch Eredivisie,ADO Den Haag
+8477,Accrington Stanley,EFL Cup,Accrington Stanley
+8478,Arsenal,EFL Cup,Arsenal
+8479,Barnet,EFL Cup,Barnet
+8480,Barnsley,EFL Cup,Barnsley
+8481,Birmingham City,EFL Cup,Birmingham City
+8482,Blackburn Rovers,EFL Cup,Blackburn Rovers
+8483,Blackpool,EFL Cup,Blackpool
+8484,Bolton Wanderers,EFL Cup,Bolton Wanderers
+8485,Bradford City,EFL Cup,Bradford City
+8486,Brentford,EFL Cup,Brentford
+8487,Bristol City,EFL Cup,Bristol City
+8488,Bristol Rovers,EFL Cup,Bristol Rovers
+8489,Burnley,EFL Cup,Burnley
+8490,Burton Albion,EFL Cup,Burton Albion
+8491,Cambridge United,EFL Cup,Cambridge United
+8492,Cardiff City,EFL Cup,Cardiff City
+8493,Charlton Athletic,EFL Cup,Charlton Athletic
+8494,Chelsea,EFL Cup,Chelsea
+8495,Cheltenham Town,EFL Cup,Cheltenham Town
+8496,Colchester United,EFL Cup,Colchester United
+8497,Crawley Town,EFL Cup,Crawley Town
+8498,Crewe Alexandra,EFL Cup,Crewe Alexandra
+8499,Crystal Palace,EFL Cup,Crystal Palace
+8500,Derby County,EFL Cup,Derby County
+8501,Doncaster Rovers,EFL Cup,Doncaster Rovers
+8502,Exeter City,EFL Cup,Exeter City
+8503,Fleetwood Town,EFL Cup,Fleetwood Town
+8504,Fulham,EFL Cup,Fulham
+8505,Gillingham,EFL Cup,Gillingham
+8506,Grimsby Town,EFL Cup,Grimsby Town
+8507,Huddersfield Town,EFL Cup,Huddersfield Town
+8508,Leicester City,EFL Cup,Leicester City
+8509,Leyton Orient,EFL Cup,Leyton Orient
+8510,Lincoln City,EFL Cup,Lincoln City
+8511,Manchester City,EFL Cup,Manchester City
+8512,Mansfield Town,EFL Cup,Mansfield Town
+8513,Middlesbrough,EFL Cup,Middlesbrough
+8514,Millwall,EFL Cup,Millwall
+8515,Milton Keynes Dons,EFL Cup,Milton Keynes Dons
+8516,Newcastle United,EFL Cup,Newcastle United
+8517,Newport County,EFL Cup,Newport County
+8518,Northampton Town,EFL Cup,Northampton Town
+8519,Norwich City,EFL Cup,Norwich City
+8520,Notts County,EFL Cup,Notts County
+8521,Oldham Athletic,EFL Cup,Oldham Athletic
+8522,Oxford United,EFL Cup,Oxford United
+8523,Peterborough United,EFL Cup,Peterborough United
+8524,Plymouth Argyle,EFL Cup,Plymouth Argyle
+8525,Port Vale,EFL Cup,Port Vale
+8526,Portsmouth,EFL Cup,Portsmouth
+8527,Preston North End,EFL Cup,Preston North End
+8528,Queens Park Rangers,EFL Cup,Queens Park Rangers
+8529,Reading,EFL Cup,Reading
+8530,Rochdale,EFL Cup,Rochdale
+8531,Rotherham United,EFL Cup,Rotherham United
+8532,Salford City,EFL Cup,Salford City
+8533,Sheffield United,EFL Cup,Sheffield United
+8534,Sheffield Wednesday,EFL Cup,Sheffield Wednesday
+8535,Shrewsbury Town,EFL Cup,Shrewsbury Town
+8536,Southampton,EFL Cup,Southampton
+8537,Stevenage,EFL Cup,Stevenage
+8538,Stockport County,EFL Cup,Stockport County FC
+8539,Stoke City,EFL Cup,Stoke City
+8540,Swansea City,EFL Cup,Swansea City
+8541,Swindon Town,EFL Cup,Swindon Town
+8542,Tranmere Rovers,EFL Cup,Tranmere Rovers
+8543,Walsall,EFL Cup,Walsall
+8544,West Bromwich Albion,EFL Cup,West Bromwich Albion
+8545,West Ham United,EFL Cup,West Ham United
+8546,Wigan Athletic,EFL Cup,Wigan Athletic
+8547,Wolverhampton Wanderers,EFL Cup,Wolverhampton Wanderers
+8548,Wycombe Wanderers,EFL Cup,Wycombe Wanderers
+8549,York City,EFL Cup,York City
+8550,Coventry City,English Premier League,Coventry City
+8551,Hull City,English Premier League,Hull City
+8552,Arsenal,FA Cup,Arsenal
+8553,Aston Villa,FA Cup,Aston Villa
+8554,Barnsley,FA Cup,Barnsley
+8555,Birmingham City,FA Cup,Birmingham City
+8556,Blackburn Rovers,FA Cup,Blackburn Rovers
+8557,Blackpool,FA Cup,Blackpool
+8558,Bournemouth,FA Cup,Bournemouth
+8559,Brentford,FA Cup,Brentford
+8560,Brighton & Hove Albion,FA Cup,Brighton and Hove Albion
+8561,Bristol City,FA Cup,Bristol City
+8562,Burnley,FA Cup,Burnley
+8563,Burton Albion,FA Cup,Burton Albion
+8564,Cambridge United,FA Cup,Cambridge United
+8565,Charlton Athletic,FA Cup,Charlton Athletic
+8566,Chelsea,FA Cup,Chelsea
+8567,Cheltenham Town,FA Cup,Cheltenham Town
+8568,Coventry City,FA Cup,Coventry City
+8569,Crystal Palace,FA Cup,Crystal Palace
+8570,Derby County,FA Cup,Derby County
+8571,Doncaster Rovers,FA Cup,Doncaster Rovers
+8572,Everton,FA Cup,Everton
+8573,Exeter City,FA Cup,Exeter City
+8574,Fleetwood Town,FA Cup,Fleetwood Town
+8575,Fulham,FA Cup,Fulham
+8576,Grimsby Town,FA Cup,Grimsby Town
+8577,Hull City,FA Cup,Hull City
+8578,Ipswich Town,FA Cup,Ipswich Town
+8579,Leeds United,FA Cup,Leeds United
+8580,Leicester City,FA Cup,Leicester City
+8581,Liverpool,FA Cup,Liverpool
+8582,Manchester City,FA Cup,Manchester City
+8583,Manchester United,FA Cup,Manchester United
+8584,Mansfield Town,FA Cup,Mansfield Town
+8585,Middlesbrough,FA Cup,Middlesbrough
+8586,Millwall,FA Cup,Millwall
+8587,Milton Keynes Dons,FA Cup,Milton Keynes Dons
+8588,Newcastle United,FA Cup,Newcastle United
+8589,Norwich City,FA Cup,Norwich City
+8590,Nottingham Forest,FA Cup,Nottingham Forest
+8591,Oxford United,FA Cup,Oxford United
+8592,Port Vale,FA Cup,Port Vale
+8593,Portsmouth,FA Cup,Portsmouth
+8594,Preston North End,FA Cup,Preston North End
+8595,Queens Park Rangers,FA Cup,Queens Park Rangers
+8596,Salford City,FA Cup,Salford City
+8597,Sheffield United,FA Cup,Sheffield United
+8598,Sheffield Wednesday,FA Cup,Sheffield Wednesday
+8599,Shrewsbury Town,FA Cup,Shrewsbury Town
+8600,Southampton,FA Cup,Southampton
+8601,Stoke City,FA Cup,Stoke City
+8602,Sunderland,FA Cup,Sunderland
+8603,Swansea City,FA Cup,Swansea City
+8604,Swindon Town,FA Cup,Swindon Town
+8605,Tottenham Hotspur,FA Cup,Tottenham Hotspur
+8606,Watford,FA Cup,Watford
+8607,West Bromwich Albion,FA Cup,West Bromwich Albion
+8608,West Ham United,FA Cup,West Ham United
+8609,Wigan Athletic,FA Cup,Wigan Athletic
+8610,Wolverhampton Wanderers,FA Cup,Wolverhampton Wanderers
+8611,Algeria,FIFA World Cup,Algeria
+8612,Argentina,FIFA World Cup,Argentina
+8613,Australia,FIFA World Cup,Australia
+8614,Austria,FIFA World Cup,Austria
+8615,Belgium,FIFA World Cup,Belgium
+8616,Bosnia and Herzegovina,FIFA World Cup,Bosnia & Herzegovina
+8617,Brazil,FIFA World Cup,Brazil
+8618,Canada,FIFA World Cup,Canada
+8619,Colombia,FIFA World Cup,Colombia
+8620,Croatia,FIFA World Cup,Croatia
+8621,Ecuador,FIFA World Cup,Ecuador
+8622,Egypt,FIFA World Cup,Egypt
+8623,England,FIFA World Cup,England
+8624,France,FIFA World Cup,France
+8625,Germany,FIFA World Cup,Germany
+8626,Ghana,FIFA World Cup,Ghana
+8627,Haiti,FIFA World Cup,Haiti
+8628,Iran,FIFA World Cup,Iran
+8629,Iraq,FIFA World Cup,Iraq
+8630,Ivory Coast,FIFA World Cup,Ivory Coast
+8631,Japan,FIFA World Cup,Japan
+8632,Jordan,FIFA World Cup,Jordan
+8633,Mexico,FIFA World Cup,Mexico
+8634,Morocco,FIFA World Cup,Morocco
+8635,Netherlands,FIFA World Cup,Netherlands
+8636,New Zealand,FIFA World Cup,New Zealand
+8637,Norway,FIFA World Cup,Norway
+8638,Panama,FIFA World Cup,Panama
+8639,Paraguay,FIFA World Cup,Paraguay
+8640,Portugal,FIFA World Cup,Portugal
+8641,Qatar,FIFA World Cup,Qatar
+8642,Saudi Arabia,FIFA World Cup,Saudi Arabia
+8643,Scotland,FIFA World Cup,Scotland
+8644,Senegal,FIFA World Cup,Senegal
+8645,South Africa,FIFA World Cup,South Africa
+8646,South Korea,FIFA World Cup,South Korea
+8647,Spain,FIFA World Cup,Spain
+8648,Sweden,FIFA World Cup,Sweden
+8649,Switzerland,FIFA World Cup,Switzerland
+8650,Tunisia,FIFA World Cup,Tunisia
+8651,Turkey,FIFA World Cup,Turkey
+8652,Uruguay,FIFA World Cup,Uruguay
+8653,Uzbekistan,FIFA World Cup,Uzbekistan
+8654,Avispa Fukuoka,J League,Avispa Fukuoka
+8655,Cerezo Osaka,J League,Cerezo Osaka
+8656,Machida Zelvia,J League,FC Machida Zelvia
+8657,FC Tokyo,J League,FC Tokyo
+8658,Fagiano Okayama,J League,Fagiano Okayama
+8659,Gamba Osaka,J League,Gamba Osaka
+8660,Kashima Antlers,J League,Kashima Antlers
+8661,Kashiwa Reysol,J League,Kashiwa Reysol
+8662,Kawasaki Frontale,J League,Kawasaki Frontale
+8663,Nagoya Grampus,J League,Nagoya Grampus
+8664,Shimizu S-Pulse,J League,Shimizu S Pulse
+8665,Urawa Red Diamonds,J League,Urawa Red Diamonds
+8666,Vissel Kobe,J League,Vissel Kobe
+8667,Yokohama F. Marinos,J League,Yokohama F Marinos
+8668,Deportivo La Coruña,Spanish LALIGA,Deportivo La Coruña
+8669,Málaga,Spanish LALIGA,Málaga
+8670,Albacete,Segunda División de España,Albacete
+8671,Almería,Segunda División de España,Almería
+8672,Cultural Leonesa,Segunda División de España,Cultural Leonesa
+8673,Córdoba,Segunda División de España,Córdoba
+8674,Deportivo La Coruña,Segunda División de España,Deportivo La Coruña
+8675,Las Palmas,Segunda División de España,Las Palmas
+8676,Leganés,Segunda División de España,Leganés
+8677,Málaga,Segunda División de España,Málaga
+8678,Real Sociedad,Segunda División de España,Real Sociedad B
+8679,Real Valladolid,Segunda División de España,Real Valladolid CF
+8680,Sporting Gijón,Segunda División de España,Sporting Gijón
+8681,Zaragoza,Segunda División de España,Zaragoza
+8682,Leicester City,English League One,Leicester City
+8683,Notts County,English League One,Notts County
+8684,Exeter City,English League Two,Exeter City
+8685,Rotherham United,English League Two,Rotherham United
+8686,York City,English League Two,York City
+8687,América,Liga MX,América
+8688,Atlas,Liga MX,Atlas
+8689,Atlético de San Luis,Liga MX,Atlético San Luis
+8690,Cruz Azul,Liga MX,Cruz Azul
+8691,Guadalajara,Liga MX,Guadalajara
+8692,León,Liga MX,León
+8693,Mazatlán FC,Liga MX,Mazatlán FC
+8694,Monterrey,Liga MX,Monterrey
+8695,Necaxa,Liga MX,Necaxa
+8696,Pachuca,Liga MX,Pachuca
+8697,Puebla,Liga MX,Puebla
+8698,Querétaro,Liga MX,Querétaro
+8699,Tijuana,Liga MX,Tijuana
+8700,Toluca,Liga MX,Toluca
+8701,Boulogne,Ligue 2 - France,Boulogne
+8702,Dijon,Ligue 2 - France,Dijon
+8703,Grenoble,Ligue 2 - France,Grenoble
+8704,Guingamp,Ligue 2 - France,Guingamp
+8705,Metz,Ligue 2 - France,Metz
+8706,Montpellier,Ligue 2 - France,Montpellier
+8707,Nantes,Ligue 2 - France,Nantes
+8708,Saint-Etienne,Ligue 2 - France,Saint Etienne
+8709,Sochaux,Ligue 2 - France,Sochaux
+8710,Stade de Reims,Ligue 2 - France,Stade de Reims
+8711,Troyes,Ligue 2 - France,Troyes
+8712,CF Montréal,MLS,CF Montreal
+8713,CSKA Moscow,Premier League - Russia,CSKA Moscow
+8714,Dinamo Moscow,Premier League - Russia,Dinamo Moscow
+8715,Akron Tolyatti,Premier League - Russia,FC Akron Tolyatti
+8716,FC Baltika Kaliningrad,Premier League - Russia,FC Baltika Kaliningrad
+8717,Dynamo Makhachkala,Premier League - Russia,FC Dynamo Makhachkala
+8718,Fakel Voronezh,Premier League - Russia,FC Fakel Voronezh
+8719,Nizhny Novgorod,Premier League - Russia,FC Nizhny Novgorod
+8720,Gazovik Orenburg,Premier League - Russia,Gazovik Orenburg
+8721,Krylia Sovetov,Premier League - Russia,Kryliya Sovetov
+8722,Lokomotiv Moscow,Premier League - Russia,Lokomotiv Moscow
+8723,Rodina Moscow,Premier League - Russia,Rodina Moscow
+8724,Rubin Kazan,Premier League - Russia,Rubin Kazan
+8725,Spartak Moscow,Premier League - Russia,Spartak Moscow
+8726,Zenit St Petersburg,Premier League - Russia,Zenit St Petersburg
+8727,Partick Thistle,Scottish Premiership,Partick Thistle
+8728,Estudiantes de Río Cuarto,Argentine Liga Profesional de Fútbol,Estudiantes de Río Cuarto
+8729,Gimnasia (Mendoza),Argentine Liga Profesional de Fútbol,Gimnasia Mendoza
+8730,Talleres,Argentine Liga Profesional de Fútbol,Talleres
+8731,Deportes Concepcion,Chilean Primera División,Deportes Concepción
+8732,Universidad de Concepción,Chilean Primera División,Universidad de Concepción
+8733,Hellas Verona,Italian Serie B,Hellas Verona
+8734,Vicenza,Italian Serie B,Vicenza
+8735,Chengdu Rongcheng,Super League - China,Chengdu Rongcheng FC
+8736,Dalian Yingbo,Super League - China,Dalian Yingbo
+8737,Qingdao Hainiu,Super League - China,Qingdao Hainiu FC
+8738,Qingdao West Coast,Super League - China,Qingdao West Coast FC
+8739,Shanghai Shenhua,Super League - China,Shanghai Shenhua FC
+8740,Tianjin Jinmen Tiger,Super League - China,Tianjin Jinmen Tiger FC
+8741,Wuhan Three Towns,Super League - China,Wuhan Three Towns
+8742,Yunnan Yukun,Super League - China,Yunnan Yukun
+8743,IFK Norrköping,Superettan - Sweden,IFK Norrkoping
+8744,IFK Värnamo,Superettan - Sweden,IFK Värnamo
+8745,Landskrona BoIS,Superettan - Sweden,Landskrona BoIS
+8746,Utsiktens BK,Superettan - Sweden,Utsiktens BK
+8747,Östers IF,Superettan - Sweden,Östers IF
+8748,Bodo/Glimt,UEFA Champions League,Bodø/Glimt
+8749,Marseille,UEFA Champions League,Marseille
+8750,Villarreal,UEFA Champions League,Villarreal
+8751,AS Roma,UEFA Champions League Women,AS Roma
+8752,Arsenal,UEFA Champions League Women,Arsenal
+8753,Atlético Madrid,UEFA Champions League Women,Atlético Madrid
+8754,Barcelona,UEFA Champions League Women,Barcelona
+8755,Bayern Munich,UEFA Champions League Women,Bayern Munich
+8756,Benfica,UEFA Champions League Women,Benfica
+8757,Chelsea,UEFA Champions League Women,Chelsea
+8758,Juventus,UEFA Champions League Women,Juventus
+8759,Lyon,UEFA Champions League Women,Lyon
+8760,Manchester United,UEFA Champions League Women,Manchester United
+8761,Paris FC,UEFA Champions League Women,Paris FC
+8762,Paris Saint-Germain,UEFA Champions League Women,Paris Saint Germain
+8763,Real Madrid,UEFA Champions League Women,Real Madrid
+8764,VfL Wolfsburg,UEFA Champions League Women,VfL Wolfsburg
+8765,AEK Athens,UEFA Europa Conference League,AEK Athens
+8766,AEK Larnaca,UEFA Europa Conference League,AEK Larnaca
+8767,AZ Alkmaar,UEFA Europa Conference League,AZ Alkmaar
+8768,Aberdeen,UEFA Europa Conference League,Aberdeen
+8769,BK Häcken,UEFA Europa Conference League,BK Häcken
+8770,Breidablik,UEFA Europa Conference League,Breiðablik
+8771,Crystal Palace,UEFA Europa Conference League,Crystal Palace
+8772,Dynamo Kyiv,UEFA Europa Conference League,Dynamo Kyiv
+8773,FC Noah,UEFA Europa Conference League,FC Noah
+8774,Fiorentina,UEFA Europa Conference League,Fiorentina
+8775,Jagiellonia Bialystok,UEFA Europa Conference League,Jagiellonia Białystok
+8776,KF Shkëndija,UEFA Europa Conference League,KF Shkëndija
+8777,KuPS Kuopio,UEFA Europa Conference League,KuPS Kuopio
+8778,Lech Poznan,UEFA Europa Conference League,Lech Poznań
+8779,Legia Warsaw,UEFA Europa Conference League,Legia Warszawa
+8780,Lincoln Red Imps,UEFA Europa Conference League,Lincoln Red Imps FC
+8781,NK Celje,UEFA Europa Conference League,NK Celje
+8782,Raków Czestochowa,UEFA Europa Conference League,Raków Częstochowa
+8783,Rayo Vallecano,UEFA Europa Conference League,Rayo Vallecano
+8784,Samsunspor,UEFA Europa Conference League,Samsunspor
+8785,Shakhtar Donetsk,UEFA Europa Conference League,Shakhtar Donetsk
+8786,Shamrock Rovers,UEFA Europa Conference League,Shamrock Rovers
+8787,Sigma Olomouc,UEFA Europa Conference League,Sigma Olomouc
+8788,Sparta Prague,UEFA Europa Conference League,Sparta Prague
+8789,Strasbourg,UEFA Europa Conference League,Strasbourg
+8790,Slovan Bratislava,UEFA Europa Conference League,ŠK Slovan Bratislava
+8791,Aston Villa,UEFA Europa League,Aston Villa
+8792,Bologna,UEFA Europa League,Bologna
+8793,Celtic,UEFA Europa League,Celtic
+8794,Dinamo Zagreb,UEFA Europa League,Dinamo Zagreb
+8795,FC Basel,UEFA Europa League,FC Basel
+8796,FC Utrecht,UEFA Europa League,FC Utrecht
+8797,Go Ahead Eagles,UEFA Europa League,Go Ahead Eagles
+8798,Lille,UEFA Europa League,Lille
+8799,Red Star Belgrade,UEFA Europa League,Red Star Belgrade
+8800,SK Brann,UEFA Europa League,SK Brann
+8801,SK Sturm Graz,UEFA Europa League,SK Sturm Graz
+8802,VfB Stuttgart,UEFA Europa League,VfB Stuttgart
+8803,Bodo/Glimt,UEFA Champions League Qualification,Bodø/Glimt
+8804,Dinamo Zagreb,UEFA Champions League Qualification,Dinamo Zagreb
+8805,Ararat-Armenia,UEFA Champions League Qualification,FC Ararat-Armenia
+8806,Borac Banja Luka,UEFA Champions League Qualification,FK Borac Banja Luka
+8807,Fenerbahce,UEFA Champions League Qualification,Fenerbahce
+8808,Floriana FC,UEFA Champions League Qualification,Floriana F.C.
+8809,KuPS Kuopio,UEFA Champions League Qualification,KuPS Kuopio
+8810,Lech Poznan,UEFA Champions League Qualification,Lech Poznań
+8811,Lincoln Red Imps,UEFA Champions League Qualification,Lincoln Red Imps FC
+8812,Lyon,UEFA Champions League Qualification,Lyon
+8813,NK Celje,UEFA Champions League Qualification,NK Celje
+8814,Red Star Belgrade,UEFA Champions League Qualification,Red Star Belgrade
+8815,Riga FC,UEFA Champions League Qualification,Riga FC
+8816,SK Sturm Graz,UEFA Champions League Qualification,SK Sturm Graz
+8817,Sabah FK,UEFA Champions League Qualification,Sabah FK
+8818,Shamrock Rovers,UEFA Champions League Qualification,Shamrock Rovers
+8819,Sparta Prague,UEFA Champions League Qualification,Sparta Prague
+8820,The New Saints,UEFA Champions League Qualification,The New Saints FC
+8821,Slovan Bratislava,UEFA Champions League Qualification,ŠK Slovan Bratislava
