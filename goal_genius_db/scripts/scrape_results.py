@@ -26,8 +26,23 @@ def get_driver():
     service = Service(ChromeDriverManager().install())
     return webdriver.Chrome(service=service, options=options)
 
+def _parse_espn_utc(date_str: str) -> datetime:
+    """Parse ESPN's ISO-8601 UTC event timestamp, e.g. '2026-08-09T22:30Z'."""
+    return datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+
+
 def scrape_day(date: datetime):
-    """Scrape one day of matches from ESPN scoreboard."""
+    """Scrape one day of matches from ESPN scoreboard.
+
+    Reads the event data straight out of ESPN's embedded page state
+    (window['__espnfitt__']) instead of the rendered DOM text. The DOM only
+    exposes a locale-formatted time (e.g. "12:30 AM") with no timezone
+    attached, and ESPN buckets matches into scoreboard "days" using its own
+    internal reference timezone (not Europe/Madrid) -- so a late-night match
+    can render on a date page that no longer matches its real Madrid-local
+    calendar day. The embedded JSON instead carries an unambiguous UTC
+    instant per event, which we convert to Europe/Madrid ourselves.
+    """
     url_date = date.strftime("%Y%m%d")
     url = f"https://www.espn.com/soccer/scoreboard/_/date/{url_date}"
 
@@ -43,73 +58,58 @@ def scrape_day(date: datetime):
     except TimeoutException:
         pass  # genuinely no matches scheduled that day
 
-    sections = driver.find_elements(By.CSS_SELECTOR, "section.Card.gameModules")
+    try:
+        fitt = driver.execute_script("return window['__espnfitt__']")
+        league_groups = fitt["page"]["content"]["scoreboard"]["gmsByLeague"]
+    except Exception:
+        league_groups = []
+
     matches = []
 
-    for sec in sections:
-        try:
-            league = sec.find_element(By.CSS_SELECTOR, "h3.Card__Header__Title").text
-        except:
-            league = None
+    for group in league_groups:
+        league = (group.get("league") or {}).get("name")
 
-        try:
-            teams = [el.text for el in sec.find_elements(By.CSS_SELECTOR, "div.ScoreCell__TeamName")]
-        except:
-            teams = []
-        try:
-            scores = [el.text for el in sec.find_elements(By.CSS_SELECTOR, "div.ScoreCell__Score")]
-        except:
-            scores = []
+        for evt in group.get("evts", []):
+            competitors = evt.get("competitors") or []
+            home = next((c for c in competitors if c.get("isHome")), None)
+            away = next((c for c in competitors if not c.get("isHome")), None)
+            if home is None or away is None:
+                continue  # incomplete event (e.g. a bye), nothing usable to store
 
-        try:
-            time_elems = sec.find_elements(By.CSS_SELECTOR, "div.ScoreCell__Time")
-        except:
-            time_elems = []
+            status = evt.get("status") or {}
+            state = status.get("state")  # 'pre' | 'in' | 'post'
+            detail = (status.get("detail") or status.get("description") or "").lower()
 
-        for i in range(0, len(teams), 2):
-            status_text = time_elems[i // 2].text if i // 2 < len(time_elems) else ""
-
-            # Determine match_status and date_time
-            if status_text == "FT" or status_text == "FT-Pens":
-                match_status = "Full Time"
-                dt_cet = datetime.strptime(f"{date.date()} 00:00", "%Y-%m-%d %H:%M").replace(
-                    tzinfo=ZoneInfo("Europe/Madrid")
-                )
-            elif status_text.lower() == "postponed":
+            if "postpon" in detail:
                 match_status = "Postponed"
-                dt_cet = datetime.strptime(f"{date.date()} 00:00", "%Y-%m-%d %H:%M").replace(
-                    tzinfo=ZoneInfo("Europe/Madrid")
-                )
-            elif status_text.lower() == "canceled":
+            elif "cancel" in detail:
                 match_status = "Canceled"
-                dt_cet = datetime.strptime(f"{date.date()} 00:00", "%Y-%m-%d %H:%M").replace(
-                    tzinfo=ZoneInfo("Europe/Madrid")
-                )
-            elif date.date() >= datetime.now().date():
+            elif state == "post":
+                match_status = "Full Time"
+            elif state == "pre":
                 match_status = "Upcoming"
-                try:
-                    dt_cet = datetime.strptime(f"{date.date()} {status_text}", "%Y-%m-%d %I:%M %p").replace(
-                        tzinfo=ZoneInfo("Europe/Madrid")
-                    )
-                except:
-                    dt_cet = datetime.strptime(f"{date.date()} 00:00", "%Y-%m-%d %H:%M").replace(
-                        tzinfo=ZoneInfo("Europe/Madrid")
-                    )
             else:
                 match_status = "Other"
+
+            date_str = evt.get("date")
+            if date_str:
+                dt_cet = _parse_espn_utc(date_str).astimezone(ZoneInfo("Europe/Madrid"))
+            else:
                 dt_cet = datetime.strptime(f"{date.date()} 00:00", "%Y-%m-%d %H:%M").replace(
                     tzinfo=ZoneInfo("Europe/Madrid")
                 )
 
-        # group into matches (home, away)
-        for i in range(0, len(teams), 2):
+            def _goals(competitor):
+                score = competitor.get("score")
+                return int(score) if score is not None and str(score).isdigit() else None
+
             match = {
                 "league": league,
                 "date_time": dt_cet,
-                "home": teams[i],
-                "away": teams[i+1] if i+1 < len(teams) else None,
-                "goals_home": int(scores[i]) if i < len(scores) and scores[i].isdigit() else None,
-                "goals_away": int(scores[i+1]) if i+1 < len(scores) and scores[i+1].isdigit() else None,
+                "home": home.get("displayName"),
+                "away": away.get("displayName"),
+                "goals_home": _goals(home),
+                "goals_away": _goals(away),
                 "match_status": match_status,
             }
             matches.append(match)

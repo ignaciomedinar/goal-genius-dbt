@@ -35,11 +35,16 @@ new_teams as (
     on all_teams.league = dl.league_name
 ),
 
--- Find only teams not already in the dimension
+-- Find only (team, league) pairs not already in the dimension. A team can
+-- legitimately appear in more than one league (promotion/relegation, cups),
+-- so identity must include league_id -- matching on team_name alone would
+-- silently skip every league after the first one a team was ever seen in.
 new_only as (
     select n.*
     from new_teams n
-    left join existing e on n.team_name = e.team_name
+    left join existing e
+      on n.team_name = e.team_name
+     and n.league_id = e.league_id
     where e.team_id is null
 ),
 

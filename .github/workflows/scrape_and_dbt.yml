@@ -8,6 +8,10 @@ on:
     - cron: "30 7 * * 6"    # Saturday  07:30 UTC → 09:30 CET
   workflow_dispatch:         # allow manual trigger from GitHub UI
 
+permissions:
+  contents: write            # needed to push updated seed CSVs back to main
+  issues: write               # needed to open/update the pending-mappings issue
+
 jobs:
   scrape-and-run:
     runs-on: ubuntu-latest
@@ -49,6 +53,35 @@ jobs:
         run: python goal_genius_db/scripts/scrape_results.py
         env:
           PG_URL: ${{ secrets.PG_URL }}
+
+      - name: Update league/team seed mappings
+        run: python goal_genius_db/scripts/update_seed_mappings.py
+        env:
+          PG_URL: ${{ secrets.PG_URL }}
+
+      - name: Commit updated seed mappings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add goal_genius_db/seeds/leagues.csv goal_genius_db/seeds/team_names.csv
+          if git diff --cached --quiet; then
+            echo "No seed changes to commit"
+          else
+            git commit -m "chore: update league/team seed mappings from ESPN scrape"
+            git push
+          fi
+
+      - name: Open or update pending-mappings issue
+        if: hashFiles('goal_genius_db/pending_mappings.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          NUM=$(gh issue list --repo "$GITHUB_REPOSITORY" --search "Pending league/team mappings in:title" --state open --json number --jq '.[0].number')
+          if [ -n "$NUM" ]; then
+            gh issue edit "$NUM" --repo "$GITHUB_REPOSITORY" --body-file goal_genius_db/pending_mappings.md
+          else
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "Pending league/team mappings" --body-file goal_genius_db/pending_mappings.md
+          fi
 
       - name: Install dbt packages
         working-directory: goal_genius_db

@@ -48,3 +48,5 @@ on case
         when sr.goals_home = sr.goals_away then 'draw'
         else null
     end = db.bet_name
+where dth.team_id is not null
+  and dta.team_id is not null
