@@ -991,7 +991,7 @@
 970,Belgium,Women's International Friendly,
 974,Belgium,UEFA Women's European Championship,
 975,Belgium,Arnold Clark Cup,
-973,Belgium,UEFA Nations League,
+973,Belgium,UEFA Nations League,Belgium
 972,Belgium,UEFA Women's Nations League,
 979,Belgium U21,Under-21 International Friendly,
 980,Belgium U21,UEFA European Under-21 Championship,
@@ -2062,7 +2062,7 @@
 2037,Croatia,FIFA World Cup Qualifying - UEFA,Croatia
 2034,Croatia,International Friendly,
 2039,Croatia,UEFA Women's Nations League,
-2035,Croatia,UEFA Nations League,
+2035,Croatia,UEFA Nations League,Croatia
 2038,Croatia,Women's International Friendly,
 2033,Croatia,UEFA European Championship,
 2036,Croatia,UEFA European Championship Qualifying,
@@ -2225,7 +2225,7 @@
 2194,Denmark,Women's International Friendly,
 2192,Denmark,UEFA Women's European Championship,
 2189,Denmark,UEFA European Championship,
-2197,Denmark,UEFA Nations League,
+2197,Denmark,UEFA Nations League,Denmark
 2198,Denmark,French Tournoi de France,
 2195,Denmark,FIFA World Cup Qualifying - UEFA,Denmark
 2196,Denmark,UEFA European Championship Qualifying,
@@ -2596,7 +2596,7 @@
 2561,England,FIFA World Cup Qualifying - UEFA,
 2568,England,UEFA Women's Nations League,
 2563,England,Women's International Friendly,
-2562,England,UEFA Nations League,
+2562,England,UEFA Nations League,England
 2559,England,International Friendly,
 2570,England U17,FIFA Under-17 Women's World Cup,
 2571,England U17,FIFA Under-17 World Cup,
@@ -3110,7 +3110,7 @@
 3081,France,Women's Olympic Soccer Tournament,
 3077,France,FIFA Women's World Cup,
 3082,France,UEFA European Championship Qualifying,
-3076,France,UEFA Nations League,
+3076,France,UEFA Nations League,France
 3079,France,French Tournoi de France,
 3074,France,UEFA European Championship,
 3075,France,UEFA Women's European Championship,
@@ -3224,7 +3224,7 @@
 3194,Germany,FIFA Women's World Cup,
 3197,Germany,FIFA World Cup Qualifying - UEFA,Germany
 3193,Germany,International Friendly,
-3196,Germany,UEFA Nations League,
+3196,Germany,UEFA Nations League,Germany
 3195,Germany,UEFA Women's Nations League,
 3191,Germany,Women's Olympic Soccer Tournament,
 3189,Germany,UEFA European Championship,
@@ -3883,7 +3883,7 @@
 3843,Italy,UEFA European Championship Qualifying,
 3845,Italy,FIFA Women's World Cup,
 3844,Italy,FIFA World Cup Qualifying - UEFA,Italy
-3836,Italy,UEFA Nations League,
+3836,Italy,UEFA Nations League,Italy
 3842,Italy,UEFA European Championship,
 3846,Italy U19,UEFA European Under-19 Championship,
 3847,Italy U20,FIFA Under-20 World Cup,
@@ -5195,7 +5195,7 @@
 5144,NEROCA FC,Indian I-League,
 5153,Netherlands,International Friendly,
 5146,Netherlands,UEFA Women's Nations League,
-5151,Netherlands,UEFA Nations League,
+5151,Netherlands,UEFA Nations League,Netherlands
 5147,Netherlands,Women's International Friendly,
 5152,Netherlands,UEFA European Championship,
 5149,Netherlands,UEFA Women's European Championship,
@@ -5402,7 +5402,7 @@
 5354,Norway,UEFA Women's European Championship,
 5355,Norway,FIFA World Cup Qualifying - UEFA,
 5349,Norway,UEFA European Championship Qualifying,
-5352,Norway,UEFA Nations League,
+5352,Norway,UEFA Nations League,Norway
 5348,Norway,Women's International Friendly,
 5356,Norway,FIFA Women's World Cup,
 5357,Norway U19,UEFA European Under-19 Championship,
@@ -5950,7 +5950,7 @@
 5886,Portugal,UEFA European Championship,
 5890,Portugal,FIFA Women's World Cup,
 5894,Portugal,International Friendly,
-5893,Portugal,UEFA Nations League,
+5893,Portugal,UEFA Nations League,Portugal
 5895,Portugal U19,UEFA European Under-19 Championship,
 5897,Portugal U21,UEFA European Under-21 Championship Qualifying,
 5896,Portugal U21,Under-21 International Friendly,
@@ -7020,7 +7020,7 @@
 6959,Spain,UEFA Women's Nations League,
 6966,Spain,UEFA European Championship,
 6964,Spain,UEFA European Championship Qualifying,
-6961,Spain,UEFA Nations League,
+6961,Spain,UEFA Nations League,Spain
 6963,Spain,UEFA Women's European Championship,
 6967,Spain,Women's International Friendly,
 6968,Spain,International Friendly,
@@ -7648,7 +7648,7 @@
 7582,Tuntum,Copa do Brasil,
 7583,Turégano,Spanish Copa del Rey,
 7584,Turkey,UEFA Women's Nations League,
-7585,Turkey,UEFA Nations League,
+7585,Turkey,UEFA Nations League,Turkey
 7587,Turkey,International Friendly,
 7589,Turkey,Women's International Friendly,
 7590,Turkey,UEFA European Championship Qualifying,
@@ -8122,7 +8122,7 @@
 8051,Wake Forest,NCAA Men's Soccer,
 8053,Wakiso Giants,Ugandan Premier League,
 8055,Wales,International Friendly,
-8057,Wales,UEFA Nations League,
+8057,Wales,UEFA Nations League,Wales
 8054,Wales,FIFA World Cup Qualifying - UEFA,Wales
 8056,Wales,UEFA Women's European Championship,
 8060,Wales,Women's International Friendly,
@@ -8852,3 +8852,14 @@
 8822,Celta Vigo,Segunda División de España,Celta Vigo
 8823,Mallorca,Segunda División de España,Mallorca
 8824,Tenerife,Segunda División de España,Tenerife
+8825,Coventry City,EFL Cup,Coventry City
+8826,Everton,EFL Cup,Everton
+8827,Hull City,EFL Cup,Hull City
+8828,Ipswich Town,EFL Cup,Ipswich Town
+8829,Leeds United,EFL Cup,Leeds United
+8830,Nottingham Forest,EFL Cup,Nottingham Forest
+8831,Tottenham Hotspur,EFL Cup,Tottenham Hotspur
+8832,Watford,EFL Cup,Watford
+8833,AEK Athens,UEFA Champions League Qualification,AEK Athens
+8834,Celtic,UEFA Champions League Qualification,Celtic
+8835,Viking FK,UEFA Champions League Qualification,Viking FK
