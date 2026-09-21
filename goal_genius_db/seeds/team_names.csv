@@ -2739,7 +2739,7 @@
 2700,Faroe Islands,International Friendly,
 2698,Faroe Islands,UEFA Women's Nations League,
 2697,Faroe Islands,UEFA European Championship Qualifying,
-2701,Faroe Islands,UEFA Nations League,
+2701,Faroe Islands,UEFA Nations League,Faroe Islands
 2702,Faroe Islands U21,UEFA European Under-21 Championship Qualifying,
 2707,Fatih Karagümrük,Turkish Super Lig,Fatih Karagümrük
 2706,Fatih Karagümrük,Club Friendly,
@@ -4066,7 +4066,7 @@
 4023,Kayserispor,Turkish Super Lig,Kayserispor
 4026,Kazakhstan,International Friendly,
 4027,Kazakhstan,FIFA World Cup Qualifying - UEFA,Kazakhstan
-4028,Kazakhstan,UEFA Nations League,
+4028,Kazakhstan,UEFA Nations League,Kazakhstan
 4025,Kazakhstan,UEFA Women's Nations League,
 4024,Kazakhstan,UEFA European Championship Qualifying,
 4029,Kazakhstan U21,Under-21 International Friendly,
@@ -8899,3 +8899,8 @@
 8869,Brighton & Hove Albion,UEFA Europa Conference League,Brighton and Hove Albion
 8870,Borac Banja Luka,UEFA Europa Conference League,FK Borac Banja Luka
 8871,Riga FC,UEFA Europa Conference League,Riga FC
+8872,1. FC Magdeburg,DFB-Pokal,1. FC Magdeburg
+8873,Dynamo Dresden,DFB-Pokal,Dynamo Dresden
+8874,Hannover 96,DFB-Pokal,Hannover 96
+8875,Holstein Kiel,DFB-Pokal,Holstein Kiel
+8876,Manchester City,UEFA Champions League Women,Manchester City
